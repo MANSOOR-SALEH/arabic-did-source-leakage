@@ -1,0 +1,1226 @@
+clip_id,speaker,dialect,show_name,duration
+6k_SBA_114_2-seg_385_820-388_927,batch_1/6k_SBA_114_2.wav:Speaker1متحدث,SADA_HIJ,الديرة نت,3.1067361964229576
+6k_SBA_114_2-seg_206_390-208_450,batch_1/6k_SBA_114_2.wav:Speaker1متحدث,SADA_HIJ,الديرة نت,2.059999999999945
+6k_SBA_114_2-seg_223_530-225_830,batch_1/6k_SBA_114_2.wav:Speaker1متحدث,SADA_HIJ,الديرة نت,2.300000000000182
+6k_SBA_114_2-seg_271_480-273_750,batch_1/6k_SBA_114_2.wav:Speaker1متحدث,SADA_HIJ,الديرة نت,2.269999999999982
+6k_SBA_115_1-seg_68_740-71_130,batch_1/6k_SBA_115_1.wav:Speaker3متحدث,SADA_HIJ,الديرة نت,2.3900000000001
+6k_SBA_115_1-seg_104_099-107_747,batch_1/6k_SBA_115_1.wav:Speaker3متحدث,SADA_HIJ,الديرة نت,3.647248628700552
+6k_SBA_115_1-seg_107_783-111_850,batch_1/6k_SBA_115_1.wav:Speaker3متحدث,SADA_HIJ,الديرة نت,4.067224475464656
+6k_SBA_115_1-seg_86_960-89_470,batch_1/6k_SBA_115_1.wav:Speaker3متحدث,SADA_HIJ,الديرة نت,2.509999999999991
+6k_SBA_126_0-seg_583_530-585_970,batch_1/6k_SBA_126_0.wav:Speaker1متحدث,SADA_HIJ,الديرة نت,2.4400000000000546
+6k_SBA_126_0-seg_217_510-219_850,batch_1/6k_SBA_126_0.wav:Speaker1متحدث,SADA_HIJ,الديرة نت,2.3400000000000034
+6k_SBA_126_0-seg_586_870-589_550,batch_1/6k_SBA_126_0.wav:Speaker1متحدث,SADA_HIJ,الديرة نت,2.67999999999995
+6k_SBA_126_0-seg_132_090-134_320,batch_1/6k_SBA_126_0.wav:Speaker1متحدث,SADA_HIJ,الديرة نت,2.2299999999999898
+6k_SHTV_49_0-seg_287_120-289_920,batch_1/6k_SHTV_49_0.wav:Speaker1متحدث,SADA_HIJ,خزنة,2.8000487499999736
+6k_SHTV_49_0-seg_553_919-556_100,batch_1/6k_SHTV_49_0.wav:Speaker1متحدث,SADA_HIJ,خزنة,2.1807708333334404
+6k_SHTV_49_0-seg_263_064-267_602,batch_1/6k_SHTV_49_0.wav:Speaker1متحدث,SADA_HIJ,خزنة,4.538452083333311
+6k_SHTV_49_0-seg_270_626-272_933,batch_1/6k_SHTV_49_0.wav:Speaker1متحدث,SADA_HIJ,خزنة,2.3076875000000427
+6k_SHTV_69_2-seg_137_150-142_052,batch_1/6k_SHTV_69_2.wav:Speaker3متحدث,SADA_HIJ,خزنة,4.901996655719927
+6k_SHTV_69_2-seg_83_627-88_278,batch_1/6k_SHTV_69_2.wav:Speaker3متحدث,SADA_HIJ,خزنة,4.650892579586241
+6k_SHTV_69_2-seg_46_504-49_163,batch_1/6k_SHTV_69_2.wav:Speaker3متحدث,SADA_HIJ,خزنة,2.6591015939624327
+6k_SHTV_69_2-seg_90_483-98_440,batch_1/6k_SHTV_69_2.wav:Speaker3متحدث,SADA_HIJ,خزنة,7.957276252367052
+6k_v2ms_SBA3_2573_2-seg_121_130-124_580,batch_1/6k_v2ms_SBA3_2573_2.wav:Speaker2متحدث,SADA_HIJ,المول,3.450000000000045
+6k_v2ms_SBA3_2573_2-seg_181_940-187_680,batch_1/6k_v2ms_SBA3_2573_2.wav:Speaker2متحدث,SADA_HIJ,المول,5.740000000000009
+6k_v2ms_SBA3_2573_2-seg_221_480-230_680,batch_1/6k_v2ms_SBA3_2573_2.wav:Speaker1متحدث,SADA_HIJ,المول,9.200000000000044
+6k_v2ms_SBA3_2573_2-seg_523_430-527_340,batch_1/6k_v2ms_SBA3_2573_2.wav:Speaker1متحدث,SADA_HIJ,المول,3.910000000000082
+6k_v2ms_SBA3_2573_2-seg_497_170-499_580,batch_1/6k_v2ms_SBA3_2573_2.wav:Speaker1متحدث,SADA_HIJ,المول,2.410000000000082
+6k_v2ms_SBA3_2573_2-seg_82_170-88_790,batch_1/6k_v2ms_SBA3_2573_2.wav:Speaker1متحدث,SADA_HIJ,المول,6.619998107581765
+6k_v2ms_SBA3_2573_2-seg_234_700-246_590,batch_1/6k_v2ms_SBA3_2573_2.wav:Speaker1متحدث,SADA_HIJ,المول,11.8900000000001
+6k_v2ms_SBA3_2573_2-seg_157_810-165_480,batch_1/6k_v2ms_SBA3_2573_2.wav:Speaker2متحدث,SADA_HIJ,المول,7.669999999999845
+6k_v2ms_SBA3_2573_2-seg_201_930-205_580,batch_1/6k_v2ms_SBA3_2573_2.wav:Speaker1متحدث,SADA_HIJ,المول,3.650000000000091
+6k_v2ms_SBA3_2573_2-seg_445_740-459_900,batch_1/6k_v2ms_SBA3_2573_2.wav:Speaker2متحدث,SADA_HIJ,المول,14.160000000000082
+6k_v2ms_SBA_1453_segmented_0-seg_144_740-149_410,batch_1/6k_v2ms_SBA_1453_segmented_0.wav:Speaker1متحدث,SADA_HIJ,عندما تغيب الحقيقة,4.669999999999988
+6k_v2ms_SBA_1453_segmented_0-seg_534_850-537_400,batch_1/6k_v2ms_SBA_1453_segmented_0.wav:Speaker1متحدث,SADA_HIJ,عندما تغيب الحقيقة,2.5499999999999545
+6k_v2ms_SBA_1453_segmented_0-seg_205_850-208_650,batch_1/6k_v2ms_SBA_1453_segmented_0.wav:Speaker1متحدث,SADA_HIJ,عندما تغيب الحقيقة,2.800000000000012
+6k_v2ms_SBA_1453_segmented_0-seg_385_500-390_900,batch_1/6k_v2ms_SBA_1453_segmented_0.wav:Speaker1متحدث,SADA_HIJ,عندما تغيب الحقيقة,5.399999999999977
+6k_v2ms_SBA_1453_segmented_0-seg_500_570-503_790,batch_1/6k_v2ms_SBA_1453_segmented_0.wav:Speaker1متحدث,SADA_HIJ,عندما تغيب الحقيقة,3.220000000000028
+6k_v2ms_SBA_1453_segmented_0-seg_115_360-119_910,batch_1/6k_v2ms_SBA_1453_segmented_0.wav:Speaker1متحدث,SADA_HIJ,عندما تغيب الحقيقة,4.549999999999997
+6k_v2ms_SBA_154_segmented_0-seg_221_340-230_010,batch_1/6k_v2ms_SBA_154_segmented_0.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,8.669999999999987
+6k_v2ms_SBA_154_segmented_0-seg_230_720-237_750,batch_1/6k_v2ms_SBA_154_segmented_0.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,7.030000000000001
+6k_v2ms_SBA_154_segmented_0-seg_408_100-418_300,batch_1/6k_v2ms_SBA_154_segmented_0.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,10.199999999999989
+6k_v2ms_SBA_154_segmented_0-seg_390_870-394_420,batch_1/6k_v2ms_SBA_154_segmented_0.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,3.550000000000012
+6k_v_SBA3_2636_0-seg_289_380-293_070,batch_2/6k_v_SBA3_2636_0.wav:Speaker1متحدث,SADA_HIJ,العبقري الصغير,3.6899999999999977
+6k_v_SBA3_2636_0-seg_406_310-409_070,batch_2/6k_v_SBA3_2636_0.wav:Speaker1متحدث,SADA_HIJ,العبقري الصغير,2.7599999999999905
+6k_v_SBA3_2636_0-seg_540_610-549_450,batch_2/6k_v_SBA3_2636_0.wav:Speaker1متحدث,SADA_HIJ,العبقري الصغير,8.840000000000032
+6k_v_SBA3_2636_0-seg_270_890-274_400,batch_2/6k_v_SBA3_2636_0.wav:Speaker1متحدث,SADA_HIJ,العبقري الصغير,3.509999999999991
+6k_v_SBA3_2636_0-seg_376_460-381_230,batch_2/6k_v_SBA3_2636_0.wav:Speaker1متحدث,SADA_HIJ,العبقري الصغير,4.77000000000004
+6k_v_SBA3_2785_3-seg_214_056-222_330,batch_2/6k_v_SBA3_2785_3.wav:Speaker2متحدث,SADA_HIJ,برنامج امسيات صيفية,8.274338906657988
+6k_v_SBA3_2785_3-seg_100_190-110_646,batch_2/6k_v_SBA3_2785_3.wav:Speaker2متحدث,SADA_HIJ,برنامج امسيات صيفية,10.456495007333343
+6k_v_SBA3_2785_3-seg_222_410-230_157,batch_2/6k_v_SBA3_2785_3.wav:Speaker2متحدث,SADA_HIJ,برنامج امسيات صيفية,7.747107848153064
+6k_v_SBA3_2785_3-seg_517_450-520_610,batch_2/6k_v_SBA3_2785_3.wav:Speaker2متحدث,SADA_HIJ,برنامج امسيات صيفية,3.1598939750700765
+6k_v_SBA3_2785_3-seg_547_330-549_909,batch_2/6k_v_SBA3_2785_3.wav:Speaker2متحدث,SADA_HIJ,برنامج امسيات صيفية,2.578665340228895
+6k_v_SBA3_2785_3-seg_318_360-325_825,batch_2/6k_v_SBA3_2785_3.wav:Speaker2متحدث,SADA_HIJ,برنامج امسيات صيفية,7.465429103785482
+6k_v_SBA3_2785_3-seg_446_821-450_271,batch_2/6k_v_SBA3_2785_3.wav:Speaker2متحدث,SADA_HIJ,برنامج امسيات صيفية,3.449912187915686
+6k_v_SBA3_2785_3-seg_88_770-99_390,batch_2/6k_v_SBA3_2785_3.wav:Speaker2متحدث,SADA_HIJ,برنامج امسيات صيفية,10.620000000000118
+6k_v_SBA3_2785_3-seg_472_890-475_560,batch_2/6k_v_SBA3_2785_3.wav:Speaker2متحدث,SADA_HIJ,برنامج امسيات صيفية,2.6700025452777822
+6k_v_SBA_1054_0-seg_404_883-408_468,batch_2/6k_v_SBA_1054_0.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,3.5858354797795755
+6k_v_SBA_1054_0-seg_563_450-568_400,batch_2/6k_v_SBA_1054_0.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,4.949999999999932
+6k_v_SBA_1054_0-seg_261_557-264_873,batch_2/6k_v_SBA_1054_0.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,3.3167586633925907
+6k_v_SBA_1054_0-seg_294_507-301_241,batch_2/6k_v_SBA_1054_0.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,6.733520100555836
+6k_v_SBA_1054_0-seg_257_073-260_106,batch_2/6k_v_SBA_1054_0.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,3.0334174710424686
+6k_v_SBA_1054_0-seg_377_856-382_713,batch_2/6k_v_SBA_1054_0.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,4.857307024402644
+6k_v_SBA_1054_0-seg_463_323-468_530,batch_2/6k_v_SBA_1054_0.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,5.207033251354687
+6k_v_SBA_1054_0-seg_453_580-459_050,batch_2/6k_v_SBA_1054_0.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,5.470000000000027
+6k_v_SBA_1054_0-seg_312_519-318_536,batch_2/6k_v_SBA_1054_0.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,6.016833555199582
+6k_v_SBA_1054_0-seg_233_730-238_900,batch_2/6k_v_SBA_1054_0.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,5.170000000000016
+6k_v_SBA_1054_0-seg_286_891-290_374,batch_2/6k_v_SBA_1054_0.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,3.483429953010329
+6k_v_SBA_1054_0-seg_475_454-477_780,batch_2/6k_v_SBA_1054_0.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,2.32575876686542
+6k_v_SBA_1054_0-seg_250_350-256_397,batch_2/6k_v_SBA_1054_0.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,6.0467586633925805
+6k_v_SBA_1101_2-seg_125_580-135_160,batch_3/6k_v_SBA_1101_2.wav:Speaker3متحدث,SADA_HIJ,حكايات بابا فرحان,9.579999999999927
+6k_v_SBA_1101_2-seg_159_700-162_150,batch_3/6k_v_SBA_1101_2.wav:Speaker3متحدث,SADA_HIJ,حكايات بابا فرحان,2.450000000000045
+6k_v_SBA_1101_2-seg_440_670-444_320,batch_3/6k_v_SBA_1101_2.wav:Speaker3متحدث,SADA_HIJ,حكايات بابا فرحان,3.650000000000091
+6k_v_SBA_1101_2-seg_451_120-455_630,batch_3/6k_v_SBA_1101_2.wav:Speaker3متحدث,SADA_HIJ,حكايات بابا فرحان,4.509999999999991
+6k_v_SBA_110_1-seg_374_320-382_810,batch_3/6k_v_SBA_110_1.wav:Speaker4متحدث,SADA_HIJ,طاش ما طاش,8.490117664172658
+6k_v_SBA_110_1-seg_121_990-124_266,batch_3/6k_v_SBA_110_1.wav:Speaker4متحدث,SADA_HIJ,طاش ما طاش,2.2757169111748823
+6k_v_SBA_110_1-seg_446_400-453_930,batch_3/6k_v_SBA_110_1.wav:Speaker4متحدث,SADA_HIJ,طاش ما طاش,7.5300000000002
+6k_v_SBA_110_1-seg_522_750-528_690,batch_3/6k_v_SBA_110_1.wav:Speaker4متحدث,SADA_HIJ,طاش ما طاش,5.939991362757723
+6k_v_SBA_110_1-seg_357_490-366_596,batch_3/6k_v_SBA_110_1.wav:Speaker4متحدث,SADA_HIJ,طاش ما طاش,9.105723428275724
+6k_v_SBA_1174_0-seg_417_860-420_150,batch_3/6k_v_SBA_1174_0.wav:Speaker3متحدث,SADA_HIJ,طاش ما طاش,2.289999999999964
+6k_v_SBA_1174_0-seg_590_410-594_846,batch_3/6k_v_SBA_1174_0.wav:Speaker3متحدث,SADA_HIJ,طاش ما طاش,4.436363258038909
+6k_v_SBA_1174_0-seg_569_290-572_600,batch_3/6k_v_SBA_1174_0.wav:Speaker3متحدث,SADA_HIJ,طاش ما طاش,3.3100000000000582
+6k_v_SBA_1174_0-seg_352_060-355_542,batch_3/6k_v_SBA_1174_0.wav:Speaker3متحدث,SADA_HIJ,طاش ما طاش,3.4818180737253783
+6k_v_SBA_1174_0-seg_172_050-176_560,batch_3/6k_v_SBA_1174_0.wav:Speaker3متحدث,SADA_HIJ,طاش ما طاش,4.509999999999991
+6k_v_SBA_1176_1-seg_78_580-87_840,batch_3/6k_v_SBA_1176_1.wav:Speaker1متحدث,SADA_HIJ,قصر فوق الرمال,9.259999999999993
+6k_v_SBA_1176_1-seg_262_550-265_190,batch_3/6k_v_SBA_1176_1.wav:Speaker1متحدث,SADA_HIJ,قصر فوق الرمال,2.6399999999999864
+6k_v_SBA_1176_1-seg_161_610-164_020,batch_3/6k_v_SBA_1176_1.wav:Speaker1متحدث,SADA_HIJ,قصر فوق الرمال,2.4099999999999686
+6k_v_SBA_1176_1-seg_333_040-336_160,batch_3/6k_v_SBA_1176_1.wav:Speaker1متحدث,SADA_HIJ,قصر فوق الرمال,3.1200000000000045
+6k_v_SBA_1176_2-seg_326_410-328_480,batch_3/6k_v_SBA_1176_2.wav:Speaker1متحدث,SADA_HIJ,قصر فوق الرمال,2.0699999999999363
+6k_v_SBA_1176_2-seg_363_690-366_180,batch_3/6k_v_SBA_1176_2.wav:Speaker1متحدث,SADA_HIJ,قصر فوق الرمال,2.490000000000009
+6k_v_SBA_1176_2-seg_312_640-318_830,batch_3/6k_v_SBA_1176_2.wav:Speaker1متحدث,SADA_HIJ,قصر فوق الرمال,6.190000000000055
+6k_v_SBA_1176_2-seg_50_930-53_500,batch_3/6k_v_SBA_1176_2.wav:Speaker1متحدث,SADA_HIJ,قصر فوق الرمال,2.5699999999999363
+6k_v_SBA_1180_1-seg_384_800-388_220,batch_3/6k_v_SBA_1180_1.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,3.4200000000000728
+6k_v_SBA_1180_1-seg_247_510-249_590,batch_3/6k_v_SBA_1180_1.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,2.080000000000041
+6k_v_SBA_1180_1-seg_319_470-334_040,batch_3/6k_v_SBA_1180_1.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,14.569999999999936
+6k_v_SBA_1180_1-seg_304_190-310_720,batch_3/6k_v_SBA_1180_1.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,6.5300000000000855
+6k_v_SBA_1180_1-seg_366_280-368_650,batch_3/6k_v_SBA_1180_1.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,2.3700000000000045
+6k_v_SBA_1180_1-seg_232_890-243_270,batch_3/6k_v_SBA_1180_1.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,10.379999999999995
+6k_v_SBA_1180_2-seg_241_240-245_410,batch_3/6k_v_SBA_1180_2.wav:Speaker4متحدث,SADA_HIJ,حكايات بابا فرحان,4.170000000000073
+6k_v_SBA_1180_2-seg_275_550-281_530,batch_3/6k_v_SBA_1180_2.wav:Speaker4متحدث,SADA_HIJ,حكايات بابا فرحان,5.980000000000018
+6k_v_SBA_1180_2-seg_434_820-437_930,batch_3/6k_v_SBA_1180_2.wav:Speaker4متحدث,SADA_HIJ,حكايات بابا فرحان,3.1099999999999
+6k_v_SBA_1180_2-seg_269_680-272_120,batch_3/6k_v_SBA_1180_2.wav:Speaker4متحدث,SADA_HIJ,حكايات بابا فرحان,2.4400000000000546
+6k_v_SBA_1217_2-seg_184_234-186_447,batch_3/6k_v_SBA_1217_2.wav:Speaker3متحدث,SADA_HIJ,حكايات بابا فرحان,2.21246698912023
+6k_v_SBA_1217_2-seg_201_183-208_916,batch_3/6k_v_SBA_1217_2.wav:Speaker3متحدث,SADA_HIJ,حكايات بابا فرحان,7.733222019622417
+6k_v_SBA_1217_2-seg_126_490-131_680,batch_3/6k_v_SBA_1217_2.wav:Speaker3متحدث,SADA_HIJ,حكايات بابا فرحان,5.190032824377667
+6k_v_SBA_1217_2-seg_75_585-80_385,batch_3/6k_v_SBA_1217_2.wav:Speaker3متحدث,SADA_HIJ,حكايات بابا فرحان,4.7999283831761375
+6k_v_SBA_1243_0-seg_303_430-305_860,batch_3/6k_v_SBA_1243_0.wav:Speaker3متحدث,SADA_HIJ,حكايات بابا فرحان,2.430000000000007
+6k_v_SBA_1243_0-seg_369_044-372_150,batch_3/6k_v_SBA_1243_0.wav:Speaker3متحدث,SADA_HIJ,حكايات بابا فرحان,3.1057215810878915
+6k_v_SBA_1243_0-seg_391_379-393_779,batch_3/6k_v_SBA_1243_0.wav:Speaker3متحدث,SADA_HIJ,حكايات بابا فرحان,2.399669954245041
+6k_v_SBA_1243_0-seg_319_619-322_629,batch_3/6k_v_SBA_1243_0.wav:Speaker3متحدث,SADA_HIJ,حكايات بابا فرحان,3.0099229331909214
+6k_v_SBA_1243_1-seg_503_140-505_620,batch_3/6k_v_SBA_1243_1.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,2.480000000000018
+6k_v_SBA_1243_1-seg_513_170-520_180,batch_3/6k_v_SBA_1243_1.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,7.009999999999992
+6k_v_SBA_1243_1-seg_293_080-297_670,batch_3/6k_v_SBA_1243_1.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,4.590000000000032
+6k_v_SBA_1243_1-seg_283_010-286_150,batch_3/6k_v_SBA_1243_1.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,3.1400000000001
+6k_v_SBA_1263_1-seg_319_350-332_180,batch_3/6k_v_SBA_1263_1.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,12.83000000000004
+6k_v_SBA_1263_1-seg_102_920-117_660,batch_3/6k_v_SBA_1263_1.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,14.740000000000007
+6k_v_SBA_1263_1-seg_357_510-359_647,batch_3/6k_v_SBA_1263_1.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,2.136777643530479
+6k_v_SBA_1263_1-seg_495_690-505_890,batch_3/6k_v_SBA_1263_1.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,10.199999999999818
+6k_v_SBA_1263_1-seg_378_740-382_080,batch_3/6k_v_SBA_1263_1.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,3.339999999999918
+6k_v_SBA_1263_1-seg_482_810-485_670,batch_3/6k_v_SBA_1263_1.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,2.860000000000128
+6k_v_SBA_1263_1-seg_338_340-346_240,batch_3/6k_v_SBA_1263_1.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,7.899515719142869
+6k_v_SBA_1263_1-seg_16_490-19_730,batch_3/6k_v_SBA_1263_1.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,3.240000000000009
+6k_v_SBA_1269_2-seg_37_739-40_479,batch_3/6k_v_SBA_1269_2.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,2.739899898506259
+6k_v_SBA_1269_2-seg_347_671-351_565,batch_3/6k_v_SBA_1269_2.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,3.893735785049671
+6k_v_SBA_1269_2-seg_259_386-263_730,batch_3/6k_v_SBA_1269_2.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,4.343485716598991
+6k_v_SBA_1269_2-seg_520_916-526_993,batch_3/6k_v_SBA_1269_2.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,6.076270786227383
+6k_v_SBA_1269_2-seg_338_346-343_708,batch_3/6k_v_SBA_1269_2.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,5.362480423070224
+6k_v_SBA_1269_2-seg_461_049-463_499,batch_3/6k_v_SBA_1269_2.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,2.4499910557617
+6k_v_SBA_1269_2-seg_224_032-226_700,batch_3/6k_v_SBA_1269_2.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,2.668740257168963
+6k_v_SBA_1269_2-seg_30_446-33_312,batch_3/6k_v_SBA_1269_2.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,2.866667454385581
+6k_v_SBA_1269_2-seg_343_721-347_665,batch_3/6k_v_SBA_1269_2.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,3.9437356025142094
+6k_v_SBA_1269_2-seg_67_786-71_682,batch_3/6k_v_SBA_1269_2.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,3.896464886638413
+6k_v_SBA_1269_2-seg_427_155-431_290,batch_3/6k_v_SBA_1269_2.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,4.134795109079903
+6k_v_SBA_1269_2-seg_518_498-520_873,batch_3/6k_v_SBA_1269_2.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,2.374991329564864
+6k_v_SBA_1269_2-seg_305_940-313_596,batch_3/6k_v_SBA_1269_2.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,7.65622204925512
+6k_v_SBA_1269_2-seg_158_540-161_800,batch_3/6k_v_SBA_1269_2.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,3.259994600461482
+6k_v_SBA_1269_2-seg_226_863-234_525,batch_3/6k_v_SBA_1269_2.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,7.662472026438196
+6k_v_SBA_1339_1-seg_366_960-370_880,batch_3/6k_v_SBA_1339_1.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,3.919999999999959
+6k_v_SBA_1339_1-seg_394_054-396_454,batch_3/6k_v_SBA_1339_1.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,2.3996880752503102
+6k_v_SBA_1339_1-seg_382_656-386_955,batch_3/6k_v_SBA_1339_1.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,4.299441134823553
+6k_v_SBA_1339_1-seg_325_910-330_451,batch_3/6k_v_SBA_1339_1.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,4.541072241327129
+6k_v_SBA_1345_1-seg_448_365-452_840,batch_3/6k_v_SBA_1345_1.wav:Speaker3متحدث,SADA_HIJ,حكايات بابا فرحان,4.475072548581579
+6k_v_SBA_1345_1-seg_320_063-324_440,batch_3/6k_v_SBA_1345_1.wav:Speaker3متحدث,SADA_HIJ,حكايات بابا فرحان,4.377166716302384
+6k_v_SBA_1345_1-seg_532_043-534_340,batch_3/6k_v_SBA_1345_1.wav:Speaker3متحدث,SADA_HIJ,حكايات بابا فرحان,2.2974760855323666
+6k_v_SBA_1345_1-seg_301_443-309_396,batch_3/6k_v_SBA_1345_1.wav:Speaker3متحدث,SADA_HIJ,حكايات بابا فرحان,7.953439708765359
+6k_v_SBA_1345_1-seg_283_443-290_014,batch_3/6k_v_SBA_1345_1.wav:Speaker3متحدث,SADA_HIJ,حكايات بابا فرحان,6.570626244267771
+6k_v_SBA_1359_2-seg_483_070-487_290,batch_3/6k_v_SBA_1359_2.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,4.2199999999998
+6k_v_SBA_1359_2-seg_6_480-10_420,batch_3/6k_v_SBA_1359_2.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,3.940000000000056
+6k_v_SBA_1359_2-seg_461_170-464_880,batch_3/6k_v_SBA_1359_2.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,3.710000000000037
+6k_v_SBA_1359_2-seg_261_210-264_040,batch_3/6k_v_SBA_1359_2.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,2.8299999999999272
+6k_v_SBA_1359_2-seg_269_730-282_820,batch_3/6k_v_SBA_1359_2.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,13.090000000000146
+6k_v_SBA_1359_2-seg_183_320-189_520,batch_3/6k_v_SBA_1359_2.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,6.199999999999818
+6k_v_SBA_1359_2-seg_473_510-482_380,batch_3/6k_v_SBA_1359_2.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,8.870000000000118
+6k_v_SBA_1359_2-seg_300_230-308_420,batch_3/6k_v_SBA_1359_2.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,8.190000000000055
+6k_v_SBA_1359_2-seg_424_840-427_830,batch_3/6k_v_SBA_1359_2.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,2.990000000000009
+6k_v_SBA_1382_2-seg_166_494-170_594,batch_3/6k_v_SBA_1382_2.wav:Speaker4متحدث,SADA_HIJ,حكايات بابا فرحان,4.099971355913283
+6k_v_SBA_1382_2-seg_221_090-229_447,batch_3/6k_v_SBA_1382_2.wav:Speaker4متحدث,SADA_HIJ,حكايات بابا فرحان,8.356552924025635
+6k_v_SBA_1382_2-seg_163_877-166_410,batch_3/6k_v_SBA_1382_2.wav:Speaker4متحدث,SADA_HIJ,حكايات بابا فرحان,2.533315634548046
+6k_v_SBA_1382_2-seg_533_770-540_900,batch_3/6k_v_SBA_1382_2.wav:Speaker4متحدث,SADA_HIJ,حكايات بابا فرحان,7.130012226134454
+6k_v_SBA_1382_2-seg_347_950-352_290,batch_3/6k_v_SBA_1382_2.wav:Speaker4متحدث,SADA_HIJ,حكايات بابا فرحان,4.339999999999918
+6k_v_SBA_1382_2-seg_412_580-414_940,batch_3/6k_v_SBA_1382_2.wav:Speaker4متحدث,SADA_HIJ,حكايات بابا فرحان,2.360000000000128
+6k_v_SBA_1382_2-seg_357_000-363_530,batch_3/6k_v_SBA_1382_2.wav:Speaker4متحدث,SADA_HIJ,حكايات بابا فرحان,6.529999999999973
+6k_v_SBA_1392_0-seg_571_690-575_270,batch_3/6k_v_SBA_1392_0.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,3.5799999999999272
+6k_v_SBA_1392_0-seg_539_960-544_270,batch_3/6k_v_SBA_1392_0.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,4.309999999999945
+6k_v_SBA_1392_0-seg_258_890-262_780,batch_3/6k_v_SBA_1392_0.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,3.8896870512734254
+6k_v_SBA_1392_0-seg_377_540-381_270,batch_3/6k_v_SBA_1392_0.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,3.729999999999961
+6k_v_SBA_1392_0-seg_591_470-595_700,batch_3/6k_v_SBA_1392_0.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,4.230000000000018
+6k_v_SBA_1392_0-seg_598_920-604_510,batch_3/6k_v_SBA_1392_0.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,5.590000000000032
+6k_v_SBA_1392_0-seg_264_313-268_487,batch_3/6k_v_SBA_1392_0.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,4.173487875914418
+6k_v_SBA_1392_0-seg_270_900-273_000,batch_3/6k_v_SBA_1392_0.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,2.1000000000000227
+6k_v_SBA_1397_1-seg_149_287-152_123,batch_3/6k_v_SBA_1397_1.wav:Speaker3متحدث,SADA_HIJ,حكايات بابا فرحان,2.836079799979217
+6k_v_SBA_1397_1-seg_246_060-248_290,batch_3/6k_v_SBA_1397_1.wav:Speaker3متحدث,SADA_HIJ,حكايات بابا فرحان,2.230000000000018
+6k_v_SBA_1397_1-seg_126_125-133_950,batch_3/6k_v_SBA_1397_1.wav:Speaker3متحدث,SADA_HIJ,حكايات بابا فرحان,7.82533321179281
+6k_v_SBA_1397_1-seg_460_441-463_341,batch_3/6k_v_SBA_1397_1.wav:Speaker3متحدث,SADA_HIJ,حكايات بابا فرحان,2.900069408271748
+6k_v_SBA_1445_2-seg_521_450-524_470,batch_3/6k_v_SBA_1445_2.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,3.0199873467726093
+6k_v_SBA_1445_2-seg_26_291-30_779,batch_3/6k_v_SBA_1445_2.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,4.4875886390571536
+6k_v_SBA_1445_2-seg_66_308-72_708,batch_3/6k_v_SBA_1445_2.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,6.399973185213554
+6k_v_SBA_1445_2-seg_298_762-301_862,batch_3/6k_v_SBA_1445_2.wav:Speaker6متحدث,SADA_HIJ,حكايات بابا فرحان,3.0999870115878707
+6k_v_SBA_1445_2-seg_547_323-549_483,batch_3/6k_v_SBA_1445_2.wav:Speaker6متحدث,SADA_HIJ,حكايات بابا فرحان,2.159990950009501
+6k_v_SBA_1445_2-seg_446_256-449_853,batch_3/6k_v_SBA_1445_2.wav:Speaker6متحدث,SADA_HIJ,حكايات بابا فرحان,3.597125487307665
+6k_v_SBA_1445_2-seg_309_370-312_245,batch_3/6k_v_SBA_1445_2.wav:Speaker6متحدث,SADA_HIJ,حكايات بابا فرحان,2.874987954295136
+6k_v_SBA_1445_2-seg_377_026-382_126,batch_3/6k_v_SBA_1445_2.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,5.099978631967076
+6k_v_SBA_1446_0-seg_240_447-255_279,batch_3/6k_v_SBA_1446_0.wav:Speaker3متحدث,SADA_HIJ,حكايات بابا فرحان,14.831130995557174
+6k_v_SBA_1446_0-seg_373_618-377_818,batch_3/6k_v_SBA_1446_0.wav:Speaker3متحدث,SADA_HIJ,حكايات بابا فرحان,4.199528725314167
+6k_v_SBA_1446_0-seg_296_717-299_897,batch_3/6k_v_SBA_1446_0.wav:Speaker3متحدث,SADA_HIJ,حكايات بابا فرحان,3.179643177737887
+6k_v_SBA_1446_0-seg_260_600-263_733,batch_3/6k_v_SBA_1446_0.wav:Speaker3متحدث,SADA_HIJ,حكايات بابا فرحان,3.132868120409853
+6k_v_SBA_1446_0-seg_310_031-312_771,batch_3/6k_v_SBA_1446_0.wav:Speaker3متحدث,SADA_HIJ,حكايات بابا فرحان,2.7396925493716253
+6k_v_SBA_1526_1-seg_38_860-42_280,batch_3/6k_v_SBA_1526_1.wav:Speaker1متحدث,SADA_HIJ,طاش ما طاش,3.420000884483855
+6k_v_SBA_1526_1-seg_78_520-80_810,batch_3/6k_v_SBA_1526_1.wav:Speaker1متحدث,SADA_HIJ,طاش ما طاش,2.289999999999964
+6k_v_SBA_1526_1-seg_475_700-477_710,batch_3/6k_v_SBA_1526_1.wav:Speaker1متحدث,SADA_HIJ,طاش ما طاش,2.009999999999991
+6k_v_SBA_1526_1-seg_494_240-496_470,batch_3/6k_v_SBA_1526_1.wav:Speaker1متحدث,SADA_HIJ,طاش ما طاش,2.230000000000018
+6k_v_SBA_1526_1-seg_1_760-14_090,batch_3/6k_v_SBA_1526_1.wav:Speaker1متحدث,SADA_HIJ,طاش ما طاش,12.33000000000004
+6k_v_SBA_1526_1-seg_498_980-502_260,batch_3/6k_v_SBA_1526_1.wav:Speaker1متحدث,SADA_HIJ,طاش ما طاش,3.2799999999999727
+6k_v_SBA_1529_3-seg_576_210-579_330,batch_3/6k_v_SBA_1529_3.wav:Speaker6متحدث,SADA_HIJ,عندما تغيب الحقيقة,3.1200000000003456
+6k_v_SBA_1529_3-seg_570_250-572_630,batch_3/6k_v_SBA_1529_3.wav:Speaker6متحدث,SADA_HIJ,عندما تغيب الحقيقة,2.380000000000109
+6k_v_SBA_1529_3-seg_344_160-346_230,batch_3/6k_v_SBA_1529_3.wav:Speaker6متحدث,SADA_HIJ,عندما تغيب الحقيقة,2.069999999999709
+6k_v_SBA_1529_3-seg_306_940-311_050,batch_3/6k_v_SBA_1529_3.wav:Speaker6متحدث,SADA_HIJ,عندما تغيب الحقيقة,4.110000000000127
+6k_v_SBA_1548_0-seg_454_390-457_100,batch_3/6k_v_SBA_1548_0.wav:Speaker4متحدث,SADA_HIJ,عندما تغيب الحقيقة,2.7100000000000364
+6k_v_SBA_1548_0-seg_464_800-467_370,batch_3/6k_v_SBA_1548_0.wav:Speaker4متحدث,SADA_HIJ,عندما تغيب الحقيقة,2.569999999999993
+6k_v_SBA_1548_0-seg_388_225-392_170,batch_3/6k_v_SBA_1548_0.wav:Speaker4متحدث,SADA_HIJ,عندما تغيب الحقيقة,3.945233374666543
+6k_v_SBA_1548_0-seg_417_940-422_821,batch_3/6k_v_SBA_1548_0.wav:Speaker4متحدث,SADA_HIJ,عندما تغيب الحقيقة,4.88085820273426
+6k_v_SBA_156_1-seg_408_090-410_302,batch_3/6k_v_SBA_156_1.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,2.2120014297637454
+6k_v_SBA_156_1-seg_233_190-237_740,batch_3/6k_v_SBA_156_1.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,4.550000000000068
+6k_v_SBA_156_1-seg_414_990-421_730,batch_3/6k_v_SBA_156_1.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,6.740000000000009
+6k_v_SBA_156_1-seg_384_000-388_969,batch_3/6k_v_SBA_156_1.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,4.968790497733039
+6k_v_SBA_1633_0-seg_573_440-577_770,batch_3/6k_v_SBA_1633_0.wav:Speaker1متحدث,SADA_HIJ,طاش ما طاش,4.329999999999927
+6k_v_SBA_1633_0-seg_280_130-282_700,batch_3/6k_v_SBA_1633_0.wav:Speaker1متحدث,SADA_HIJ,طاش ما طاش,2.569999999999993
+6k_v_SBA_1633_0-seg_251_330-255_160,batch_3/6k_v_SBA_1633_0.wav:Speaker1متحدث,SADA_HIJ,طاش ما طاش,3.829999999999984
+6k_v_SBA_1633_0-seg_357_570-362_780,batch_3/6k_v_SBA_1633_0.wav:Speaker1متحدث,SADA_HIJ,طاش ما طاش,5.20999999999998
+6k_v_SBA_1633_0-seg_421_910-424_788,batch_3/6k_v_SBA_1633_0.wav:Speaker1متحدث,SADA_HIJ,طاش ما طاش,2.8780641801033084
+6k_v_SBA_1633_0-seg_317_600-321_080,batch_3/6k_v_SBA_1633_0.wav:Speaker1متحدث,SADA_HIJ,طاش ما طاش,3.4799999999999613
+6k_v_SBA_1656_1-seg_358_770-365_443,batch_3/6k_v_SBA_1656_1.wav:Speaker1متحدث,SADA_HIJ,طاش ما طاش,6.672701427895333
+6k_v_SBA_1656_1-seg_201_660-212_730,batch_3/6k_v_SBA_1656_1.wav:Speaker1متحدث,SADA_HIJ,طاش ما طاش,11.07000000000005
+6k_v_SBA_1656_1-seg_317_442-322_262,batch_3/6k_v_SBA_1656_1.wav:Speaker1متحدث,SADA_HIJ,طاش ما طاش,4.819583908839832
+6k_v_SBA_1656_1-seg_272_208-278_696,batch_3/6k_v_SBA_1656_1.wav:Speaker1متحدث,SADA_HIJ,طاش ما طاش,6.487987835511092
+6k_v_SBA_1656_1-seg_443_060-453_023,batch_3/6k_v_SBA_1656_1.wav:Speaker1متحدث,SADA_HIJ,طاش ما طاش,9.962796327878207
+6k_v_SBA_1672_2-seg_280_050-284_200,batch_3/6k_v_SBA_1672_2.wav:Speaker4متحدث,SADA_HIJ,حكايات بابا فرحان,4.150000000000091
+6k_v_SBA_1672_2-seg_247_890-252_870,batch_3/6k_v_SBA_1672_2.wav:Speaker4متحدث,SADA_HIJ,حكايات بابا فرحان,4.980000000000018
+6k_v_SBA_1672_2-seg_432_090-441_530,batch_3/6k_v_SBA_1672_2.wav:Speaker4متحدث,SADA_HIJ,حكايات بابا فرحان,9.440000000000056
+6k_v_SBA_1672_2-seg_405_820-411_620,batch_3/6k_v_SBA_1672_2.wav:Speaker4متحدث,SADA_HIJ,حكايات بابا فرحان,5.7999999999999545
+6k_v_SBA_1672_2-seg_183_540-187_250,batch_3/6k_v_SBA_1672_2.wav:Speaker4متحدث,SADA_HIJ,حكايات بابا فرحان,3.710000000000037
+6k_v_SBA_1672_2-seg_285_070-287_720,batch_3/6k_v_SBA_1672_2.wav:Speaker4متحدث,SADA_HIJ,حكايات بابا فرحان,2.650000000000091
+6k_v_SBA_1724_1-seg_519_500-526_960,batch_3/6k_v_SBA_1724_1.wav:Speaker5متحدث,SADA_HIJ,حكايات بابا فرحان,7.460000000000036
+6k_v_SBA_1724_1-seg_471_240-473_720,batch_3/6k_v_SBA_1724_1.wav:Speaker5متحدث,SADA_HIJ,حكايات بابا فرحان,2.480000000000018
+6k_v_SBA_1724_1-seg_512_930-518_360,batch_3/6k_v_SBA_1724_1.wav:Speaker5متحدث,SADA_HIJ,حكايات بابا فرحان,5.429999999999836
+6k_v_SBA_1724_1-seg_474_470-477_170,batch_3/6k_v_SBA_1724_1.wav:Speaker5متحدث,SADA_HIJ,حكايات بابا فرحان,2.7000000000000446
+6k_v_SBA_1724_1-seg_397_300-404_530,batch_3/6k_v_SBA_1724_1.wav:Speaker5متحدث,SADA_HIJ,حكايات بابا فرحان,7.230000000000018
+6k_v_SBA_1724_1-seg_479_920-488_770,batch_3/6k_v_SBA_1724_1.wav:Speaker5متحدث,SADA_HIJ,حكايات بابا فرحان,8.849999999999909
+6k_v_SBA_1755_2-seg_126_341-128_474,batch_3/6k_v_SBA_1755_2.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,2.133097747048339
+6k_v_SBA_1755_2-seg_14_610-29_497,batch_3/6k_v_SBA_1755_2.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,14.886658845256228
+6k_v_SBA_1755_2-seg_81_811-87_820,batch_3/6k_v_SBA_1755_2.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,6.009336309262679
+6k_v_SBA_1755_2-seg_100_160-106_640,batch_3/6k_v_SBA_1755_2.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,6.479284406659289
+6k_v_SBA_1755_2-seg_3_825-11_100,batch_3/6k_v_SBA_1755_2.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,7.274875783648998
+6k_v_SBA_1755_2-seg_170_239-177_939,batch_3/6k_v_SBA_1755_2.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,7.699149680752498
+6k_v_SBA_1832_0-seg_475_510-477_930,batch_3/6k_v_SBA_1832_0.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,2.420000000000016
+6k_v_SBA_1832_0-seg_229_523-237_142,batch_3/6k_v_SBA_1832_0.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,7.619121763571059
+6k_v_SBA_1832_0-seg_552_140-554_200,batch_3/6k_v_SBA_1832_0.wav:Speaker6متحدث,SADA_HIJ,حكايات بابا فرحان,2.060000000000059
+6k_v_SBA_1832_0-seg_600_300-602_870,batch_3/6k_v_SBA_1832_0.wav:Speaker6متحدث,SADA_HIJ,حكايات بابا فرحان,2.57000000000005
+6k_v_SBA_1832_0-seg_402_680-405_840,batch_3/6k_v_SBA_1832_0.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,3.159999999999968
+6k_v_SBA_1832_0-seg_344_983-353_654,batch_3/6k_v_SBA_1832_0.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,8.671769150811656
+6k_v_SBA_1832_0-seg_497_709-501_425,batch_3/6k_v_SBA_1832_0.wav:Speaker6متحدث,SADA_HIJ,حكايات بابا فرحان,3.7162383055037935
+6k_v_SBA_1832_0-seg_454_380-466_340,batch_3/6k_v_SBA_1832_0.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,11.95999999999998
+6k_v_SBA_1832_0-seg_548_570-551_450,batch_3/6k_v_SBA_1832_0.wav:Speaker6متحدث,SADA_HIJ,حكايات بابا فرحان,2.8799999999999955
+6k_v_SBA_1845_1-seg_173_010-178_020,batch_3/6k_v_SBA_1845_1.wav:Speaker6متحدث,SADA_HIJ,حكايات بابا فرحان,5.0102350600390935
+6k_v_SBA_1845_1-seg_239_620-242_620,batch_3/6k_v_SBA_1845_1.wav:Speaker6متحدث,SADA_HIJ,حكايات بابا فرحان,3.0
+6k_v_SBA_1845_1-seg_125_440-128_072,batch_3/6k_v_SBA_1845_1.wav:Speaker6متحدث,SADA_HIJ,حكايات بابا فرحان,2.6319713312137765
+6k_v_SBA_1845_1-seg_230_183-235_749,batch_3/6k_v_SBA_1845_1.wav:Speaker6متحدث,SADA_HIJ,حكايات بابا فرحان,5.565732023177873
+6k_v_SBA_1862_0-seg_466_020-468_570,batch_3/6k_v_SBA_1862_0.wav:Speaker5متحدث,SADA_HIJ,حكايات بابا فرحان,2.550000000000012
+6k_v_SBA_1862_0-seg_495_363-500_410,batch_3/6k_v_SBA_1862_0.wav:Speaker5متحدث,SADA_HIJ,حكايات بابا فرحان,5.046617087716072
+6k_v_SBA_1862_0-seg_524_379-529_260,batch_3/6k_v_SBA_1862_0.wav:Speaker5متحدث,SADA_HIJ,حكايات بابا فرحان,4.88124623354679
+6k_v_SBA_1862_0-seg_473_016-476_449,batch_3/6k_v_SBA_1862_0.wav:Speaker5متحدث,SADA_HIJ,حكايات بابا فرحان,3.4331874295642137
+6k_v_SBA_1862_0-seg_504_027-507_830,batch_3/6k_v_SBA_1862_0.wav:Speaker5متحدث,SADA_HIJ,حكايات بابا فرحان,3.80345515589778
+6k_v_SBA_1869_0-seg_575_570-582_160,batch_3/6k_v_SBA_1869_0.wav:Speaker5متحدث,SADA_HIJ,حكايات بابا فرحان,6.589862016026814
+6k_v_SBA_1869_0-seg_612_950-617_590,batch_3/6k_v_SBA_1869_0.wav:Speaker5متحدث,SADA_HIJ,حكايات بابا فرحان,4.640104615299947
+6k_v_SBA_1869_0-seg_550_218-553_868,batch_3/6k_v_SBA_1869_0.wav:Speaker5متحدث,SADA_HIJ,حكايات بابا فرحان,3.650069893842669
+6k_v_SBA_1869_0-seg_563_018-568_970,batch_3/6k_v_SBA_1869_0.wav:Speaker5متحدث,SADA_HIJ,حكايات بابا فرحان,5.951850987222656
+6k_v_SBA_1899_0-seg_417_422-419_722,batch_3/6k_v_SBA_1899_0.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,2.300109549256547
+6k_v_SBA_1899_0-seg_436_120-438_959,batch_3/6k_v_SBA_1899_0.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,2.83865921236054
+6k_v_SBA_1899_0-seg_402_370-404_700,batch_3/6k_v_SBA_1899_0.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,2.329992855483283
+6k_v_SBA_1899_0-seg_389_179-392_880,batch_3/6k_v_SBA_1899_0.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,3.700176231412684
+6k_v_SBA_20_1-seg_601_070-607_370,batch_4/6k_v_SBA_20_1.wav:Speaker4متحدث,SADA_HIJ,حكايات بابا فرحان,6.299556648562998
+6k_v_SBA_20_1-seg_595_470-597_890,batch_4/6k_v_SBA_20_1.wav:Speaker4متحدث,SADA_HIJ,حكايات بابا فرحان,2.420047937064851
+6k_v_SBA_20_1-seg_218_660-223_310,batch_4/6k_v_SBA_20_1.wav:Speaker4متحدث,SADA_HIJ,حكايات بابا فرحان,4.649973852509987
+6k_v_SBA_20_1-seg_107_543-111_103,batch_4/6k_v_SBA_20_1.wav:Speaker4متحدث,SADA_HIJ,حكايات بابا فرحان,3.56007051898807
+6k_v_SBA_20_1-seg_577_310-582_680,batch_4/6k_v_SBA_20_1.wav:Speaker4متحدث,SADA_HIJ,حكايات بابا فرحان,5.369879563076439
+6k_v_SBA_20_1-seg_137_023-139_923,batch_4/6k_v_SBA_20_1.wav:Speaker4متحدث,SADA_HIJ,حكايات بابا فرحان,2.9000574452430783
+6k_v_SBA_20_1-seg_552_730-556_322,batch_4/6k_v_SBA_20_1.wav:Speaker4متحدث,SADA_HIJ,حكايات بابا فرحان,3.592348880421355
+6k_v_SBA_285_1-seg_584_040-586_140,batch_4/6k_v_SBA_285_1.wav:Speaker4متحدث,SADA_HIJ,طاش ما طاش,2.09998625222579
+6k_v_SBA_285_1-seg_569_065-573_162,batch_4/6k_v_SBA_285_1.wav:Speaker4متحدث,SADA_HIJ,طاش ما طاش,4.096712409892461
+6k_v_SBA_285_1-seg_130_271-136_330,batch_4/6k_v_SBA_285_1.wav:Speaker4متحدث,SADA_HIJ,طاش ما طاش,6.059960327851684
+6k_v_SBA_285_1-seg_264_706-267_036,batch_4/6k_v_SBA_285_1.wav:Speaker4متحدث,SADA_HIJ,طاش ما طاش,2.330430139356963
+6k_v_SBA_285_1-seg_212_067-215_485,batch_4/6k_v_SBA_285_1.wav:Speaker4متحدث,SADA_HIJ,طاش ما طاش,3.417975670748689
+6k_v_SBA_335_2-seg_241_460-248_210,batch_4/6k_v_SBA_335_2.wav:Speaker6متحدث,SADA_HIJ,طاش ما طاش,6.75
+6k_v_SBA_335_2-seg_180_941-190_670,batch_4/6k_v_SBA_335_2.wav:Speaker6متحدث,SADA_HIJ,طاش ما طاش,9.729090116174632
+6k_v_SBA_335_2-seg_248_940-260_908,batch_4/6k_v_SBA_335_2.wav:Speaker6متحدث,SADA_HIJ,طاش ما طاش,11.967674430838995
+6k_v_SBA_335_2-seg_373_042-376_314,batch_4/6k_v_SBA_335_2.wav:Speaker6متحدث,SADA_HIJ,طاش ما طاش,3.27273315829018
+6k_v_SBA_338_2-seg_384_495-386_768,batch_4/6k_v_SBA_338_2.wav:Speaker6متحدث,SADA_HIJ,حكايات بابا فرحان,2.272738203607389
+6k_v_SBA_338_2-seg_340_085-342_348,batch_4/6k_v_SBA_338_2.wav:Speaker6متحدث,SADA_HIJ,حكايات بابا فرحان,2.263647250792985
+6k_v_SBA_338_2-seg_256_500-264_815,batch_4/6k_v_SBA_338_2.wav:Speaker6متحدث,SADA_HIJ,حكايات بابا فرحان,8.314540426340727
+6k_v_SBA_338_2-seg_419_642-424_787,batch_4/6k_v_SBA_338_2.wav:Speaker6متحدث,SADA_HIJ,حكايات بابا فرحان,5.145479292967252
+6k_v_SBA_346_1-seg_369_680-374_162,batch_4/6k_v_SBA_346_1.wav:Speaker3متحدث,SADA_HIJ,قلوب من ورق,4.48164243857309
+6k_v_SBA_346_1-seg_394_380-405_720,batch_4/6k_v_SBA_346_1.wav:Speaker3متحدث,SADA_HIJ,قلوب من ورق,11.340000000000032
+6k_v_SBA_346_1-seg_410_050-415_447,batch_4/6k_v_SBA_346_1.wav:Speaker3متحدث,SADA_HIJ,قلوب من ورق,5.397174976868541
+6k_v_SBA_346_1-seg_380_133-382_562,batch_4/6k_v_SBA_346_1.wav:Speaker3متحدث,SADA_HIJ,قلوب من ورق,2.428638840341307
+6k_v_SBA_34_0-seg_507_560-519_950,batch_4/6k_v_SBA_34_0.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,12.390000000000043
+6k_v_SBA_34_0-seg_244_550-255_960,batch_4/6k_v_SBA_34_0.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,11.410012281817105
+6k_v_SBA_34_0-seg_390_280-393_610,batch_4/6k_v_SBA_34_0.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,3.3299757975956936
+6k_v_SBA_34_0-seg_595_260-604_820,batch_4/6k_v_SBA_34_0.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,9.56000000000006
+6k_v_SBA_34_0-seg_542_550-553_750,batch_4/6k_v_SBA_34_0.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,11.19993208877588
+6k_v_SBA_34_0-seg_499_360-503_540,batch_4/6k_v_SBA_34_0.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,4.180000000000007
+6k_v_SBA_34_0-seg_459_930-465_410,batch_4/6k_v_SBA_34_0.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,5.480000000000018
+6k_v_SBA_34_0-seg_420_870-431_900,batch_4/6k_v_SBA_34_0.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,11.030019506415442
+6k_v_SBA_34_0-seg_450_130-455_300,batch_4/6k_v_SBA_34_0.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,5.170000000000017
+6k_v_SBA_34_0-seg_273_444-276_400,batch_4/6k_v_SBA_34_0.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,2.9560473238846043
+6k_v_SBA_34_0-seg_586_650-588_900,batch_4/6k_v_SBA_34_0.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,2.25
+6k_v_SBA_34_0-seg_385_450-387_490,batch_4/6k_v_SBA_34_0.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,2.039976158825596
+6k_v_SBA_362_0-seg_527_283-534_630,batch_4/6k_v_SBA_362_0.wav:Speaker6متحدث,SADA_HIJ,طاش ما طاش,7.347100366812015
+6k_v_SBA_362_0-seg_407_430-412_250,batch_4/6k_v_SBA_362_0.wav:Speaker6متحدث,SADA_HIJ,طاش ما طاش,4.819999999999993
+6k_v_SBA_362_0-seg_441_570-445_464,batch_4/6k_v_SBA_362_0.wav:Speaker6متحدث,SADA_HIJ,طاش ما طاش,3.893693831403766
+6k_v_SBA_362_0-seg_463_680-466_050,batch_4/6k_v_SBA_362_0.wav:Speaker6متحدث,SADA_HIJ,طاش ما طاش,2.3700000000000045
+6k_v_SBA_37_2-seg_322_400-325_740,batch_4/6k_v_SBA_37_2.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,3.339999999999918
+6k_v_SBA_37_2-seg_347_350-349_350,batch_4/6k_v_SBA_37_2.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,2.0
+6k_v_SBA_37_2-seg_220_990-223_430,batch_4/6k_v_SBA_37_2.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,2.4400000000000546
+6k_v_SBA_37_2-seg_166_670-168_790,batch_4/6k_v_SBA_37_2.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,2.119999999999891
+6k_v_SBA_398_1-seg_88_570-91_790,batch_4/6k_v_SBA_398_1.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,3.2199999999999136
+6k_v_SBA_398_1-seg_122_250-127_270,batch_4/6k_v_SBA_398_1.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,5.019999999999982
+6k_v_SBA_398_1-seg_1_020-5_330,batch_4/6k_v_SBA_398_1.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,4.310000000000059
+6k_v_SBA_398_1-seg_116_840-121_620,batch_4/6k_v_SBA_398_1.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,4.779999999999973
+6k_v_SBA_398_1-seg_84_170-87_640,batch_4/6k_v_SBA_398_1.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,3.4699999999999136
+6k_v_SBA_413_1-seg_459_180-465_600,batch_4/6k_v_SBA_413_1.wav:Speaker3متحدث,SADA_HIJ,طاش ما طاش,6.419999999999845
+6k_v_SBA_413_1-seg_432_710-438_600,batch_4/6k_v_SBA_413_1.wav:Speaker3متحدث,SADA_HIJ,طاش ما طاش,5.889999999999873
+6k_v_SBA_413_1-seg_448_740-452_490,batch_4/6k_v_SBA_413_1.wav:Speaker3متحدث,SADA_HIJ,طاش ما طاش,3.75
+6k_v_SBA_413_1-seg_466_260-468_780,batch_4/6k_v_SBA_413_1.wav:Speaker3متحدث,SADA_HIJ,طاش ما طاش,2.519999999999982
+6k_v_SBA_423_0-seg_506_060-510_780,batch_4/6k_v_SBA_423_0.wav:Speaker1متحدث,SADA_HIJ,عائلة الدكتور سعود,4.7199999999999696
+6k_v_SBA_423_0-seg_184_920-188_940,batch_4/6k_v_SBA_423_0.wav:Speaker1متحدث,SADA_HIJ,عائلة الدكتور سعود,4.020000000000009
+6k_v_SBA_423_0-seg_393_690-396_900,batch_4/6k_v_SBA_423_0.wav:Speaker1متحدث,SADA_HIJ,عائلة الدكتور سعود,3.2099999999999795
+6k_v_SBA_423_0-seg_404_050-408_330,batch_4/6k_v_SBA_423_0.wav:Speaker1متحدث,SADA_HIJ,عائلة الدكتور سعود,4.279999999999974
+6k_v_SBA_423_0-seg_164_520-166_830,batch_4/6k_v_SBA_423_0.wav:Speaker1متحدث,SADA_HIJ,عائلة الدكتور سعود,2.3100000000000023
+6k_v_SBA_452_1-seg_86_900-88_910,batch_4/6k_v_SBA_452_1.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,2.0100000000001046
+6k_v_SBA_452_1-seg_541_640-545_030,batch_4/6k_v_SBA_452_1.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,3.3899803989670545
+6k_v_SBA_452_1-seg_309_430-316_910,batch_4/6k_v_SBA_452_1.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,7.480000000000018
+6k_v_SBA_452_1-seg_329_897-331_924,batch_4/6k_v_SBA_452_1.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,2.0266834991920746
+6k_v_SBA_452_1-seg_321_047-327_447,batch_4/6k_v_SBA_452_1.wav:Speaker2متحدث,SADA_HIJ,طاش ما طاش,6.400053155343471
+6k_v_SBA_456_1-seg_253_550-256_510,batch_4/6k_v_SBA_456_1.wav:Speaker5متحدث,SADA_HIJ,حكايات بابا فرحان,2.9599999999999227
+6k_v_SBA_456_1-seg_270_909-274_940,batch_4/6k_v_SBA_456_1.wav:Speaker5متحدث,SADA_HIJ,حكايات بابا فرحان,4.031301295542676
+6k_v_SBA_456_1-seg_330_227-335_268,batch_4/6k_v_SBA_456_1.wav:Speaker5متحدث,SADA_HIJ,حكايات بابا فرحان,5.040863880689642
+6k_v_SBA_456_1-seg_257_080-262_700,batch_4/6k_v_SBA_456_1.wav:Speaker5متحدث,SADA_HIJ,حكايات بابا فرحان,5.6200000000000045
+6k_v_SBA_479_0-seg_108_120-120_344,batch_4/6k_v_SBA_479_0.wav:Speaker1متحدث,SADA_HIJ,شيكات,12.223908547656208
+6k_v_SBA_479_0-seg_243_455-256_416,batch_4/6k_v_SBA_479_0.wav:Speaker1متحدث,SADA_HIJ,شيكات,12.961583871220167
+6k_v_SBA_479_0-seg_570_124-575_810,batch_4/6k_v_SBA_479_0.wav:Speaker1متحدث,SADA_HIJ,شيكات,5.685622730478258
+6k_v_SBA_479_0-seg_468_669-476_719,batch_4/6k_v_SBA_479_0.wav:Speaker1متحدث,SADA_HIJ,شيكات,8.0492812931397
+6k_v_SBA_479_0-seg_142_575-152_640,batch_4/6k_v_SBA_479_0.wav:Speaker1متحدث,SADA_HIJ,شيكات,10.06547541789206
+6k_v_SBA_501_1-seg_454_136-460_667,batch_4/6k_v_SBA_501_1.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,6.530502589095249
+6k_v_SBA_501_1-seg_355_320-361_690,batch_4/6k_v_SBA_501_1.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,6.3700000000000045
+6k_v_SBA_501_1-seg_434_380-436_950,batch_4/6k_v_SBA_501_1.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,2.5699999999999363
+6k_v_SBA_501_1-seg_91_550-94_107,batch_4/6k_v_SBA_501_1.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,2.5571122956645382
+6k_v_SBA_509_1-seg_78_470-93_240,batch_4/6k_v_SBA_509_1.wav:Speaker1متحدث,SADA_HIJ,مسلسل سناب شاف,14.769999999999984
+6k_v_SBA_509_1-seg_178_080-180_320,batch_4/6k_v_SBA_509_1.wav:Speaker1متحدث,SADA_HIJ,مسلسل سناب شاف,2.240000000000009
+6k_v_SBA_509_1-seg_322_050-325_300,batch_4/6k_v_SBA_509_1.wav:Speaker1متحدث,SADA_HIJ,مسلسل سناب شاف,3.25
+6k_v_SBA_509_1-seg_128_670-131_360,batch_4/6k_v_SBA_509_1.wav:Speaker1متحدث,SADA_HIJ,مسلسل سناب شاف,2.6900000000000546
+6k_v_SBA_509_2-seg_466_749-470_649,batch_4/6k_v_SBA_509_2.wav:Speaker4متحدث,SADA_HIJ,مسلسل سناب شاف,3.900000000000091
+6k_v_SBA_509_2-seg_452_859-455_659,batch_4/6k_v_SBA_509_2.wav:Speaker4متحدث,SADA_HIJ,مسلسل سناب شاف,2.7999999999999545
+6k_v_SBA_509_2-seg_437_019-444_029,batch_4/6k_v_SBA_509_2.wav:Speaker4متحدث,SADA_HIJ,مسلسل سناب شاف,7.010048042085089
+6k_v_SBA_509_2-seg_392_940-396_550,batch_4/6k_v_SBA_509_2.wav:Speaker4متحدث,SADA_HIJ,مسلسل سناب شاف,3.6100000000001273
+6k_v_SBA_566_0-seg_534_250-536_810,batch_4/6k_v_SBA_566_0.wav:Speaker1متحدث,SADA_HIJ,أبجد هوز,2.559999999999945
+6k_v_SBA_566_0-seg_370_805-376_405,batch_4/6k_v_SBA_566_0.wav:Speaker1متحدث,SADA_HIJ,أبجد هوز,5.599987181759104
+6k_v_SBA_566_0-seg_348_960-351_749,batch_4/6k_v_SBA_566_0.wav:Speaker1متحدث,SADA_HIJ,أبجد هوز,2.7887438751551485
+6k_v_SBA_566_0-seg_561_040-563_130,batch_4/6k_v_SBA_566_0.wav:Speaker1متحدث,SADA_HIJ,أبجد هوز,2.090000000000032
+6k_v_SBA_566_0-seg_289_821-294_154,batch_4/6k_v_SBA_566_0.wav:Speaker1متحدث,SADA_HIJ,أبجد هوز,4.332474415204728
+6k_v_SBA_580_0-seg_558_230-565_573,batch_4/6k_v_SBA_580_0.wav:Speaker1متحدث,SADA_HIJ,عائلة الدكتور سعود,7.343285914702733
+6k_v_SBA_580_0-seg_173_349-179_400,batch_4/6k_v_SBA_580_0.wav:Speaker1متحدث,SADA_HIJ,عائلة الدكتور سعود,6.051374401142908
+6k_v_SBA_580_0-seg_426_980-432_020,batch_4/6k_v_SBA_580_0.wav:Speaker1متحدث,SADA_HIJ,عائلة الدكتور سعود,5.039999999999964
+6k_v_SBA_580_0-seg_409_200-415_560,batch_4/6k_v_SBA_580_0.wav:Speaker1متحدث,SADA_HIJ,عائلة الدكتور سعود,6.360000000000014
+6k_v_SBA_580_0-seg_578_823-590_657,batch_4/6k_v_SBA_580_0.wav:Speaker1متحدث,SADA_HIJ,عائلة الدكتور سعود,11.833463734567774
+6k_v_SBA_580_0-seg_157_800-162_929,batch_4/6k_v_SBA_580_0.wav:Speaker1متحدث,SADA_HIJ,عائلة الدكتور سعود,5.128615641955606
+6k_v_SBA_664_2-seg_196_413-198_576,batch_4/6k_v_SBA_664_2.wav:Speaker5متحدث,SADA_HIJ,حكايات بابا فرحان,2.1624919480354947
+6k_v_SBA_664_2-seg_410_672-417_897,batch_4/6k_v_SBA_664_2.wav:Speaker5متحدث,SADA_HIJ,حكايات بابا فرحان,7.224973098060842
+6k_v_SBA_664_2-seg_418_670-426_570,batch_4/6k_v_SBA_664_2.wav:Speaker5متحدث,SADA_HIJ,حكايات بابا فرحان,7.900000000000091
+6k_v_SBA_664_2-seg_255_030-260_810,batch_4/6k_v_SBA_664_2.wav:Speaker5متحدث,SADA_HIJ,حكايات بابا فرحان,5.779999999999973
+6k_v_SBA_709_1-seg_381_940-387_864,batch_4/6k_v_SBA_709_1.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,5.923711479220401
+6k_v_SBA_709_1-seg_488_319-491_539,batch_4/6k_v_SBA_709_1.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,3.2192378438742253
+6k_v_SBA_709_1-seg_258_515-265_020,batch_4/6k_v_SBA_709_1.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,6.504605901043192
+6k_v_SBA_709_1-seg_33_550-40_057,batch_4/6k_v_SBA_709_1.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,6.50664247298289
+6k_v_SBA_709_1-seg_435_220-437_430,batch_4/6k_v_SBA_709_1.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,2.209999999999809
+6k_v_SBA_709_1-seg_404_967-412_330,batch_4/6k_v_SBA_709_1.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,7.36302631866829
+6k_v_SBA_709_1-seg_329_729-333_210,batch_4/6k_v_SBA_709_1.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,3.480761277078216
+6k_v_SBA_709_1-seg_271_760-278_070,batch_4/6k_v_SBA_709_1.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,6.309990440356387
+6k_v_SBA_709_1-seg_482_792-485_510,batch_4/6k_v_SBA_709_1.wav:Speaker2متحدث,SADA_HIJ,حكايات بابا فرحان,2.717692764121012
+6k_v_SBA_709_1-seg_397_810-404_956,batch_4/6k_v_SBA_709_1.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,7.146169550678906
+6k_v_SBA_715_2-seg_347_710-350_340,batch_4/6k_v_SBA_715_2.wav:Speaker4متحدث,SADA_HIJ,طاش ما طاش,2.6299999999998818
+6k_v_SBA_715_2-seg_125_640-129_180,batch_4/6k_v_SBA_715_2.wav:Speaker4متحدث,SADA_HIJ,طاش ما طاش,3.539999999999964
+6k_v_SBA_715_2-seg_318_040-321_790,batch_4/6k_v_SBA_715_2.wav:Speaker4متحدث,SADA_HIJ,طاش ما طاش,3.75
+6k_v_SBA_715_2-seg_286_920-293_570,batch_4/6k_v_SBA_715_2.wav:Speaker4متحدث,SADA_HIJ,طاش ما طاش,6.650000000000091
+6k_v_SBA_811_3-seg_107_810-111_290,batch_4/6k_v_SBA_811_3.wav:Speaker2متحدث,SADA_HIJ,طعم الأيام,3.4800000000000177
+6k_v_SBA_811_3-seg_80_790-85_499,batch_4/6k_v_SBA_811_3.wav:Speaker2متحدث,SADA_HIJ,طعم الأيام,4.709139494348619
+6k_v_SBA_811_3-seg_404_260-407_020,batch_4/6k_v_SBA_811_3.wav:Speaker2متحدث,SADA_HIJ,طعم الأيام,2.7599999999997635
+6k_v_SBA_811_3-seg_101_070-103_080,batch_4/6k_v_SBA_811_3.wav:Speaker2متحدث,SADA_HIJ,طعم الأيام,2.009999999999991
+6k_v_SBA_851_2-seg_292_680-296_050,batch_4/6k_v_SBA_851_2.wav:Speaker2متحدث,SADA_HIJ,أبجد هوز,3.369999999999891
+6k_v_SBA_851_2-seg_196_240-201_470,batch_4/6k_v_SBA_851_2.wav:Speaker2متحدث,SADA_HIJ,أبجد هوز,5.230000000000018
+6k_v_SBA_851_2-seg_238_100-250_337,batch_4/6k_v_SBA_851_2.wav:Speaker2متحدث,SADA_HIJ,أبجد هوز,12.237272775417722
+6k_v_SBA_851_2-seg_202_200-205_001,batch_4/6k_v_SBA_851_2.wav:Speaker1متحدث,SADA_HIJ,أبجد هوز,2.800908993656151
+6k_v_SBA_851_2-seg_0_540-7_850,batch_4/6k_v_SBA_851_2.wav:Speaker1متحدث,SADA_HIJ,أبجد هوز,7.309999999999945
+6k_v_SBA_851_2-seg_223_660-237_750,batch_4/6k_v_SBA_851_2.wav:Speaker1متحدث,SADA_HIJ,أبجد هوز,14.089999999999918
+6k_v_SBA_851_2-seg_271_508-278_846,batch_4/6k_v_SBA_851_2.wav:Speaker1متحدث,SADA_HIJ,أبجد هوز,7.338181673746817
+6k_v_SBA_851_2-seg_342_680-344_911,batch_4/6k_v_SBA_851_2.wav:Speaker2متحدث,SADA_HIJ,أبجد هوز,2.230909057207441
+6k_v_SBA_851_2-seg_209_760-213_530,batch_4/6k_v_SBA_851_2.wav:Speaker2متحدث,SADA_HIJ,أبجد هوز,3.7699999999999823
+6k_v_SBA_851_2-seg_99_710-102_960,batch_4/6k_v_SBA_851_2.wav:Speaker1متحدث,SADA_HIJ,أبجد هوز,3.25
+6k_v_SBA_851_2-seg_218_859-222_950,batch_4/6k_v_SBA_851_2.wav:Speaker2متحدث,SADA_HIJ,أبجد هوز,4.090908919512941
+6k_v_SBA_863_2-seg_507_220-511_290,batch_4/6k_v_SBA_863_2.wav:Speaker4متحدث,SADA_HIJ,طعم الأيام,4.070000000000164
+6k_v_SBA_863_2-seg_575_040-578_580,batch_4/6k_v_SBA_863_2.wav:Speaker4متحدث,SADA_HIJ,طعم الأيام,3.539999999999964
+6k_v_SBA_863_2-seg_454_530-457_710,batch_4/6k_v_SBA_863_2.wav:Speaker4متحدث,SADA_HIJ,طعم الأيام,3.1799999999998363
+6k_v_SBA_863_2-seg_431_210-434_340,batch_4/6k_v_SBA_863_2.wav:Speaker4متحدث,SADA_HIJ,طعم الأيام,3.130000000000109
+6k_v_SBA_863_2-seg_418_620-420_680,batch_4/6k_v_SBA_863_2.wav:Speaker4متحدث,SADA_HIJ,طعم الأيام,2.059999999999945
+6k_v_SBA_863_2-seg_421_750-424_400,batch_4/6k_v_SBA_863_2.wav:Speaker4متحدث,SADA_HIJ,طعم الأيام,2.649999999999864
+6k_v_SBA_863_4-seg_191_110-194_490,batch_4/6k_v_SBA_863_4.wav:Speaker2متحدث,SADA_HIJ,طعم الأيام,3.3799999999996544
+6k_v_SBA_863_4-seg_122_060-131_910,batch_4/6k_v_SBA_863_4.wav:Speaker2متحدث,SADA_HIJ,طعم الأيام,9.849999999999907
+6k_v_SBA_863_4-seg_175_020-178_850,batch_4/6k_v_SBA_863_4.wav:Speaker2متحدث,SADA_HIJ,طعم الأيام,3.8299999999999272
+6k_v_SBA_863_4-seg_103_170-110_380,batch_4/6k_v_SBA_863_4.wav:Speaker2متحدث,SADA_HIJ,طعم الأيام,7.2100000000000355
+6k_v_SBA_902_2-seg_259_150-265_420,batch_4/6k_v_SBA_902_2.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,6.269999999999982
+6k_v_SBA_902_2-seg_47_110-53_670,batch_4/6k_v_SBA_902_2.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,6.559999999999945
+6k_v_SBA_902_2-seg_10_090-12_360,batch_4/6k_v_SBA_902_2.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,2.269999999999982
+6k_v_SBA_902_2-seg_54_770-61_030,batch_4/6k_v_SBA_902_2.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,6.259999999999991
+6k_v_SBA_902_2-seg_578_210-580_350,batch_4/6k_v_SBA_902_2.wav:Speaker1متحدث,SADA_HIJ,حكايات بابا فرحان,2.1400000000001
+6k_v_SBA_939_2-seg_143_744-150_110,batch_4/6k_v_SBA_939_2.wav:Speaker2متحدث,SADA_HIJ,أبجد هوز,6.365700935573159
+6k_v_SBA_939_2-seg_341_320-343_750,batch_4/6k_v_SBA_939_2.wav:Speaker2متحدث,SADA_HIJ,أبجد هوز,2.4300000000001205
+6k_v_SBA_939_2-seg_227_403-233_171,batch_4/6k_v_SBA_939_2.wav:Speaker2متحدث,SADA_HIJ,أبجد هوز,5.76863706676599
+6k_v_SBA_939_2-seg_271_250-274_760,batch_4/6k_v_SBA_939_2.wav:Speaker2متحدث,SADA_HIJ,أبجد هوز,3.509999999999991
+6k_v_SBA_939_2-seg_239_940-245_960,batch_4/6k_v_SBA_939_2.wav:Speaker2متحدث,SADA_HIJ,أبجد هوز,6.019999999999982
+6k_v_SBA_939_2-seg_90_843-96_060,batch_4/6k_v_SBA_939_2.wav:Speaker2متحدث,SADA_HIJ,أبجد هوز,5.217182629438639
+6k_v_SBA_939_2-seg_214_586-219_080,batch_4/6k_v_SBA_939_2.wav:Speaker2متحدث,SADA_HIJ,أبجد هوز,4.494320480278759
+6k_v_SBA_939_2-seg_221_663-225_010,batch_4/6k_v_SBA_939_2.wav:Speaker2متحدث,SADA_HIJ,أبجد هوز,3.347180682542984
+6k_v_SBA_939_2-seg_254_250-256_850,batch_4/6k_v_SBA_939_2.wav:Speaker2متحدث,SADA_HIJ,أبجد هوز,2.6000000000001364
+6k_SBA_107_1-seg_59_070-62_220,batch_1/6k_SBA_107_1.wav:Speaker2متحدث,SADA_KHA,الديرة نت,3.150000000000091
+6k_SBA_107_1-seg_447_850-452_070,batch_1/6k_SBA_107_1.wav:Speaker2متحدث,SADA_KHA,الديرة نت,4.220000000000027
+6k_SBA_107_1-seg_99_110-102_580,batch_1/6k_SBA_107_1.wav:Speaker2متحدث,SADA_KHA,الديرة نت,3.470000000000028
+6k_SBA_107_1-seg_352_390-359_630,batch_1/6k_SBA_107_1.wav:Speaker2متحدث,SADA_KHA,الديرة نت,7.240000000000009
+6k_SBA_109_0-seg_425_043-429_090,batch_1/6k_SBA_109_0.wav:Speaker1متحدث,SADA_KHA,الديرة نت,4.04691878866339
+6k_SBA_109_0-seg_413_360-417_593,batch_1/6k_SBA_109_0.wav:Speaker1متحدث,SADA_KHA,الديرة نت,4.233322561511841
+6k_SBA_109_0-seg_404_980-407_072,batch_1/6k_SBA_109_0.wav:Speaker1متحدث,SADA_KHA,الديرة نت,2.091621529276381
+6k_SBA_109_0-seg_432_381-436_181,batch_1/6k_SBA_109_0.wav:Speaker1متحدث,SADA_KHA,الديرة نت,3.7999266292620177
+6k_SBA_110_1-seg_119_860-122_200,batch_1/6k_SBA_110_1.wav:Speaker1متحدث,SADA_KHA,الديرة نت,2.340000000000032
+6k_SBA_110_1-seg_172_862-181_833,batch_1/6k_SBA_110_1.wav:Speaker2متحدث,SADA_KHA,الديرة نت,8.971156587677228
+6k_SBA_110_1-seg_45_768-53_241,batch_1/6k_SBA_110_1.wav:Speaker1متحدث,SADA_KHA,الديرة نت,7.473067258020912
+6k_SBA_110_1-seg_42_638-45_723,batch_1/6k_SBA_110_1.wav:Speaker2متحدث,SADA_KHA,الديرة نت,3.085620737162856
+6k_SBA_110_1-seg_53_270-61_130,batch_1/6k_SBA_110_1.wav:Speaker2متحدث,SADA_KHA,الديرة نت,7.86008488664848
+6k_SBA_110_1-seg_76_670-82_554,batch_1/6k_SBA_110_1.wav:Speaker1متحدث,SADA_KHA,الديرة نت,5.883654244872702
+6k_SBA_110_1-seg_126_460-133_990,batch_1/6k_SBA_110_1.wav:Speaker2متحدث,SADA_KHA,الديرة نت,7.529999999999973
+6k_SBA_110_1-seg_123_020-125_840,batch_1/6k_SBA_110_1.wav:Speaker1متحدث,SADA_KHA,الديرة نت,2.8199999999999363
+6k_SBA_115_0-seg_141_280-146_977,batch_1/6k_SBA_115_0.wav:Speaker3متحدث,SADA_KHA,الديرة نت,5.697318449604353
+6k_SBA_115_0-seg_597_767-601_417,batch_1/6k_SBA_115_0.wav:Speaker3متحدث,SADA_KHA,الديرة نت,3.649342694450297
+6k_SBA_115_0-seg_161_890-167_502,batch_1/6k_SBA_115_0.wav:Speaker3متحدث,SADA_KHA,الديرة نت,5.61231007453091
+6k_SBA_115_0-seg_133_179-135_370,batch_1/6k_SBA_115_0.wav:Speaker3متحدث,SADA_KHA,الديرة نت,2.1909474340036468
+6k_SBA_117_1-seg_479_990-482_550,batch_1/6k_SBA_117_1.wav:Speaker1متحدث,SADA_KHA,الديرة نت,2.560000000000173
+6k_SBA_117_1-seg_126_780-133_530,batch_1/6k_SBA_117_1.wav:Speaker1متحدث,SADA_KHA,الديرة نت,6.75
+6k_SBA_117_1-seg_472_660-479_210,batch_1/6k_SBA_117_1.wav:Speaker1متحدث,SADA_KHA,الديرة نت,6.5499999999999545
+6k_SBA_117_1-seg_81_110-86_950,batch_1/6k_SBA_117_1.wav:Speaker1متحدث,SADA_KHA,الديرة نت,5.839999999999918
+6k_SBA_117_1-seg_431_230-433_540,batch_1/6k_SBA_117_1.wav:Speaker1متحدث,SADA_KHA,الديرة نت,2.309999999999945
+6k_SBA_117_1-seg_64_130-66_590,batch_1/6k_SBA_117_1.wav:Speaker1متحدث,SADA_KHA,الديرة نت,2.4599999999999227
+6k_SBA_117_1-seg_405_800-407_840,batch_1/6k_SBA_117_1.wav:Speaker1متحدث,SADA_KHA,الديرة نت,2.039999999999964
+6k_SBA_117_1-seg_417_730-428_830,batch_1/6k_SBA_117_1.wav:Speaker1متحدث,SADA_KHA,الديرة نت,11.100000000000136
+6k_SBA_123_2-seg_133_670-143_650,batch_1/6k_SBA_123_2.wav:Speaker1متحدث,SADA_KHA,الديرة نت,9.97999999999979
+6k_SBA_123_2-seg_74_525-80_040,batch_1/6k_SBA_123_2.wav:Speaker1متحدث,SADA_KHA,الديرة نت,5.514999048414779
+6k_SBA_123_2-seg_470_530-475_420,batch_1/6k_SBA_123_2.wav:Speaker1متحدث,SADA_KHA,الديرة نت,4.8900000000001
+6k_SBA_123_2-seg_173_950-180_660,batch_1/6k_SBA_123_2.wav:Speaker1متحدث,SADA_KHA,الديرة نت,6.710000000000036
+6k_SBA_123_2-seg_51_880-55_170,batch_1/6k_SBA_123_2.wav:Speaker1متحدث,SADA_KHA,الديرة نت,3.290000000000191
+6k_SBA_123_2-seg_467_430-469_750,batch_1/6k_SBA_123_2.wav:Speaker1متحدث,SADA_KHA,الديرة نت,2.3199999999999363
+6k_SBA_133_0-seg_311_910-315_280,batch_1/6k_SBA_133_0.wav:Speaker3متحدث,SADA_KHA,الديرة نت,3.369999999999948
+6k_SBA_133_0-seg_477_030-482_600,batch_1/6k_SBA_133_0.wav:Speaker3متحدث,SADA_KHA,الديرة نت,5.57000000000005
+6k_SBA_133_0-seg_333_350-335_530,batch_1/6k_SBA_133_0.wav:Speaker3متحدث,SADA_KHA,الديرة نت,2.17999999999995
+6k_SBA_133_0-seg_258_490-266_820,batch_1/6k_SBA_133_0.wav:Speaker3متحدث,SADA_KHA,الديرة نت,8.329999999999984
+6k_SBA_133_0-seg_147_590-152_560,batch_1/6k_SBA_133_0.wav:Speaker3متحدث,SADA_KHA,الديرة نت,4.969999999999999
+6k_SBA_133_0-seg_139_190-142_500,batch_1/6k_SBA_133_0.wav:Speaker3متحدث,SADA_KHA,الديرة نت,3.3100000000000023
+6k_SBA_133_0-seg_234_360-239_250,batch_1/6k_SBA_133_0.wav:Speaker3متحدث,SADA_KHA,الديرة نت,4.889999999999986
+6k_SBA_133_0-seg_143_080-146_340,batch_1/6k_SBA_133_0.wav:Speaker3متحدث,SADA_KHA,الديرة نت,3.259999999999991
+6k_SBA_133_0-seg_469_310-471_890,batch_1/6k_SBA_133_0.wav:Speaker3متحدث,SADA_KHA,الديرة نت,2.579999999999984
+6k_SBA_23_1-seg_101_550-107_237,batch_1/6k_SBA_23_1.wav:Speaker4متحدث,SADA_KHA,احساس,5.686696826482674
+6k_SBA_23_1-seg_216_960-218_960,batch_1/6k_SBA_23_1.wav:Speaker4متحدث,SADA_KHA,احساس,2.0
+6k_SBA_23_1-seg_298_130-300_900,batch_1/6k_SBA_23_1.wav:Speaker4متحدث,SADA_KHA,احساس,2.769999999999982
+6k_SBA_23_1-seg_223_620-226_350,batch_1/6k_SBA_23_1.wav:Speaker4متحدث,SADA_KHA,احساس,2.730000000000018
+6k_SBA_23_1-seg_210_950-215_760,batch_1/6k_SBA_23_1.wav:Speaker4متحدث,SADA_KHA,احساس,4.809999999999945
+6k_SBA_23_2-seg_516_750-518_980,batch_1/6k_SBA_23_2.wav:Speaker2متحدث,SADA_KHA,احساس,2.230000000000018
+6k_SBA_23_2-seg_569_603-571_680,batch_1/6k_SBA_23_2.wav:Speaker2متحدث,SADA_KHA,احساس,2.076536201702311
+6k_SBA_23_2-seg_134_767-144_700,batch_1/6k_SBA_23_2.wav:Speaker2متحدث,SADA_KHA,احساس,9.933698146141635
+6k_SBA_23_2-seg_94_230-97_700,batch_1/6k_SBA_23_2.wav:Speaker2متحدث,SADA_KHA,احساس,3.469907522576108
+6k_SBA_23_2-seg_110_443-115_000,batch_1/6k_SBA_23_2.wav:Speaker2متحدث,SADA_KHA,احساس,4.556820272059724
+6k_SBA_23_2-seg_576_610-584_300,batch_1/6k_SBA_23_2.wav:Speaker2متحدث,SADA_KHA,احساس,7.690000000000055
+6k_SBA_23_2-seg_122_700-124_830,batch_1/6k_SBA_23_2.wav:Speaker2متحدث,SADA_KHA,احساس,2.1299999999998818
+6k_SBA_23_2-seg_272_990-275_100,batch_1/6k_SBA_23_2.wav:Speaker2متحدث,SADA_KHA,احساس,2.1099999999999
+6k_SBA_28_1-seg_317_130-320_340,batch_1/6k_SBA_28_1.wav:Speaker2متحدث,SADA_KHA,اختراق,3.2100000000000364
+6k_SBA_28_1-seg_247_370-252_330,batch_1/6k_SBA_28_1.wav:Speaker2متحدث,SADA_KHA,اختراق,4.960000000000036
+6k_SBA_28_1-seg_201_050-203_180,batch_1/6k_SBA_28_1.wav:Speaker2متحدث,SADA_KHA,اختراق,2.1299999999999955
+6k_SBA_28_1-seg_284_690-289_950,batch_1/6k_SBA_28_1.wav:Speaker2متحدث,SADA_KHA,اختراق,5.259999999999991
+6k_SBA_62_0-seg_404_683-408_133,batch_1/6k_SBA_62_0.wav:Speaker3متحدث,SADA_KHA,اخواني اخواتي,3.45010745234822
+6k_SBA_62_0-seg_572_230-576_392,batch_1/6k_SBA_62_0.wav:Speaker3متحدث,SADA_KHA,اخواني اخواتي,4.16205067957037
+6k_SBA_62_0-seg_200_306-206_570,batch_1/6k_SBA_62_0.wav:Speaker3متحدث,SADA_KHA,اخواني اخواتي,6.264162852885306
+6k_SBA_62_0-seg_207_170-215_306,batch_1/6k_SBA_62_0.wav:Speaker3متحدث,SADA_KHA,اخواني اخواتي,8.136291872994036
+6k_SBA_62_0-seg_231_271-234_040,batch_1/6k_SBA_62_0.wav:Speaker3متحدث,SADA_KHA,اخواني اخواتي,2.7691310375319347
+6k_SBA_62_0-seg_564_703-569_447,batch_1/6k_SBA_62_0.wav:Speaker3متحدث,SADA_KHA,اخواني اخواتي,4.743248721097871
+6k_SBA_62_0-seg_463_830-474_434,batch_1/6k_SBA_62_0.wav:Speaker3متحدث,SADA_KHA,اخواني اخواتي,10.603670094252664
+6k_SBA_62_0-seg_195_520-200_153,batch_1/6k_SBA_62_0.wav:Speaker3متحدث,SADA_KHA,اخواني اخواتي,4.633133482347546
+6k_SBA_62_0-seg_218_167-225_051,batch_1/6k_SBA_62_0.wav:Speaker3متحدث,SADA_KHA,اخواني اخواتي,6.883547718936285
+6k_SBA_62_0-seg_226_284-229_218,batch_1/6k_SBA_62_0.wav:Speaker3متحدث,SADA_KHA,اخواني اخواتي,2.9334246937839623
+6k_SBA_62_0-seg_445_106-447_523,batch_1/6k_SBA_62_0.wav:Speaker3متحدث,SADA_KHA,اخواني اخواتي,2.416741935219761
+6k_SBA_62_0-seg_256_307-259_370,batch_1/6k_SBA_62_0.wav:Speaker3متحدث,SADA_KHA,اخواني اخواتي,3.0624903255388176
+6k_SBA_73_0-seg_420_010-432_290,batch_1/6k_SBA_73_0.wav:Speaker2متحدث,SADA_KHA,اخواني اخواتي,12.280501235465124
+6k_SBA_73_0-seg_217_300-229_944,batch_1/6k_SBA_73_0.wav:Speaker1متحدث,SADA_KHA,اخواني اخواتي,12.643548510174412
+6k_SBA_73_0-seg_212_670-216_550,batch_1/6k_SBA_73_0.wav:Speaker1متحدث,SADA_KHA,اخواني اخواتي,3.880000000000024
+6k_SBA_73_0-seg_203_059-205_092,batch_1/6k_SBA_73_0.wav:Speaker2متحدث,SADA_KHA,اخواني اخواتي,2.033273940630579
+6k_SBA_73_0-seg_410_934-415_294,batch_1/6k_SBA_73_0.wav:Speaker2متحدث,SADA_KHA,اخواني اخواتي,4.35987264646684
+6k_SBA_73_0-seg_148_306-152_573,batch_1/6k_SBA_73_0.wav:Speaker1متحدث,SADA_KHA,اخواني اخواتي,4.266542039355983
+6k_SBA_73_0-seg_250_610-254_307,batch_1/6k_SBA_73_0.wav:Speaker1متحدث,SADA_KHA,اخواني اخواتي,3.696620905076003
+6k_SBA_73_0-seg_134_170-148_239,batch_1/6k_SBA_73_0.wav:Speaker2متحدث,SADA_KHA,اخواني اخواتي,14.06930627375894
+6k_SBA_94_1-seg_79_900-87_023,batch_1/6k_SBA_94_1.wav:Speaker5متحدث,SADA_KHA,الجفاف يقتل الندى,7.123508356128795
+6k_SBA_94_1-seg_572_280-581_150,batch_1/6k_SBA_94_1.wav:Speaker5متحدث,SADA_KHA,الجفاف يقتل الندى,8.87005796209462
+6k_SBA_94_1-seg_171_508-181_674,batch_1/6k_SBA_94_1.wav:Speaker5متحدث,SADA_KHA,الجفاف يقتل الندى,10.166493348638769
+6k_SBA_94_1-seg_301_770-313_037,batch_1/6k_SBA_94_1.wav:Speaker5متحدث,SADA_KHA,الجفاف يقتل الندى,11.266474596196415
+6k_SBA_94_1-seg_248_511-255_911,batch_1/6k_SBA_94_1.wav:Speaker5متحدث,SADA_KHA,الجفاف يقتل الندى,7.399873847205953
+6k_SBA_94_2-seg_312_850-317_087,batch_1/6k_SBA_94_2.wav:Speaker4متحدث,SADA_KHA,الجفاف يقتل الندى,4.236651802042843
+6k_SBA_94_2-seg_406_532-408_815,batch_1/6k_SBA_94_2.wav:Speaker4متحدث,SADA_KHA,الجفاف يقتل الندى,2.2833657462621773
+6k_SBA_94_2-seg_151_968-155_701,batch_1/6k_SBA_94_2.wav:Speaker3متحدث,SADA_KHA,الجفاف يقتل الندى,3.733386329654678
+6k_SBA_94_2-seg_235_000-238_140,batch_1/6k_SBA_94_2.wav:Speaker3متحدث,SADA_KHA,الجفاف يقتل الندى,3.1399999999998727
+6k_SBA_94_2-seg_220_040-223_080,batch_1/6k_SBA_94_2.wav:Speaker3متحدث,SADA_KHA,الجفاف يقتل الندى,3.039999999999964
+6k_SBA_94_2-seg_263_223-266_570,batch_1/6k_SBA_94_2.wav:Speaker4متحدث,SADA_KHA,الجفاف يقتل الندى,3.346615089889667
+6k_SBA_94_2-seg_347_010-361_530,batch_1/6k_SBA_94_2.wav:Speaker4متحدث,SADA_KHA,الجفاف يقتل الندى,14.519946057315678
+6k_SBA_94_2-seg_108_392-110_570,batch_1/6k_SBA_94_2.wav:Speaker3متحدث,SADA_KHA,الجفاف يقتل الندى,2.178090332057224
+6k_SHTV_61_1-seg_593_140-606_890,batch_1/6k_SHTV_61_1.wav:Speaker2متحدث,SADA_KHA,خزنة,13.75
+6k_SHTV_61_1-seg_554_660-558_030,batch_1/6k_SHTV_61_1.wav:Speaker2متحدث,SADA_KHA,خزنة,3.369999999999891
+6k_SHTV_61_1-seg_60_210-67_400,batch_1/6k_SHTV_61_1.wav:Speaker2متحدث,SADA_KHA,خزنة,7.190000000000055
+6k_SHTV_61_1-seg_394_100-403_210,batch_1/6k_SHTV_61_1.wav:Speaker2متحدث,SADA_KHA,خزنة,9.110000000000014
+6k_SHTV_62_2-seg_378_937-381_410,batch_1/6k_SHTV_62_2.wav:Speaker4متحدث,SADA_KHA,خزنة,2.472670799838681
+6k_SHTV_62_2-seg_22_621-25_230,batch_1/6k_SHTV_62_2.wav:Speaker2متحدث,SADA_KHA,خزنة,2.6088284641941257
+6k_SHTV_62_2-seg_243_611-246_008,batch_1/6k_SHTV_62_2.wav:Speaker2متحدث,SADA_KHA,خزنة,2.3968641552442023
+6k_SHTV_62_2-seg_300_990-305_561,batch_1/6k_SHTV_62_2.wav:Speaker4متحدث,SADA_KHA,خزنة,4.570555402193065
+6k_SHTV_62_2-seg_250_470-252_540,batch_1/6k_SHTV_62_2.wav:Speaker4متحدث,SADA_KHA,خزنة,2.070000000000164
+6k_SHTV_62_2-seg_256_039-260_580,batch_1/6k_SHTV_62_2.wav:Speaker4متحدث,SADA_KHA,خزنة,4.540751630432283
+6k_SHTV_62_2-seg_516_640-524_902,batch_1/6k_SHTV_62_2.wav:Speaker2متحدث,SADA_KHA,خزنة,8.262196432771475
+6k_SHTV_62_2-seg_540_853-542_914,batch_1/6k_SHTV_62_2.wav:Speaker2متحدث,SADA_KHA,خزنة,2.0611156629124707
+6k_SHTV_73_0-seg_307_758-311_982,batch_1/6k_SHTV_73_0.wav:Speaker4متحدث,SADA_KHA,خزنة,4.224342372531567
+6k_SHTV_73_0-seg_398_910-404_955,batch_1/6k_SHTV_73_0.wav:Speaker4متحدث,SADA_KHA,خزنة,6.044987815171055
+6k_SHTV_73_0-seg_320_756-324_489,batch_1/6k_SHTV_73_0.wav:Speaker4متحدث,SADA_KHA,خزنة,3.7332255095492433
+6k_SHTV_73_0-seg_396_153-398_318,batch_1/6k_SHTV_73_0.wav:Speaker4متحدث,SADA_KHA,خزنة,2.165001385148571
+6k_SHTV_73_0-seg_364_854-367_130,batch_1/6k_SHTV_73_0.wav:Speaker4متحدث,SADA_KHA,خزنة,2.2764578096340533
+6k_SHTV_73_0-seg_465_292-470_172,batch_1/6k_SHTV_73_0.wav:Speaker4متحدث,SADA_KHA,خزنة,4.8800031221824725
+6k_SHTV_73_0-seg_294_415-296_457,batch_1/6k_SHTV_73_0.wav:Speaker4متحدث,SADA_KHA,خزنة,2.0416310791383694
+6k_v2ms_SBA_1157_segmented_2-seg_102_430-106_070,batch_1/6k_v2ms_SBA_1157_segmented_2.wav:Speaker1متحدث,SADA_KHA,غلطة نوف,3.6399999999998727
+6k_v2ms_SBA_1157_segmented_2-seg_297_750-301_500,batch_1/6k_v2ms_SBA_1157_segmented_2.wav:Speaker1متحدث,SADA_KHA,غلطة نوف,3.75
+6k_v2ms_SBA_1157_segmented_2-seg_18_760-20_810,batch_1/6k_v2ms_SBA_1157_segmented_2.wav:Speaker1متحدث,SADA_KHA,غلطة نوف,2.0499999999999545
+6k_v2ms_SBA_1157_segmented_2-seg_73_340-75_520,batch_1/6k_v2ms_SBA_1157_segmented_2.wav:Speaker1متحدث,SADA_KHA,غلطة نوف,2.180000000000064
+6k_v2ms_SBA_1401_segmented_0-seg_64_780-67_010,batch_1/6k_v2ms_SBA_1401_segmented_0.wav:Speaker2متحدث,SADA_KHA,طاش ما طاش,2.230000000000004
+6k_v2ms_SBA_1401_segmented_0-seg_493_810-496_350,batch_1/6k_v2ms_SBA_1401_segmented_0.wav:Speaker2متحدث,SADA_KHA,طاش ما طاش,2.5400000000000205
+6k_v2ms_SBA_1401_segmented_0-seg_324_800-328_000,batch_1/6k_v2ms_SBA_1401_segmented_0.wav:Speaker2متحدث,SADA_KHA,طاش ما طاش,3.1999999999999886
+6k_v2ms_SBA_1401_segmented_0-seg_223_200-229_200,batch_1/6k_v2ms_SBA_1401_segmented_0.wav:Speaker2متحدث,SADA_KHA,طاش ما طاش,6.0
+6k_v2ms_SBA_1401_segmented_0-seg_431_830-436_040,batch_1/6k_v2ms_SBA_1401_segmented_0.wav:Speaker2متحدث,SADA_KHA,طاش ما طاش,4.210000000000036
+6k_v2ms_SBA_1401_segmented_0-seg_88_120-91_710,batch_1/6k_v2ms_SBA_1401_segmented_0.wav:Speaker2متحدث,SADA_KHA,طاش ما طاش,3.589999999999989
+6k_v2ms_SBA_1401_segmented_0-seg_52_470-54_990,batch_1/6k_v2ms_SBA_1401_segmented_0.wav:Speaker2متحدث,SADA_KHA,طاش ما طاش,2.520000000000003
+6k_v2ms_SBA_1784_segmented_0-seg_351_900-355_480,batch_1/6k_v2ms_SBA_1784_segmented_0.wav:Speaker3متحدث,SADA_KHA,شيكات,3.580000000000041
+6k_v2ms_SBA_1784_segmented_0-seg_260_470-270_177,batch_1/6k_v2ms_SBA_1784_segmented_0.wav:Speaker3متحدث,SADA_KHA,شيكات,9.70666634846168
+6k_v2ms_SBA_1784_segmented_0-seg_270_970-275_050,batch_1/6k_v2ms_SBA_1784_segmented_0.wav:Speaker3متحدث,SADA_KHA,شيكات,4.079999999999984
+6k_v2ms_SBA_1784_segmented_0-seg_523_390-526_860,batch_1/6k_v2ms_SBA_1784_segmented_0.wav:Speaker3متحدث,SADA_KHA,شيكات,3.470000000000028
+6k_v2ms_SBA_1784_segmented_0-seg_372_570-375_980,batch_1/6k_v2ms_SBA_1784_segmented_0.wav:Speaker3متحدث,SADA_KHA,شيكات,3.410000000000025
+6k_v2ms_SBA_1784_segmented_0-seg_287_080-291_740,batch_1/6k_v2ms_SBA_1784_segmented_0.wav:Speaker3متحدث,SADA_KHA,شيكات,4.660000000000025
+6k_v2ms_SBA_1784_segmented_0-seg_314_440-320_420,batch_1/6k_v2ms_SBA_1784_segmented_0.wav:Speaker3متحدث,SADA_KHA,شيكات,5.980000000000018
+6k_v2ms_SBA_1784_segmented_0-seg_104_490-107_870,batch_1/6k_v2ms_SBA_1784_segmented_0.wav:Speaker3متحدث,SADA_KHA,شيكات,3.3800000000000097
+6k_v2ms_SBA_1784_segmented_0-seg_551_590-557_010,batch_1/6k_v2ms_SBA_1784_segmented_0.wav:Speaker3متحدث,SADA_KHA,شيكات,5.419999999999959
+6k_v2ms_SBA_1784_segmented_0-seg_185_100-188_407,batch_1/6k_v2ms_SBA_1784_segmented_0.wav:Speaker3متحدث,SADA_KHA,شيكات,3.306666348461704
+6k_v2ms_SBA_3_segmented_0-seg_342_950-347_040,batch_1/6k_v2ms_SBA_3_segmented_0.wav:Speaker3متحدث,SADA_KHA,عائلة أبو رويشد,4.090000000000032
+6k_v2ms_SBA_3_segmented_0-seg_255_980-258_780,batch_1/6k_v2ms_SBA_3_segmented_0.wav:Speaker3متحدث,SADA_KHA,عائلة أبو رويشد,2.799999999999983
+6k_v2ms_SBA_3_segmented_0-seg_229_430-232_450,batch_1/6k_v2ms_SBA_3_segmented_0.wav:Speaker3متحدث,SADA_KHA,عائلة أبو رويشد,3.019999999999982
+6k_v2ms_SBA_3_segmented_0-seg_333_850-337_800,batch_1/6k_v2ms_SBA_3_segmented_0.wav:Speaker3متحدث,SADA_KHA,عائلة أبو رويشد,3.9499999999999886
+6k_v2ms_SBA_3_segmented_0-seg_505_390-510_490,batch_1/6k_v2ms_SBA_3_segmented_0.wav:Speaker3متحدث,SADA_KHA,عائلة أبو رويشد,5.100000000000023
+6k_v2ms_SBA_3_segmented_0-seg_383_790-392_890,batch_1/6k_v2ms_SBA_3_segmented_0.wav:Speaker3متحدث,SADA_KHA,عائلة أبو رويشد,9.099999999999966
+6k_v_SBA2_2346_1-seg_563_950-570_760,batch_1/6k_v_SBA2_2346_1.wav:Speaker1متحدث,SADA_KHA,برنامج اخر الأسبوع,6.809999999999945
+6k_v_SBA2_2346_1-seg_593_260-596_680,batch_1/6k_v_SBA2_2346_1.wav:Speaker1متحدث,SADA_KHA,برنامج اخر الأسبوع,3.4200000000000728
+6k_v_SBA2_2346_1-seg_484_350-487_560,batch_1/6k_v_SBA2_2346_1.wav:Speaker1متحدث,SADA_KHA,برنامج اخر الأسبوع,3.2100000000000364
+6k_v_SBA2_2346_1-seg_510_860-513_980,batch_1/6k_v_SBA2_2346_1.wav:Speaker1متحدث,SADA_KHA,برنامج اخر الأسبوع,3.1200000000001182
+6k_v_SBA3_2490_0-seg_250_700-262_030,batch_2/6k_v_SBA3_2490_0.wav:Speaker1متحدث,SADA_KHA,ضحى مع القصار,11.329999999999984
+6k_v_SBA3_2490_0-seg_545_260-553_270,batch_2/6k_v_SBA3_2490_0.wav:Speaker1متحدث,SADA_KHA,ضحى مع القصار,8.009999999999991
+6k_v_SBA3_2490_0-seg_378_810-386_900,batch_2/6k_v_SBA3_2490_0.wav:Speaker1متحدث,SADA_KHA,ضحى مع القصار,8.089999999999975
+6k_v_SBA3_2490_0-seg_533_310-538_710,batch_2/6k_v_SBA3_2490_0.wav:Speaker1متحدث,SADA_KHA,ضحى مع القصار,5.400000000000091
+6k_v_SBA3_2490_0-seg_262_210-270_470,batch_2/6k_v_SBA3_2490_0.wav:Speaker1متحدث,SADA_KHA,ضحى مع القصار,8.260000000000048
+6k_v_SBA3_2537_1-seg_247_160-250_130,batch_2/6k_v_SBA3_2537_1.wav:Speaker1متحدث,SADA_KHA,ضحى مع القصار,2.970000000000028
+6k_v_SBA3_2537_1-seg_151_290-163_790,batch_2/6k_v_SBA3_2537_1.wav:Speaker1متحدث,SADA_KHA,ضحى مع القصار,12.5
+6k_v_SBA3_2537_1-seg_513_320-515_950,batch_2/6k_v_SBA3_2537_1.wav:Speaker1متحدث,SADA_KHA,ضحى مع القصار,2.6299999999998818
+6k_v_SBA3_2537_1-seg_165_320-167_680,batch_2/6k_v_SBA3_2537_1.wav:Speaker1متحدث,SADA_KHA,ضحى مع القصار,2.3600000000000136
+6k_v_SBA3_2563_0-seg_53_720-57_220,batch_2/6k_v_SBA3_2563_0.wav:Speaker1متحدث,SADA_KHA,مطبخ ضحى,3.5
+6k_v_SBA3_2563_0-seg_258_980-263_870,batch_2/6k_v_SBA3_2563_0.wav:Speaker1متحدث,SADA_KHA,مطبخ ضحى,4.889999999999986
+6k_v_SBA3_2563_0-seg_255_770-257_830,batch_2/6k_v_SBA3_2563_0.wav:Speaker1متحدث,SADA_KHA,مطبخ ضحى,2.059999999999974
+6k_v_SBA3_2563_0-seg_310_090-312_560,batch_2/6k_v_SBA3_2563_0.wav:Speaker1متحدث,SADA_KHA,مطبخ ضحى,2.470000000000028
+6k_v_SBA3_2563_0-seg_394_670-396_680,batch_2/6k_v_SBA3_2563_0.wav:Speaker1متحدث,SADA_KHA,مطبخ ضحى,2.009999999999991
+6k_v_SBA3_2563_0-seg_273_180-286_470,batch_2/6k_v_SBA3_2563_0.wav:Speaker1متحدث,SADA_KHA,مطبخ ضحى,13.29000000000002
+6k_v_SBA3_2563_0-seg_435_620-439_010,batch_2/6k_v_SBA3_2563_0.wav:Speaker1متحدث,SADA_KHA,مطبخ ضحى,3.3899999999999864
+6k_v_SBA3_2563_0-seg_158_470-162_220,batch_2/6k_v_SBA3_2563_0.wav:Speaker1متحدث,SADA_KHA,مطبخ ضحى,3.75
+6k_v_SBA3_2563_0-seg_267_360-271_870,batch_2/6k_v_SBA3_2563_0.wav:Speaker1متحدث,SADA_KHA,مطبخ ضحى,4.509999999999991
+6k_v_SBA3_2563_0-seg_210_890-218_340,batch_2/6k_v_SBA3_2563_0.wav:Speaker1متحدث,SADA_KHA,مطبخ ضحى,7.450000000000018
+6k_v_SBA3_2563_0-seg_409_010-412_360,batch_2/6k_v_SBA3_2563_0.wav:Speaker1متحدث,SADA_KHA,مطبخ ضحى,3.3500000000000227
+6k_v_SBA3_2603_2-seg_446_390-449_050,batch_2/6k_v_SBA3_2603_2.wav:Speaker1متحدث,SADA_KHA,ضحى مع القصار,2.660000000000082
+6k_v_SBA3_2603_2-seg_237_150-241_368,batch_2/6k_v_SBA3_2603_2.wav:Speaker1متحدث,SADA_KHA,ضحى مع القصار,4.217778106448037
+6k_v_SBA3_2603_2-seg_571_190-574_290,batch_2/6k_v_SBA3_2603_2.wav:Speaker1متحدث,SADA_KHA,ضحى مع القصار,3.099999999999909
+6k_v_SBA3_2603_2-seg_58_170-63_092,batch_2/6k_v_SBA3_2603_2.wav:Speaker1متحدث,SADA_KHA,ضحى مع القصار,4.922221470976389
+6k_v_SBA3_2603_2-seg_257_351-259_410,batch_2/6k_v_SBA3_2603_2.wav:Speaker1متحدث,SADA_KHA,ضحى مع القصار,2.058888841935982
+6k_v_SBA3_2603_2-seg_353_270-359_920,batch_2/6k_v_SBA3_2603_2.wav:Speaker1متحدث,SADA_KHA,ضحى مع القصار,6.649999999999864
+6k_v_SBA3_2603_2-seg_438_860-443_640,batch_2/6k_v_SBA3_2603_2.wav:Speaker1متحدث,SADA_KHA,ضحى مع القصار,4.779999999999973
+6k_v_SBA3_2905_2-seg_585_090-588_770,batch_2/6k_v_SBA3_2905_2.wav:Speaker2متحدث,SADA_KHA,ضحى مع القصار,3.680000000000064
+6k_v_SBA3_2905_2-seg_234_160-236_300,batch_2/6k_v_SBA3_2905_2.wav:Speaker2متحدث,SADA_KHA,ضحى مع القصار,2.1399999999998727
+6k_v_SBA3_2905_2-seg_145_280-154_750,batch_2/6k_v_SBA3_2905_2.wav:Speaker2متحدث,SADA_KHA,ضحى مع القصار,9.470000000000027
+6k_v_SBA3_2905_2-seg_282_260-285_930,batch_2/6k_v_SBA3_2905_2.wav:Speaker2متحدث,SADA_KHA,ضحى مع القصار,3.6700000000000728
+6k_v_SBA3_2921_1-seg_219_770-225_280,batch_2/6k_v_SBA3_2921_1.wav:Speaker2متحدث,SADA_KHA,ضحى مع القصار,5.509999999999991
+6k_v_SBA3_2921_1-seg_149_570-157_000,batch_2/6k_v_SBA3_2921_1.wav:Speaker2متحدث,SADA_KHA,ضحى مع القصار,7.430000000000064
+6k_v_SBA3_2921_1-seg_271_990-274_440,batch_2/6k_v_SBA3_2921_1.wav:Speaker2متحدث,SADA_KHA,ضحى مع القصار,2.449999999999932
+6k_v_SBA3_2921_1-seg_135_760-137_957,batch_2/6k_v_SBA3_2921_1.wav:Speaker2متحدث,SADA_KHA,ضحى مع القصار,2.196667511223467
+6k_v_SBA3_2921_1-seg_470_027-476_010,batch_2/6k_v_SBA3_2921_1.wav:Speaker2متحدث,SADA_KHA,ضحى مع القصار,5.983331475308148
+6k_v_SBA3_2921_1-seg_278_680-281_000,batch_2/6k_v_SBA3_2921_1.wav:Speaker2متحدث,SADA_KHA,ضحى مع القصار,2.32000000000005
+6k_v_SBA3_2939_2-seg_416_230-423_120,batch_2/6k_v_SBA3_2939_2.wav:Speaker1متحدث,SADA_KHA,ضحى مع القصار,6.8900000000001
+6k_v_SBA3_2939_2-seg_384_940-392_700,batch_2/6k_v_SBA3_2939_2.wav:Speaker1متحدث,SADA_KHA,ضحى مع القصار,7.759999999999991
+6k_v_SBA3_2939_2-seg_380_880-383_750,batch_2/6k_v_SBA3_2939_2.wav:Speaker1متحدث,SADA_KHA,ضحى مع القصار,2.8700000000001182
+6k_v_SBA3_2939_2-seg_593_480-602_090,batch_2/6k_v_SBA3_2939_2.wav:Speaker1متحدث,SADA_KHA,ضحى مع القصار,8.610000000000127
+6k_v_SBA3_2939_2-seg_253_210-257_550,batch_2/6k_v_SBA3_2939_2.wav:Speaker1متحدث,SADA_KHA,ضحى مع القصار,4.3400000000001455
+6k_v_SBA3_2939_2-seg_161_330-164_800,batch_2/6k_v_SBA3_2939_2.wav:Speaker1متحدث,SADA_KHA,ضحى مع القصار,3.470000000000028
+6k_v_SBA3_2939_2-seg_367_570-371_680,batch_2/6k_v_SBA3_2939_2.wav:Speaker1متحدث,SADA_KHA,ضحى مع القصار,4.1099999999999
+6k_v_SBA_1061_0-seg_461_320-467_740,batch_2/6k_v_SBA_1061_0.wav:Speaker4متحدث,SADA_KHA,وجه بن فهرة,6.420297284681054
+6k_v_SBA_1061_0-seg_365_630-367_870,batch_2/6k_v_SBA_1061_0.wav:Speaker4متحدث,SADA_KHA,وجه بن فهرة,2.240000000000009
+6k_v_SBA_1061_0-seg_522_239-526_130,batch_2/6k_v_SBA_1061_0.wav:Speaker4متحدث,SADA_KHA,وجه بن فهرة,3.890594569361952
+6k_v_SBA_1061_0-seg_452_670-455_530,batch_2/6k_v_SBA_1061_0.wav:Speaker4متحدث,SADA_KHA,وجه بن فهرة,2.859999999999957
+6k_v_SBA_1061_0-seg_478_300-480_540,batch_2/6k_v_SBA_1061_0.wav:Speaker4متحدث,SADA_KHA,وجه بن فهرة,2.240000000000009
+6k_v_SBA_1061_0-seg_362_350-364_350,batch_2/6k_v_SBA_1061_0.wav:Speaker4متحدث,SADA_KHA,وجه بن فهرة,2.0
+6k_v_SBA_1083_2-seg_90_170-93_160,batch_3/6k_v_SBA_1083_2.wav:Speaker2متحدث,SADA_KHA,زعرور,2.990000000000009
+6k_v_SBA_1083_2-seg_153_880-157_530,batch_3/6k_v_SBA_1083_2.wav:Speaker2متحدث,SADA_KHA,زعرور,3.649999999999864
+6k_v_SBA_1083_2-seg_216_010-220_550,batch_3/6k_v_SBA_1083_2.wav:Speaker2متحدث,SADA_KHA,زعرور,4.539999999999964
+6k_v_SBA_1083_2-seg_136_810-139_060,batch_3/6k_v_SBA_1083_2.wav:Speaker2متحدث,SADA_KHA,زعرور,2.25
+6k_v_SBA_1083_2-seg_66_300-70_330,batch_3/6k_v_SBA_1083_2.wav:Speaker2متحدث,SADA_KHA,زعرور,4.029999999999973
+6k_v_SBA_1083_2-seg_440_620-449_410,batch_3/6k_v_SBA_1083_2.wav:Speaker2متحدث,SADA_KHA,زعرور,8.789999999999964
+6k_v_SBA_1133_3-seg_53_970-59_970,batch_3/6k_v_SBA_1133_3.wav:Speaker2متحدث,SADA_KHA,وجه بن فهرة,6.000002368654165
+6k_v_SBA_1133_3-seg_271_100-273_130,batch_3/6k_v_SBA_1133_3.wav:Speaker2متحدث,SADA_KHA,وجه بن فهرة,2.0300000000002
+6k_v_SBA_1133_3-seg_350_840-353_960,batch_3/6k_v_SBA_1133_3.wav:Speaker2متحدث,SADA_KHA,وجه بن فهرة,3.119999999999891
+6k_v_SBA_1133_3-seg_22_160-25_430,batch_3/6k_v_SBA_1133_3.wav:Speaker2متحدث,SADA_KHA,وجه بن فهرة,3.270000000000209
+6k_v_SBA_1133_3-seg_70_870-74_755,batch_3/6k_v_SBA_1133_3.wav:Speaker2متحدث,SADA_KHA,وجه بن فهرة,3.885000394775759
+6k_v_SBA_1163_2-seg_278_400-282_320,batch_3/6k_v_SBA_1163_2.wav:Speaker1متحدث,SADA_KHA,طعم الأيام,3.9200000000000728
+6k_v_SBA_1163_2-seg_109_410-118_140,batch_3/6k_v_SBA_1163_2.wav:Speaker1متحدث,SADA_KHA,طعم الأيام,8.730000000000018
+6k_v_SBA_1163_2-seg_40_510-44_080,batch_3/6k_v_SBA_1163_2.wav:Speaker1متحدث,SADA_KHA,طعم الأيام,3.5699999999999363
+6k_v_SBA_1163_2-seg_103_560-105_880,batch_3/6k_v_SBA_1163_2.wav:Speaker1متحدث,SADA_KHA,طعم الأيام,2.3199999999999363
+6k_v_SBA_1234_0-seg_439_340-444_930,batch_3/6k_v_SBA_1234_0.wav:Speaker1متحدث,SADA_KHA,ابو العصافير,5.590041851539638
+6k_v_SBA_1234_0-seg_515_348-520_650,batch_3/6k_v_SBA_1234_0.wav:Speaker1متحدث,SADA_KHA,ابو العصافير,5.301960473843792
+6k_v_SBA_1234_0-seg_530_135-534_489,batch_3/6k_v_SBA_1234_0.wav:Speaker1متحدث,SADA_KHA,ابو العصافير,4.35389428717167
+6k_v_SBA_1234_0-seg_458_213-463_723,batch_3/6k_v_SBA_1234_0.wav:Speaker1متحدث,SADA_KHA,ابو العصافير,5.509950552159296
+6k_v_SBA_1269_1-seg_356_311-362_970,batch_3/6k_v_SBA_1269_1.wav:Speaker5متحدث,SADA_KHA,حكايات بابا فرحان,6.658575653256548
+6k_v_SBA_1269_1-seg_485_449-488_500,batch_3/6k_v_SBA_1269_1.wav:Speaker5متحدث,SADA_KHA,حكايات بابا فرحان,3.051474327386813
+6k_v_SBA_1269_1-seg_523_166-525_980,batch_3/6k_v_SBA_1269_1.wav:Speaker5متحدث,SADA_KHA,حكايات بابا فرحان,2.814277634062819
+6k_v_SBA_1269_1-seg_390_050-394_400,batch_3/6k_v_SBA_1269_1.wav:Speaker5متحدث,SADA_KHA,حكايات بابا فرحان,4.350000000000024
+6k_v_SBA_1377_0-seg_327_020-330_030,batch_3/6k_v_SBA_1377_0.wav:Speaker2متحدث,SADA_KHA,طاش ما طاش,3.009999999999991
+6k_v_SBA_1377_0-seg_209_030-213_800,batch_3/6k_v_SBA_1377_0.wav:Speaker2متحدث,SADA_KHA,طاش ما طاش,4.770000000000009
+6k_v_SBA_1377_0-seg_525_050-527_160,batch_3/6k_v_SBA_1377_0.wav:Speaker2متحدث,SADA_KHA,طاش ما طاش,2.1100000000000136
+6k_v_SBA_1377_0-seg_315_770-318_620,batch_3/6k_v_SBA_1377_0.wav:Speaker2متحدث,SADA_KHA,طاش ما طاش,2.8500000000000227
+6k_v_SBA_1377_0-seg_545_620-547_630,batch_3/6k_v_SBA_1377_0.wav:Speaker2متحدث,SADA_KHA,طاش ما طاش,2.009999999999991
+6k_v_SBA_1377_0-seg_320_090-325_790,batch_3/6k_v_SBA_1377_0.wav:Speaker2متحدث,SADA_KHA,طاش ما طاش,5.7000000000000455
+6k_v_SBA_1377_0-seg_331_180-336_610,batch_3/6k_v_SBA_1377_0.wav:Speaker2متحدث,SADA_KHA,طاش ما طاش,5.430000000000007
+6k_v_SBA_1378_3-seg_143_840-152_290,batch_3/6k_v_SBA_1378_3.wav:Speaker4متحدث,SADA_KHA,وينك يادرب الغنيمة,8.450000000000045
+6k_v_SBA_1378_3-seg_303_460-306_290,batch_3/6k_v_SBA_1378_3.wav:Speaker4متحدث,SADA_KHA,وينك يادرب الغنيمة,2.8299999999999272
+6k_v_SBA_1378_3-seg_138_050-142_470,batch_3/6k_v_SBA_1378_3.wav:Speaker4متحدث,SADA_KHA,وينك يادرب الغنيمة,4.420000000000074
+6k_v_SBA_1378_3-seg_318_480-322_910,batch_3/6k_v_SBA_1378_3.wav:Speaker4متحدث,SADA_KHA,وينك يادرب الغنيمة,4.429999999999836
+6k_v_SBA_1378_3-seg_325_710-327_840,batch_3/6k_v_SBA_1378_3.wav:Speaker4متحدث,SADA_KHA,وينك يادرب الغنيمة,2.130000000000109
+6k_v_SBA_1378_3-seg_153_690-164_610,batch_3/6k_v_SBA_1378_3.wav:Speaker4متحدث,SADA_KHA,وينك يادرب الغنيمة,10.919999999999842
+6k_v_SBA_1387_2-seg_212_650-214_920,batch_3/6k_v_SBA_1387_2.wav:Speaker3متحدث,SADA_KHA,مسلسل عودة عصويد,2.269999999999982
+6k_v_SBA_1387_2-seg_180_990-184_690,batch_3/6k_v_SBA_1387_2.wav:Speaker3متحدث,SADA_KHA,مسلسل عودة عصويد,3.699999999999818
+6k_v_SBA_1387_2-seg_103_100-106_710,batch_3/6k_v_SBA_1387_2.wav:Speaker3متحدث,SADA_KHA,مسلسل عودة عصويد,3.6099999999999
+6k_v_SBA_1387_2-seg_97_190-101_650,batch_3/6k_v_SBA_1387_2.wav:Speaker3متحدث,SADA_KHA,مسلسل عودة عصويد,4.460000000000036
+6k_v_SBA_141_1-seg_155_430-159_000,batch_3/6k_v_SBA_141_1.wav:Speaker3متحدث,SADA_KHA,حكايات بابا فرحان,3.5700920767936
+6k_v_SBA_141_1-seg_549_390-559_781,batch_3/6k_v_SBA_141_1.wav:Speaker3متحدث,SADA_KHA,حكايات بابا فرحان,10.391416566055568
+6k_v_SBA_141_1-seg_161_700-168_520,batch_3/6k_v_SBA_141_1.wav:Speaker3متحدث,SADA_KHA,حكايات بابا فرحان,6.820134573775192
+6k_v_SBA_141_1-seg_133_050-136_360,batch_3/6k_v_SBA_141_1.wav:Speaker3متحدث,SADA_KHA,حكايات بابا فرحان,3.309999999999945
+6k_v_SBA_141_1-seg_176_870-182_310,batch_3/6k_v_SBA_141_1.wav:Speaker3متحدث,SADA_KHA,حكايات بابا فرحان,5.440092076793604
+6k_v_SBA_1500_0-seg_405_110-407_475,batch_3/6k_v_SBA_1500_0.wav:Speaker6متحدث,SADA_KHA,حكايات بابا فرحان,2.3649928950642334
+6k_v_SBA_1500_0-seg_538_040-540_681,batch_3/6k_v_SBA_1500_0.wav:Speaker6متحدث,SADA_KHA,حكايات بابا فرحان,2.641692554765882
+6k_v_SBA_1500_0-seg_541_370-543_580,batch_3/6k_v_SBA_1500_0.wav:Speaker6متحدث,SADA_KHA,حكايات بابا فرحان,2.2100000000000364
+6k_v_SBA_1500_0-seg_458_992-467_018,batch_3/6k_v_SBA_1500_0.wav:Speaker6متحدث,SADA_KHA,حكايات بابا فرحان,8.026592840667604
+6k_v_SBA_1500_0-seg_550_038-555_353,batch_3/6k_v_SBA_1500_0.wav:Speaker6متحدث,SADA_KHA,حكايات بابا فرحان,5.314937073745114
+6k_v_SBA_1514_1-seg_351_950-354_930,batch_3/6k_v_SBA_1514_1.wav:Speaker5متحدث,SADA_KHA,طعم الأيام,2.9800000000000177
+6k_v_SBA_1514_1-seg_347_320-350_900,batch_3/6k_v_SBA_1514_1.wav:Speaker5متحدث,SADA_KHA,طعم الأيام,3.580000000000041
+6k_v_SBA_1514_1-seg_260_490-263_450,batch_3/6k_v_SBA_1514_1.wav:Speaker5متحدث,SADA_KHA,طعم الأيام,2.9599999999999227
+6k_v_SBA_1514_1-seg_279_010-282_140,batch_3/6k_v_SBA_1514_1.wav:Speaker5متحدث,SADA_KHA,طعم الأيام,3.1299999999999955
+6k_v_SBA_1639_2-seg_10_210-13_040,batch_3/6k_v_SBA_1639_2.wav:Speaker1متحدث,SADA_KHA,عائلة أبو رويشد,2.8300000000001546
+6k_v_SBA_1639_2-seg_44_150-47_320,batch_3/6k_v_SBA_1639_2.wav:Speaker1متحدث,SADA_KHA,عائلة أبو رويشد,3.1700000000000728
+6k_v_SBA_1639_2-seg_76_050-79_730,batch_3/6k_v_SBA_1639_2.wav:Speaker1متحدث,SADA_KHA,عائلة أبو رويشد,3.6799999999998367
+6k_v_SBA_1639_2-seg_35_510-37_580,batch_3/6k_v_SBA_1639_2.wav:Speaker1متحدث,SADA_KHA,عائلة أبو رويشد,2.0699999999999363
+6k_v_SBA_1693_2-seg_141_820-147_050,batch_3/6k_v_SBA_1693_2.wav:Speaker2متحدث,SADA_KHA,وجه بن فهرة,5.230000000000018
+6k_v_SBA_1693_2-seg_214_860-224_560,batch_3/6k_v_SBA_1693_2.wav:Speaker2متحدث,SADA_KHA,وجه بن فهرة,9.700000000000044
+6k_v_SBA_1693_2-seg_85_520-89_030,batch_3/6k_v_SBA_1693_2.wav:Speaker2متحدث,SADA_KHA,وجه بن فهرة,3.509999999999991
+6k_v_SBA_1693_2-seg_199_990-202_650,batch_3/6k_v_SBA_1693_2.wav:Speaker2متحدث,SADA_KHA,وجه بن فهرة,2.660000000000082
+6k_v_SBA_1693_2-seg_190_200-193_390,batch_3/6k_v_SBA_1693_2.wav:Speaker2متحدث,SADA_KHA,وجه بن فهرة,3.1900000000000546
+6k_v_SBA_1693_2-seg_31_160-35_580,batch_3/6k_v_SBA_1693_2.wav:Speaker2متحدث,SADA_KHA,وجه بن فهرة,4.420000000000073
+6k_v_SBA_1693_2-seg_47_110-52_147,batch_3/6k_v_SBA_1693_2.wav:Speaker2متحدث,SADA_KHA,وجه بن فهرة,5.037151473776866
+6k_v_SBA_1693_2-seg_148_530-152_390,batch_3/6k_v_SBA_1693_2.wav:Speaker2متحدث,SADA_KHA,وجه بن فهرة,3.8599999999999
+6k_v_SBA_1693_2-seg_575_680-585_000,batch_3/6k_v_SBA_1693_2.wav:Speaker2متحدث,SADA_KHA,وجه بن فهرة,9.32000068381592
+6k_v_SBA_1693_2-seg_16_040-19_440,batch_3/6k_v_SBA_1693_2.wav:Speaker2متحدث,SADA_KHA,وجه بن فهرة,3.399999999999864
+6k_v_SBA_1693_2-seg_208_900-212_310,batch_3/6k_v_SBA_1693_2.wav:Speaker2متحدث,SADA_KHA,وجه بن فهرة,3.4100000000001387
+6k_v_SBA_1693_2-seg_73_170-75_740,batch_3/6k_v_SBA_1693_2.wav:Speaker2متحدث,SADA_KHA,وجه بن فهرة,2.5699999999999363
+6k_v_SBA_1693_2-seg_119_240-123_000,batch_3/6k_v_SBA_1693_2.wav:Speaker2متحدث,SADA_KHA,وجه بن فهرة,3.759999999999991
+6k_v_SBA_1693_2-seg_95_020-101_380,batch_3/6k_v_SBA_1693_2.wav:Speaker2متحدث,SADA_KHA,وجه بن فهرة,6.3599999999999
+6k_v_SBA_1695_0-seg_241_590-246_300,batch_3/6k_v_SBA_1695_0.wav:Speaker1متحدث,SADA_KHA,طاش ما طاش,4.710000000000008
+6k_v_SBA_1695_0-seg_137_010-145_980,batch_3/6k_v_SBA_1695_0.wav:Speaker1متحدث,SADA_KHA,طاش ما طاش,8.969999999999999
+6k_v_SBA_1695_0-seg_361_870-367_160,batch_3/6k_v_SBA_1695_0.wav:Speaker1متحدث,SADA_KHA,طاش ما طاش,5.2900000000000205
+6k_v_SBA_1695_0-seg_388_930-391_140,batch_3/6k_v_SBA_1695_0.wav:Speaker1متحدث,SADA_KHA,طاش ما طاش,2.2099999999999795
+6k_v_SBA_1695_1-seg_45_690-48_770,batch_3/6k_v_SBA_1695_1.wav:Speaker1متحدث,SADA_KHA,طاش ما طاش,3.079996325205258
+6k_v_SBA_1695_1-seg_598_137-603_210,batch_3/6k_v_SBA_1695_1.wav:Speaker1متحدث,SADA_KHA,طاش ما طاش,5.07333203642952
+6k_v_SBA_1695_1-seg_122_994-126_900,batch_3/6k_v_SBA_1695_1.wav:Speaker1متحدث,SADA_KHA,طاش ما طاش,3.905962037786722
+6k_v_SBA_1695_1-seg_81_946-91_420,batch_3/6k_v_SBA_1695_1.wav:Speaker1متحدث,SADA_KHA,طاش ما طاش,9.474443117435314
+6k_v_SBA_1695_1-seg_557_807-569_090,batch_3/6k_v_SBA_1695_1.wav:Speaker1متحدث,SADA_KHA,طاش ما طاش,11.28333608276978
+6k_v_SBA_1731_0-seg_314_150-318_510,batch_3/6k_v_SBA_1731_0.wav:Speaker5متحدث,SADA_KHA,طاش ما طاش,4.360000000000014
+6k_v_SBA_1731_0-seg_472_710-475_440,batch_3/6k_v_SBA_1731_0.wav:Speaker5متحدث,SADA_KHA,طاش ما طاش,2.730000000000018
+6k_v_SBA_1731_0-seg_516_760-518_890,batch_3/6k_v_SBA_1731_0.wav:Speaker5متحدث,SADA_KHA,طاش ما طاش,2.1299999999999955
+6k_v_SBA_1731_0-seg_501_970-504_450,batch_3/6k_v_SBA_1731_0.wav:Speaker5متحدث,SADA_KHA,طاش ما طاش,2.4799999999999613
+6k_v_SBA_1787_1-seg_42_060-47_710,batch_3/6k_v_SBA_1787_1.wav:Speaker2متحدث,SADA_KHA,أبجد هوز,5.650000000000091
+6k_v_SBA_1787_1-seg_319_550-323_920,batch_3/6k_v_SBA_1787_1.wav:Speaker2متحدث,SADA_KHA,أبجد هوز,4.3700000000000045
+6k_v_SBA_1787_1-seg_565_190-580_000,batch_3/6k_v_SBA_1787_1.wav:Speaker2متحدث,SADA_KHA,أبجد هوز,14.809999999999944
+6k_v_SBA_1787_1-seg_268_280-281_210,batch_3/6k_v_SBA_1787_1.wav:Speaker2متحدث,SADA_KHA,أبجد هوز,12.930000000000064
+6k_v_SBA_187_1-seg_563_489-565_889,batch_3/6k_v_SBA_187_1.wav:Speaker3متحدث,SADA_KHA,طاش ما طاش,2.4000020739584897
+6k_v_SBA_187_1-seg_404_310-412_896,batch_3/6k_v_SBA_187_1.wav:Speaker3متحدث,SADA_KHA,طاش ما طاش,8.585863136212367
+6k_v_SBA_187_1-seg_447_124-454_318,batch_3/6k_v_SBA_187_1.wav:Speaker3متحدث,SADA_KHA,طاش ما طاش,7.19442051822557
+6k_v_SBA_187_1-seg_412_914-416_703,batch_3/6k_v_SBA_187_1.wav:Speaker3متحدث,SADA_KHA,طاش ما طاش,3.7889377391705352
+6k_v_SBA_187_1-seg_442_705-446_130,batch_3/6k_v_SBA_187_1.wav:Speaker3متحدث,SADA_KHA,طاش ما طاش,3.425558143320643
+6k_v_SBA_187_1-seg_432_357-434_507,batch_3/6k_v_SBA_187_1.wav:Speaker3متحدث,SADA_KHA,طاش ما طاش,2.149835488252279
+6k_v_SBA_187_1-seg_254_114-259_785,batch_3/6k_v_SBA_187_1.wav:Speaker3متحدث,SADA_KHA,طاش ما طاش,5.671793632845037
+6k_v_SBA_1937_0-seg_280_240-283_210,batch_3/6k_v_SBA_1937_0.wav:Speaker5متحدث,SADA_KHA,مالي شغل بالسوق,2.9699999999999704
+6k_v_SBA_1937_0-seg_184_130-187_120,batch_3/6k_v_SBA_1937_0.wav:Speaker5متحدث,SADA_KHA,مالي شغل بالسوق,2.990000000000009
+6k_v_SBA_1937_0-seg_163_740-171_960,batch_3/6k_v_SBA_1937_0.wav:Speaker5متحدث,SADA_KHA,مالي شغل بالسوق,8.219999999999999
+6k_v_SBA_1937_0-seg_550_800-557_510,batch_3/6k_v_SBA_1937_0.wav:Speaker5متحدث,SADA_KHA,مالي شغل بالسوق,6.710000000000036
+6k_v_SBA_1937_0-seg_209_970-224_420,batch_3/6k_v_SBA_1937_0.wav:Speaker5متحدث,SADA_KHA,مالي شغل بالسوق,14.449999999999989
+6k_v_SBA_221_1-seg_132_881-138_753,batch_4/6k_v_SBA_221_1.wav:Speaker3متحدث,SADA_KHA,طاش ما طاش,5.872263178213871
+6k_v_SBA_221_1-seg_594_266-597_690,batch_4/6k_v_SBA_221_1.wav:Speaker2متحدث,SADA_KHA,طاش ما طاش,3.423862175764839
+6k_v_SBA_221_1-seg_93_393-97_643,batch_4/6k_v_SBA_221_1.wav:Speaker3متحدث,SADA_KHA,طاش ما طاش,4.25009113245477
+6k_v_SBA_221_1-seg_361_539-363_850,batch_4/6k_v_SBA_221_1.wav:Speaker3متحدث,SADA_KHA,طاش ما طاش,2.310644273546416
+6k_v_SBA_221_1-seg_391_160-399_293,batch_4/6k_v_SBA_221_1.wav:Speaker3متحدث,SADA_KHA,طاش ما طاش,8.133383662407994
+6k_v_SBA_221_1-seg_516_177-519_497,batch_4/6k_v_SBA_221_1.wav:Speaker2متحدث,SADA_KHA,طاش ما طاش,3.320100854150951
+6k_v_SBA_221_1-seg_408_200-410_240,batch_4/6k_v_SBA_221_1.wav:Speaker3متحدث,SADA_KHA,طاش ما طاش,2.039999999999964
+6k_v_SBA_221_1-seg_273_267-277_431,batch_4/6k_v_SBA_221_1.wav:Speaker2متحدث,SADA_KHA,طاش ما طاش,4.163246612466082
+6k_v_SBA_221_1-seg_527_177-529_683,batch_4/6k_v_SBA_221_1.wav:Speaker2متحدث,SADA_KHA,طاش ما طاش,2.5058236620642447
+6k_v_SBA_221_1-seg_2_656-13_955,batch_4/6k_v_SBA_221_1.wav:Speaker2متحدث,SADA_KHA,طاش ما طاش,11.298788770715944
+6k_v_SBA_221_1-seg_150_920-153_993,batch_4/6k_v_SBA_221_1.wav:Speaker3متحدث,SADA_KHA,طاش ما طاش,3.073332241348538
+6k_v_SBA_259_0-seg_375_405-388_330,batch_4/6k_v_SBA_259_0.wav:Speaker6متحدث,SADA_KHA,حكايات بابا فرحان,12.924550704714932
+6k_v_SBA_259_0-seg_350_134-355_784,batch_4/6k_v_SBA_259_0.wav:Speaker6متحدث,SADA_KHA,حكايات بابا فرحان,5.649946433988987
+6k_v_SBA_259_0-seg_461_212-464_370,batch_4/6k_v_SBA_259_0.wav:Speaker6متحدث,SADA_KHA,حكايات بابا فرحان,3.1580110409298072
+6k_v_SBA_259_0-seg_453_080-456_195,batch_4/6k_v_SBA_259_0.wav:Speaker6متحدث,SADA_KHA,حكايات بابا فرحان,3.115069894488784
+6k_v_SBA_259_0-seg_335_415-348_854,batch_4/6k_v_SBA_259_0.wav:Speaker6متحدث,SADA_KHA,حكايات بابا فرحان,13.43987257925869
+6k_v_SBA_285_0-seg_496_750-502_040,batch_4/6k_v_SBA_285_0.wav:Speaker3متحدث,SADA_KHA,طاش ما طاش,5.2900000000000205
+6k_v_SBA_285_0-seg_312_359-316_184,batch_4/6k_v_SBA_285_0.wav:Speaker3متحدث,SADA_KHA,طاش ما طاش,3.824965171358258
+6k_v_SBA_285_0-seg_201_344-204_552,batch_4/6k_v_SBA_285_0.wav:Speaker3متحدث,SADA_KHA,طاش ما طاش,3.2083041197667512
+6k_v_SBA_285_0-seg_465_869-468_969,batch_4/6k_v_SBA_285_0.wav:Speaker3متحدث,SADA_KHA,طاش ما طاش,3.0999717728655014
+6k_v_SBA_298_2-seg_354_060-356_820,batch_4/6k_v_SBA_298_2.wav:Speaker1متحدث,SADA_KHA,خزنة,2.759999999999991
+6k_v_SBA_298_2-seg_318_880-321_540,batch_4/6k_v_SBA_298_2.wav:Speaker1متحدث,SADA_KHA,خزنة,2.6599999999998545
+6k_v_SBA_298_2-seg_181_240-186_230,batch_4/6k_v_SBA_298_2.wav:Speaker1متحدث,SADA_KHA,خزنة,4.990000000000009
+6k_v_SBA_298_2-seg_339_300-344_170,batch_4/6k_v_SBA_298_2.wav:Speaker1متحدث,SADA_KHA,خزنة,4.870000000000118
+6k_v_SBA_330_2-seg_355_160-358_050,batch_4/6k_v_SBA_330_2.wav:Speaker2متحدث,SADA_KHA,وجه بن فهرة,2.8900000000001
+6k_v_SBA_330_2-seg_92_870-102_400,batch_4/6k_v_SBA_330_2.wav:Speaker2متحدث,SADA_KHA,وجه بن فهرة,9.529999999999973
+6k_v_SBA_330_2-seg_382_310-386_510,batch_4/6k_v_SBA_330_2.wav:Speaker2متحدث,SADA_KHA,وجه بن فهرة,4.199999999999818
+6k_v_SBA_330_2-seg_134_050-142_280,batch_4/6k_v_SBA_330_2.wav:Speaker2متحدث,SADA_KHA,وجه بن فهرة,8.230000000000018
+6k_v_SBA_330_2-seg_574_320-578_000,batch_4/6k_v_SBA_330_2.wav:Speaker2متحدث,SADA_KHA,وجه بن فهرة,3.6799999999998367
+6k_v_SBA_330_2-seg_143_130-146_230,batch_4/6k_v_SBA_330_2.wav:Speaker2متحدث,SADA_KHA,وجه بن فهرة,3.0999999999999086
+6k_v_SBA_335_0-seg_184_130-186_850,batch_4/6k_v_SBA_335_0.wav:Speaker1متحدث,SADA_KHA,طاش ما طاش,2.719999999999999
+6k_v_SBA_335_0-seg_313_337-320_237,batch_4/6k_v_SBA_335_0.wav:Speaker1متحدث,SADA_KHA,طاش ما طاش,6.899897314512828
+6k_v_SBA_335_0-seg_555_820-558_362,batch_4/6k_v_SBA_335_0.wav:Speaker1متحدث,SADA_KHA,طاش ما طاش,2.542269000702049
+6k_v_SBA_335_0-seg_143_580-146_020,batch_4/6k_v_SBA_335_0.wav:Speaker1متحدث,SADA_KHA,طاش ما طاش,2.4399999999999977
+6k_v_SBA_335_0-seg_190_790-197_110,batch_4/6k_v_SBA_335_0.wav:Speaker1متحدث,SADA_KHA,طاش ما طاش,6.320000000000022
+6k_v_SBA_335_1-seg_88_850-98_540,batch_4/6k_v_SBA_335_1.wav:Speaker2متحدث,SADA_KHA,طاش ما طاش,9.68999999999994
+6k_v_SBA_335_1-seg_390_060-396_110,batch_4/6k_v_SBA_335_1.wav:Speaker2متحدث,SADA_KHA,طاش ما طاش,6.050000000000068
+6k_v_SBA_335_1-seg_238_000-243_550,batch_4/6k_v_SBA_335_1.wav:Speaker2متحدث,SADA_KHA,طاش ما طاش,5.5499999999999545
+6k_v_SBA_335_1-seg_63_930-67_410,batch_4/6k_v_SBA_335_1.wav:Speaker2متحدث,SADA_KHA,طاش ما طاش,3.480000000000018
+6k_v_SBA_335_1-seg_401_590-405_150,batch_4/6k_v_SBA_335_1.wav:Speaker2متحدث,SADA_KHA,طاش ما طاش,3.559999999999945
+6k_v_SBA_335_1-seg_331_520-342_770,batch_4/6k_v_SBA_335_1.wav:Speaker1متحدث,SADA_KHA,طاش ما طاش,11.25
+6k_v_SBA_335_1-seg_444_020-448_590,batch_4/6k_v_SBA_335_1.wav:Speaker1متحدث,SADA_KHA,طاش ما طاش,4.569999999999936
+6k_v_SBA_335_1-seg_120_360-128_040,batch_4/6k_v_SBA_335_1.wav:Speaker2متحدث,SADA_KHA,طاش ما طاش,7.67999999999995
+6k_v_SBA_335_1-seg_437_630-442_970,batch_4/6k_v_SBA_335_1.wav:Speaker1متحدث,SADA_KHA,طاش ما طاش,5.339999999999918
+6k_v_SBA_335_1-seg_207_660-210_280,batch_4/6k_v_SBA_335_1.wav:Speaker1متحدث,SADA_KHA,طاش ما طاش,2.6200000000000045
+6k_v_SBA_465_1-seg_303_292-310_202,batch_4/6k_v_SBA_465_1.wav:Speaker5متحدث,SADA_KHA,قصر فوق الرمال,6.91003718817359
+6k_v_SBA_465_1-seg_224_850-228_820,batch_4/6k_v_SBA_465_1.wav:Speaker5متحدث,SADA_KHA,قصر فوق الرمال,3.9700000000000273
+6k_v_SBA_465_1-seg_358_873-361_463,batch_4/6k_v_SBA_465_1.wav:Speaker5متحدث,SADA_KHA,قصر فوق الرمال,2.5900149561133503
+6k_v_SBA_465_1-seg_197_890-200_200,batch_4/6k_v_SBA_465_1.wav:Speaker5متحدث,SADA_KHA,قصر فوق الرمال,2.310000000000059
+6k_v_SBA_501_0-seg_399_188-404_160,batch_4/6k_v_SBA_501_0.wav:Speaker2متحدث,SADA_KHA,حكايات بابا فرحان,4.971931181143987
+6k_v_SBA_501_0-seg_373_783-378_870,batch_4/6k_v_SBA_501_0.wav:Speaker2متحدث,SADA_KHA,حكايات بابا فرحان,5.087368538737452
+6k_v_SBA_501_0-seg_341_136-343_744,batch_4/6k_v_SBA_501_0.wav:Speaker2متحدث,SADA_KHA,حكايات بابا فرحان,2.60755752754676
+6k_v_SBA_501_0-seg_291_762-298_288,batch_4/6k_v_SBA_501_0.wav:Speaker2متحدث,SADA_KHA,حكايات بابا فرحان,6.526147783220324
+6k_v_SBA_501_0-seg_328_180-330_447,batch_4/6k_v_SBA_501_0.wav:Speaker2متحدث,SADA_KHA,حكايات بابا فرحان,2.266632101647133
+6k_v_SBA_501_3-seg_52_363-56_618,batch_4/6k_v_SBA_501_3.wav:Speaker1متحدث,SADA_KHA,حكايات بابا فرحان,4.255001510430198
+6k_v_SBA_501_3-seg_147_253-151_138,batch_4/6k_v_SBA_501_3.wav:Speaker4متحدث,SADA_KHA,حكايات بابا فرحان,3.885046944161786
+6k_v_SBA_501_3-seg_131_350-146_095,batch_4/6k_v_SBA_501_3.wav:Speaker4متحدث,SADA_KHA,حكايات بابا فرحان,14.744811800432387
+6k_v_SBA_501_3-seg_85_630-90_270,batch_4/6k_v_SBA_501_3.wav:Speaker1متحدث,SADA_KHA,حكايات بابا فرحان,4.639945624523122
+6k_v_SBA_501_3-seg_32_238-42_172,batch_4/6k_v_SBA_501_3.wav:Speaker1متحدث,SADA_KHA,حكايات بابا فرحان,9.933453362163988
+6k_v_SBA_501_3-seg_25_867-32_097,batch_4/6k_v_SBA_501_3.wav:Speaker4متحدث,SADA_KHA,حكايات بابا فرحان,6.229702747392338
+6k_v_SBA_501_3-seg_81_130-83_699,batch_4/6k_v_SBA_501_3.wav:Speaker1متحدث,SADA_KHA,حكايات بابا فرحان,2.5686715057147893
+6k_v_SBA_501_3-seg_42_459-47_851,batch_4/6k_v_SBA_501_3.wav:Speaker4متحدث,SADA_KHA,حكايات بابا فرحان,5.391731816543705
+6k_v_SBA_501_3-seg_0_075-3_134,batch_4/6k_v_SBA_501_3.wav:Speaker1متحدث,SADA_KHA,حكايات بابا فرحان,3.058370288518612
+6k_v_SBA_534_0-seg_234_390-249_081,batch_4/6k_v_SBA_534_0.wav:Speaker4متحدث,SADA_KHA,طاش ما طاش,14.690727822805115
+6k_v_SBA_534_0-seg_459_500-461_582,batch_4/6k_v_SBA_534_0.wav:Speaker4متحدث,SADA_KHA,طاش ما طاش,2.0817800881277435
+6k_v_SBA_534_0-seg_218_080-220_950,batch_4/6k_v_SBA_534_0.wav:Speaker1متحدث,SADA_KHA,طاش ما طاش,2.869999999999976
+6k_v_SBA_534_0-seg_304_770-307_860,batch_4/6k_v_SBA_534_0.wav:Speaker1متحدث,SADA_KHA,طاش ما طاش,3.090000000000032
+6k_v_SBA_534_0-seg_167_780-170_680,batch_4/6k_v_SBA_534_0.wav:Speaker1متحدث,SADA_KHA,طاش ما طاش,2.9000000000000057
+6k_v_SBA_534_0-seg_491_400-494_310,batch_4/6k_v_SBA_534_0.wav:Speaker4متحدث,SADA_KHA,طاش ما طاش,2.9100070758786964
+6k_v_SBA_534_0-seg_326_490-331_760,batch_4/6k_v_SBA_534_0.wav:Speaker1متحدث,SADA_KHA,طاش ما طاش,5.269999999999982
+6k_v_SBA_534_0-seg_375_197-378_357,batch_4/6k_v_SBA_534_0.wav:Speaker4متحدث,SADA_KHA,طاش ما طاش,3.160039007147816
+6k_v_SBA_552_0-seg_537_870-542_830,batch_4/6k_v_SBA_552_0.wav:Speaker4متحدث,SADA_KHA,حكايات بابا فرحان,4.960000000000036
+6k_v_SBA_552_0-seg_525_900-529_940,batch_4/6k_v_SBA_552_0.wav:Speaker4متحدث,SADA_KHA,حكايات بابا فرحان,4.040055539939658
+6k_v_SBA_552_0-seg_617_395-630_895,batch_4/6k_v_SBA_552_0.wav:Speaker4متحدث,SADA_KHA,حكايات بابا فرحان,13.500471093650276
+6k_v_SBA_552_0-seg_599_261-607_860,batch_4/6k_v_SBA_552_0.wav:Speaker4متحدث,SADA_KHA,حكايات بابا فرحان,8.5998247093396
+6k_v_SBA_66_0-seg_568_190-574_000,batch_4/6k_v_SBA_66_0.wav:Speaker1متحدث,SADA_KHA,أبجد هوز,5.81005366044451
+6k_v_SBA_66_0-seg_188_739-192_482,batch_4/6k_v_SBA_66_0.wav:Speaker1متحدث,SADA_KHA,أبجد هوز,3.742824513291396
+6k_v_SBA_66_0-seg_542_248-546_262,batch_4/6k_v_SBA_66_0.wav:Speaker1متحدث,SADA_KHA,أبجد هوز,4.014321062453973
+6k_v_SBA_66_0-seg_559_289-565_294,batch_4/6k_v_SBA_66_0.wav:Speaker1متحدث,SADA_KHA,أبجد هوز,6.0047884973362216
+6k_v_SBA_66_0-seg_143_140-146_660,batch_4/6k_v_SBA_66_0.wav:Speaker1متحدث,SADA_KHA,أبجد هوز,3.5197327957898485
+6k_v_SBA_66_0-seg_166_170-171_610,batch_4/6k_v_SBA_66_0.wav:Speaker1متحدث,SADA_KHA,أبجد هوز,5.439971640253162
+6k_v_SBA_66_0-seg_215_780-219_250,batch_4/6k_v_SBA_66_0.wav:Speaker1متحدث,SADA_KHA,أبجد هوز,3.4699819102350205
+6k_v_SBA_67_0-seg_600_630-606_330,batch_4/6k_v_SBA_67_0.wav:Speaker5متحدث,SADA_KHA,مالي شغل بالسوق,5.7000000000000455
+6k_v_SBA_67_0-seg_218_315-220_592,batch_4/6k_v_SBA_67_0.wav:Speaker5متحدث,SADA_KHA,مالي شغل بالسوق,2.2772779334945312
+6k_v_SBA_67_0-seg_368_320-380_270,batch_4/6k_v_SBA_67_0.wav:Speaker5متحدث,SADA_KHA,مالي شغل بالسوق,11.949999999999989
+6k_v_SBA_67_0-seg_384_326-387_860,batch_4/6k_v_SBA_67_0.wav:Speaker5متحدث,SADA_KHA,مالي شغل بالسوق,3.534444994564752
+6k_v_SBA_67_0-seg_287_610-295_920,batch_4/6k_v_SBA_67_0.wav:Speaker5متحدث,SADA_KHA,مالي شغل بالسوق,8.310010859284944
+6k_v_SBA_67_0-seg_588_720-599_910,batch_4/6k_v_SBA_67_0.wav:Speaker5متحدث,SADA_KHA,مالي شغل بالسوق,11.18999999999994
+6k_v_SBA_709_0-seg_325_430-328_391,batch_4/6k_v_SBA_709_0.wav:Speaker2متحدث,SADA_KHA,حكايات بابا فرحان,2.96060862050814
+6k_v_SBA_709_0-seg_363_980-369_124,batch_4/6k_v_SBA_709_0.wav:Speaker2متحدث,SADA_KHA,حكايات بابا فرحان,5.144411196178908
+6k_v_SBA_709_0-seg_354_070-356_834,batch_4/6k_v_SBA_709_0.wav:Speaker2متحدث,SADA_KHA,حكايات بابا فرحان,2.764444480349709
+6k_v_SBA_709_0-seg_358_310-361_310,batch_4/6k_v_SBA_709_0.wav:Speaker2متحدث,SADA_KHA,حكايات بابا فرحان,3.0
+6k_v_SBA_709_0-seg_604_694-617_109,batch_4/6k_v_SBA_709_0.wav:Speaker2متحدث,SADA_KHA,حكايات بابا فرحان,12.415290747833524
+6k_v_SBA_798_1-seg_339_450-347_480,batch_4/6k_v_SBA_798_1.wav:Speaker2متحدث,SADA_KHA,عائلة الدكتور سعود,8.029999999999973
+6k_v_SBA_798_1-seg_457_690-466_980,batch_4/6k_v_SBA_798_1.wav:Speaker2متحدث,SADA_KHA,عائلة الدكتور سعود,9.290000000000193
+6k_v_SBA_798_1-seg_309_080-311_140,batch_4/6k_v_SBA_798_1.wav:Speaker2متحدث,SADA_KHA,عائلة الدكتور سعود,2.060000000000059
+6k_v_SBA_798_1-seg_506_660-512_200,batch_4/6k_v_SBA_798_1.wav:Speaker2متحدث,SADA_KHA,عائلة الدكتور سعود,5.540000000000191
+6k_v_SBA_809_1-seg_84_600-88_530,batch_4/6k_v_SBA_809_1.wav:Speaker1متحدث,SADA_KHA,أبجد هوز,3.92999999999995
+6k_v_SBA_809_1-seg_266_810-269_350,batch_4/6k_v_SBA_809_1.wav:Speaker1متحدث,SADA_KHA,أبجد هوز,2.539999999999964
+6k_v_SBA_809_1-seg_257_830-265_500,batch_4/6k_v_SBA_809_1.wav:Speaker1متحدث,SADA_KHA,أبجد هوز,7.669999999999959
+6k_v_SBA_809_1-seg_56_870-59_360,batch_4/6k_v_SBA_809_1.wav:Speaker1متحدث,SADA_KHA,أبجد هوز,2.490000000000009
+6k_v_SBA_834_2-seg_478_430-484_000,batch_4/6k_v_SBA_834_2.wav:Speaker2متحدث,SADA_KHA,حكايات بابا فرحان,5.570000000000164
+6k_v_SBA_834_2-seg_498_780-501_260,batch_4/6k_v_SBA_834_2.wav:Speaker2متحدث,SADA_KHA,حكايات بابا فرحان,2.480000000000018
+6k_v_SBA_834_2-seg_273_760-276_030,batch_4/6k_v_SBA_834_2.wav:Speaker2متحدث,SADA_KHA,حكايات بابا فرحان,2.269999999999982
+6k_v_SBA_834_2-seg_286_090-292_380,batch_4/6k_v_SBA_834_2.wav:Speaker2متحدث,SADA_KHA,حكايات بابا فرحان,6.289999999999964
+6k_v_SBA_835_1-seg_322_630-325_830,batch_4/6k_v_SBA_835_1.wav:Speaker1متحدث,SADA_KHA,أبجد هوز,3.200000000000045
+6k_v_SBA_835_1-seg_533_370-535_480,batch_4/6k_v_SBA_835_1.wav:Speaker1متحدث,SADA_KHA,أبجد هوز,2.1099999999999
+6k_v_SBA_835_1-seg_550_350-553_040,batch_4/6k_v_SBA_835_1.wav:Speaker1متحدث,SADA_KHA,أبجد هوز,2.6900000000000546
+6k_v_SBA_835_1-seg_124_090-126_140,batch_4/6k_v_SBA_835_1.wav:Speaker1متحدث,SADA_KHA,أبجد هوز,2.0499999999999545
+6k_v_SBA_835_1-seg_558_940-564_510,batch_4/6k_v_SBA_835_1.wav:Speaker1متحدث,SADA_KHA,أبجد هوز,5.570000000000165
+6k_v_SBA_907_1-seg_82_850-87_000,batch_4/6k_v_SBA_907_1.wav:Speaker1متحدث,SADA_KHA,أبجد هوز,4.15000545580115
+6k_v_SBA_907_1-seg_383_670-392_110,batch_4/6k_v_SBA_907_1.wav:Speaker1متحدث,SADA_KHA,أبجد هوز,8.440000000000055
+6k_v_SBA_907_1-seg_268_140-275_460,batch_4/6k_v_SBA_907_1.wav:Speaker1متحدث,SADA_KHA,أبجد هوز,7.319999999999937
+6k_v_SBA_907_1-seg_256_630-263_300,batch_4/6k_v_SBA_907_1.wav:Speaker1متحدث,SADA_KHA,أبجد هوز,6.669999999999959
+6k_SBA_115_1-seg_231_980-235_517,batch_1/6k_SBA_115_1.wav:Speaker6متحدث,SADA_NAJ,الديرة نت,3.536666311230391
+6k_SBA_115_1-seg_270_813-276_173,batch_1/6k_SBA_115_1.wav:Speaker6متحدث,SADA_NAJ,الديرة نت,5.359997799282212
+6k_SBA_115_1-seg_285_930-288_650,batch_1/6k_SBA_115_1.wav:Speaker6متحدث,SADA_NAJ,الديرة نت,2.7199993214399
+6k_SBA_115_1-seg_238_870-243_643,batch_1/6k_SBA_115_1.wav:Speaker6متحدث,SADA_NAJ,الديرة نت,4.77333301020937
+6k_SBA_128_0-seg_615_900-626_030,batch_1/6k_SBA_128_0.wav:Speaker4متحدث,SADA_NAJ,الديرة نت,10.129618599434252
+6k_SBA_128_0-seg_286_760-289_910,batch_1/6k_SBA_128_0.wav:Speaker4متحدث,SADA_NAJ,الديرة نت,3.150000000000034
+6k_SBA_128_0-seg_605_270-612_803,batch_1/6k_SBA_128_0.wav:Speaker4متحدث,SADA_NAJ,الديرة نت,7.533478445333003
+6k_SBA_128_0-seg_570_060-572_837,batch_1/6k_SBA_128_0.wav:Speaker4متحدث,SADA_NAJ,الديرة نت,2.776693955427845
+6k_v_SBA2_2164_0-seg_358_290-364_540,batch_1/6k_v_SBA2_2164_0.wav:Speaker1متحدث,SADA_NAJ,الديرة,6.25
+6k_v_SBA2_2164_0-seg_418_410-423_180,batch_1/6k_v_SBA2_2164_0.wav:Speaker1متحدث,SADA_NAJ,الديرة,4.769999999999982
+6k_v_SBA2_2164_0-seg_248_630-260_570,batch_1/6k_v_SBA2_2164_0.wav:Speaker1متحدث,SADA_NAJ,الديرة,11.939999999999998
+6k_v_SBA2_2164_0-seg_484_630-488_280,batch_1/6k_v_SBA2_2164_0.wav:Speaker1متحدث,SADA_NAJ,الديرة,3.649999999999977
+6k_v_SBA2_2164_3-seg_34_140-38_330,batch_1/6k_v_SBA2_2164_3.wav:Speaker1متحدث,SADA_NAJ,الديرة,4.190000000000055
+6k_v_SBA2_2164_3-seg_597_820-606_120,batch_1/6k_v_SBA2_2164_3.wav:Speaker1متحدث,SADA_NAJ,الديرة,8.300000000000182
+6k_v_SBA2_2164_3-seg_400_870-408_180,batch_1/6k_v_SBA2_2164_3.wav:Speaker1متحدث,SADA_NAJ,الديرة,7.309999999999945
+6k_v_SBA2_2164_3-seg_574_240-578_560,batch_1/6k_v_SBA2_2164_3.wav:Speaker1متحدث,SADA_NAJ,الديرة,4.320000000000164
+6k_v_SBA2_2227_1-seg_458_020-462_710,batch_1/6k_v_SBA2_2227_1.wav:Speaker1متحدث,SADA_NAJ,الديرة,4.689999999999827
+6k_v_SBA2_2227_1-seg_378_260-381_460,batch_1/6k_v_SBA2_2227_1.wav:Speaker1متحدث,SADA_NAJ,الديرة,3.200000000000045
+6k_v_SBA2_2227_1-seg_116_450-120_030,batch_1/6k_v_SBA2_2227_1.wav:Speaker1متحدث,SADA_NAJ,الديرة,3.5799999999999272
+6k_v_SBA2_2227_1-seg_431_760-441_040,batch_1/6k_v_SBA2_2227_1.wav:Speaker1متحدث,SADA_NAJ,الديرة,9.279999999999973
+6k_v_SBA2_2227_1-seg_320_580-323_190,batch_1/6k_v_SBA2_2227_1.wav:Speaker1متحدث,SADA_NAJ,الديرة,2.6100000000000136
+6k_v_SBA2_2331_2-seg_358_740-362_970,batch_1/6k_v_SBA2_2331_2.wav:Speaker1متحدث,SADA_NAJ,الديرة,4.230000000000018
+6k_v_SBA2_2331_2-seg_414_830-419_210,batch_1/6k_v_SBA2_2331_2.wav:Speaker1متحدث,SADA_NAJ,الديرة,4.380000000000109
+6k_v_SBA2_2331_2-seg_238_420-245_890,batch_1/6k_v_SBA2_2331_2.wav:Speaker1متحدث,SADA_NAJ,الديرة,7.470000000000027
+6k_v_SBA2_2331_2-seg_306_960-310_700,batch_1/6k_v_SBA2_2331_2.wav:Speaker1متحدث,SADA_NAJ,الديرة,3.7399999999997817
+6k_v_SBA2_2346_2-seg_4_410-6_770,batch_1/6k_v_SBA2_2346_2.wav:Speaker1متحدث,SADA_NAJ,برنامج اخر الأسبوع,2.360000000000128
+6k_v_SBA2_2346_2-seg_18_500-21_990,batch_1/6k_v_SBA2_2346_2.wav:Speaker1متحدث,SADA_NAJ,برنامج اخر الأسبوع,3.490000000000009
+6k_v_SBA2_2346_2-seg_389_400-391_720,batch_1/6k_v_SBA2_2346_2.wav:Speaker1متحدث,SADA_NAJ,برنامج اخر الأسبوع,2.3199999999999363
+6k_v_SBA2_2346_2-seg_428_790-431_060,batch_1/6k_v_SBA2_2346_2.wav:Speaker1متحدث,SADA_NAJ,برنامج اخر الأسبوع,2.269999999999982
+6k_v_SBA3_2416_2-seg_242_300-245_730,batch_1/6k_v_SBA3_2416_2.wav:Speaker1متحدث,SADA_NAJ,حديث المجالس,3.430000000000064
+6k_v_SBA3_2416_2-seg_249_470-251_550,batch_1/6k_v_SBA3_2416_2.wav:Speaker1متحدث,SADA_NAJ,حديث المجالس,2.0799999999999272
+6k_v_SBA3_2416_2-seg_533_250-537_330,batch_1/6k_v_SBA3_2416_2.wav:Speaker1متحدث,SADA_NAJ,حديث المجالس,4.079999999999927
+6k_v_SBA3_2416_2-seg_436_000-442_140,batch_1/6k_v_SBA3_2416_2.wav:Speaker1متحدث,SADA_NAJ,حديث المجالس,6.139999999999873
+6k_v_SBA3_2416_2-seg_503_940-512_650,batch_1/6k_v_SBA3_2416_2.wav:Speaker1متحدث,SADA_NAJ,حديث المجالس,8.710000000000036
+6k_v_SBA3_2416_2-seg_128_520-131_600,batch_1/6k_v_SBA3_2416_2.wav:Speaker1متحدث,SADA_NAJ,حديث المجالس,3.0799999999999272
+6k_v_SBA3_2425_2-seg_221_780-231_060,batch_1/6k_v_SBA3_2425_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,9.279999999999973
+6k_v_SBA3_2425_2-seg_375_280-381_260,batch_1/6k_v_SBA3_2425_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,5.980000000000018
+6k_v_SBA3_2425_2-seg_419_330-423_810,batch_1/6k_v_SBA3_2425_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.480000000000018
+6k_v_SBA3_2425_2-seg_49_990-55_850,batch_1/6k_v_SBA3_2425_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,5.8599999999999
+6k_v_SBA3_2425_2-seg_40_880-49_240,batch_1/6k_v_SBA3_2425_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,8.360000000000127
+6k_v_SBA3_2425_2-seg_559_950-562_780,batch_1/6k_v_SBA3_2425_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.8299999999999272
+6k_v_SBA3_2425_3-seg_478_520-482_220,batch_1/6k_v_SBA3_2425_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,3.699999999999818
+6k_v_SBA3_2425_3-seg_567_950-573_370,batch_1/6k_v_SBA3_2425_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,5.420000000000073
+6k_v_SBA3_2425_3-seg_345_450-356_580,batch_1/6k_v_SBA3_2425_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,11.13000000000011
+6k_v_SBA3_2425_3-seg_521_750-529_830,batch_1/6k_v_SBA3_2425_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,8.079999999999927
+6k_v_SBA3_2427_3-seg_90_390-103_410,batch_1/6k_v_SBA3_2427_3.wav:Speaker1متحدث,SADA_NAJ,حديث المجالس,13.019999999999982
+6k_v_SBA3_2427_3-seg_546_580-554_740,batch_1/6k_v_SBA3_2427_3.wav:Speaker1متحدث,SADA_NAJ,حديث المجالس,8.159999999999854
+6k_v_SBA3_2427_3-seg_557_080-565_020,batch_1/6k_v_SBA3_2427_3.wav:Speaker1متحدث,SADA_NAJ,حديث المجالس,7.940000000000055
+6k_v_SBA3_2427_3-seg_509_670-515_780,batch_1/6k_v_SBA3_2427_3.wav:Speaker1متحدث,SADA_NAJ,حديث المجالس,6.109999999999673
+6k_v_SBA3_2437_3-seg_405_290-407_930,batch_1/6k_v_SBA3_2437_3.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,2.6400000000003274
+6k_v_SBA3_2437_3-seg_19_760-31_160,batch_1/6k_v_SBA3_2437_3.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,11.400000000000093
+6k_v_SBA3_2437_3-seg_195_650-199_880,batch_1/6k_v_SBA3_2437_3.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,4.230000000000018
+6k_v_SBA3_2437_3-seg_211_630-217_020,batch_1/6k_v_SBA3_2437_3.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,5.389999999999873
+6k_v_SBA3_2437_3-seg_310_450-313_260,batch_1/6k_v_SBA3_2437_3.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,2.809999999999945
+6k_v_SBA3_2437_3-seg_316_000-320_390,batch_1/6k_v_SBA3_2437_3.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,4.389999999999873
+6k_v_SBA3_2464_5-seg_382_780-386_460,batch_2/6k_v_SBA3_2464_5.wav:Speaker1متحدث,SADA_NAJ,سباق المشاهدين,3.679999999999836
+6k_v_SBA3_2464_5-seg_342_490-350_210,batch_2/6k_v_SBA3_2464_5.wav:Speaker1متحدث,SADA_NAJ,سباق المشاهدين,7.7199999999998
+6k_v_SBA3_2464_5-seg_231_350-244_960,batch_2/6k_v_SBA3_2464_5.wav:Speaker1متحدث,SADA_NAJ,سباق المشاهدين,13.610000000000127
+6k_v_SBA3_2464_5-seg_206_160-209_000,batch_2/6k_v_SBA3_2464_5.wav:Speaker1متحدث,SADA_NAJ,سباق المشاهدين,2.8399999999996908
+6k_v_SBA3_2464_5-seg_121_630-125_480,batch_2/6k_v_SBA3_2464_5.wav:Speaker1متحدث,SADA_NAJ,سباق المشاهدين,3.849999999999909
+6k_v_SBA3_2471_2-seg_413_170-415_850,batch_2/6k_v_SBA3_2471_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.680000000000064
+6k_v_SBA3_2471_2-seg_393_290-399_960,batch_2/6k_v_SBA3_2471_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,6.670000000000073
+6k_v_SBA3_2471_2-seg_526_470-533_610,batch_2/6k_v_SBA3_2471_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,7.1400000000001
+6k_v_SBA3_2471_2-seg_109_790-113_220,batch_2/6k_v_SBA3_2471_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,3.430000000000064
+6k_v_SBA3_2471_2-seg_451_230-454_140,batch_2/6k_v_SBA3_2471_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.910000000000082
+6k_v_SBA3_2473_0-seg_51_650-56_710,batch_2/6k_v_SBA3_2473_0.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,5.060000000000002
+6k_v_SBA3_2473_0-seg_526_010-535_890,batch_2/6k_v_SBA3_2473_0.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,9.879999999999995
+6k_v_SBA3_2473_0-seg_331_260-334_800,batch_2/6k_v_SBA3_2473_0.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,3.5400000000000205
+6k_v_SBA3_2473_0-seg_149_680-157_780,batch_2/6k_v_SBA3_2473_0.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,8.099999999999994
+6k_v_SBA3_2476_0-seg_467_270-470_200,batch_2/6k_v_SBA3_2476_0.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,2.930000000000007
+6k_v_SBA3_2476_0-seg_384_410-388_820,batch_2/6k_v_SBA3_2476_0.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,4.409999999999968
+6k_v_SBA3_2476_0-seg_246_660-257_890,batch_2/6k_v_SBA3_2476_0.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,11.22999999999999
+6k_v_SBA3_2476_0-seg_345_360-349_510,batch_2/6k_v_SBA3_2476_0.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,4.149999999999977
+6k_v_SBA3_2476_0-seg_234_750-245_620,batch_2/6k_v_SBA3_2476_0.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,10.870000000000005
+6k_v_SBA3_2476_0-seg_111_230-126_010,batch_2/6k_v_SBA3_2476_0.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,14.78
+6k_v_SBA3_2476_0-seg_365_740-372_860,batch_2/6k_v_SBA3_2476_0.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,7.1200000000000045
+6k_v_SBA3_2478_1-seg_227_830-230_380,batch_2/6k_v_SBA3_2478_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.550000000000068
+6k_v_SBA3_2478_1-seg_375_940-378_740,batch_2/6k_v_SBA3_2478_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.800000000000068
+6k_v_SBA3_2478_1-seg_572_010-575_760,batch_2/6k_v_SBA3_2478_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,3.75
+6k_v_SBA3_2478_1-seg_59_280-67_360,batch_2/6k_v_SBA3_2478_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,8.080000000000041
+6k_v_SBA3_2478_2-seg_153_340-159_820,batch_2/6k_v_SBA3_2478_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,6.480000000000018
+6k_v_SBA3_2478_2-seg_399_390-402_340,batch_2/6k_v_SBA3_2478_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.950000000000045
+6k_v_SBA3_2478_2-seg_570_820-576_720,batch_2/6k_v_SBA3_2478_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,5.900000000000091
+6k_v_SBA3_2478_2-seg_250_280-252_470,batch_2/6k_v_SBA3_2478_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.1900000000000546
+6k_v_SBA3_2488_1-seg_318_820-321_590,batch_2/6k_v_SBA3_2488_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.769999999999982
+6k_v_SBA3_2488_1-seg_483_620-486_190,batch_2/6k_v_SBA3_2488_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.5699999999999363
+6k_v_SBA3_2488_1-seg_109_580-112_580,batch_2/6k_v_SBA3_2488_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,3.0
+6k_v_SBA3_2488_1-seg_213_580-217_670,batch_2/6k_v_SBA3_2488_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.090000000000032
+6k_v_SBA3_2492_3-seg_517_090-524_220,batch_2/6k_v_SBA3_2492_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,7.130000000000109
+6k_v_SBA3_2492_3-seg_175_300-183_710,batch_2/6k_v_SBA3_2492_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,8.409999999999854
+6k_v_SBA3_2492_3-seg_344_880-348_070,batch_2/6k_v_SBA3_2492_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,3.1899999999996
+6k_v_SBA3_2492_3-seg_355_060-367_840,batch_2/6k_v_SBA3_2492_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,12.779999999999744
+6k_v_SBA3_2492_3-seg_444_720-451_500,batch_2/6k_v_SBA3_2492_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,6.7800000000002
+6k_v_SBA3_2493_2-seg_92_580-96_750,batch_2/6k_v_SBA3_2493_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.169999999999845
+6k_v_SBA3_2493_2-seg_33_650-40_990,batch_2/6k_v_SBA3_2493_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,7.339999999999918
+6k_v_SBA3_2493_2-seg_325_980-328_610,batch_2/6k_v_SBA3_2493_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.630000000000109
+6k_v_SBA3_2493_2-seg_577_970-581_290,batch_2/6k_v_SBA3_2493_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,3.3199999999999363
+6k_v_SBA3_2502_2-seg_54_170-56_880,batch_2/6k_v_SBA3_2502_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.7100000000000364
+6k_v_SBA3_2502_2-seg_487_230-494_000,batch_2/6k_v_SBA3_2502_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,6.769999999999982
+6k_v_SBA3_2502_2-seg_398_850-401_790,batch_2/6k_v_SBA3_2502_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.9400000000000546
+6k_v_SBA3_2502_2-seg_379_750-390_590,batch_2/6k_v_SBA3_2502_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,10.839999999999918
+6k_v_SBA3_2502_2-seg_32_480-39_930,batch_2/6k_v_SBA3_2502_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,7.449999999999818
+6k_v_SBA3_2502_2-seg_225_190-227_770,batch_2/6k_v_SBA3_2502_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.5800000000001546
+6k_v_SBA3_2502_2-seg_122_390-126_440,batch_2/6k_v_SBA3_2502_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.0499999999999545
+6k_v_SBA3_2506_1-seg_559_750-561_870,batch_2/6k_v_SBA3_2506_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.1200000000001182
+6k_v_SBA3_2506_1-seg_456_360-458_440,batch_2/6k_v_SBA3_2506_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.0799999999999272
+6k_v_SBA3_2506_1-seg_425_070-427_280,batch_2/6k_v_SBA3_2506_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.2100000000000364
+6k_v_SBA3_2506_1-seg_144_130-148_570,batch_2/6k_v_SBA3_2506_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.440000000000055
+6k_v_SBA3_2506_1-seg_159_110-163_560,batch_2/6k_v_SBA3_2506_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.4500000000000455
+6k_v_SBA3_2506_1-seg_431_110-433_710,batch_2/6k_v_SBA3_2506_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.599999999999909
+6k_v_SBA3_2506_1-seg_396_160-400_400,batch_2/6k_v_SBA3_2506_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.239999999999895
+6k_v_SBA3_2506_2-seg_380_530-383_810,batch_2/6k_v_SBA3_2506_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,3.2799999999999727
+6k_v_SBA3_2506_2-seg_167_350-170_590,batch_2/6k_v_SBA3_2506_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,3.240000000000009
+6k_v_SBA3_2506_2-seg_479_740-481_770,batch_2/6k_v_SBA3_2506_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.0299999999999727
+6k_v_SBA3_2506_2-seg_564_490-570_260,batch_2/6k_v_SBA3_2506_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,5.769999999999982
+6k_v_SBA3_2506_3-seg_290_500-294_460,batch_2/6k_v_SBA3_2506_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,3.960000000000037
+6k_v_SBA3_2506_3-seg_296_810-299_880,batch_2/6k_v_SBA3_2506_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,3.070000000000164
+6k_v_SBA3_2506_3-seg_41_850-43_860,batch_2/6k_v_SBA3_2506_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.009999999999991
+6k_v_SBA3_2506_3-seg_388_130-395_030,batch_2/6k_v_SBA3_2506_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,6.900000000000091
+6k_v_SBA3_2506_3-seg_489_990-492_760,batch_2/6k_v_SBA3_2506_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.769999999999982
+6k_v_SBA3_2518_1-seg_361_400-363_970,batch_2/6k_v_SBA3_2518_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.57000000000005
+6k_v_SBA3_2518_1-seg_259_590-264_710,batch_2/6k_v_SBA3_2518_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,5.1200000000000045
+6k_v_SBA3_2518_1-seg_452_080-454_970,batch_2/6k_v_SBA3_2518_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.8900000000001
+6k_v_SBA3_2518_1-seg_400_360-414_660,batch_2/6k_v_SBA3_2518_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,14.300000000000068
+6k_v_SBA3_2518_1-seg_307_790-320_430,batch_2/6k_v_SBA3_2518_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,12.639999999999986
+6k_v_SBA3_2522_0-seg_152_510-156_180,batch_2/6k_v_SBA3_2522_0.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,3.670000000000016
+6k_v_SBA3_2522_0-seg_316_270-318_890,batch_2/6k_v_SBA3_2522_0.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.6200000000000045
+6k_v_SBA3_2522_0-seg_301_010-306_400,batch_2/6k_v_SBA3_2522_0.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,5.389999999999986
+6k_v_SBA3_2522_0-seg_118_760-126_700,batch_2/6k_v_SBA3_2522_0.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,7.939999999999998
+6k_v_SBA3_2522_0-seg_127_680-130_450,batch_2/6k_v_SBA3_2522_0.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.769999999999982
+6k_v_SBA3_2522_0-seg_335_080-338_910,batch_2/6k_v_SBA3_2522_0.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,3.830000000000041
+6k_v_SBA3_2530_2-seg_438_480-444_070,batch_2/6k_v_SBA3_2530_2.wav:Speaker1متحدث,SADA_NAJ,سباق المشاهدين,5.589999999999918
+6k_v_SBA3_2530_2-seg_592_420-594_480,batch_2/6k_v_SBA3_2530_2.wav:Speaker1متحدث,SADA_NAJ,سباق المشاهدين,2.059999999999945
+6k_v_SBA3_2530_2-seg_408_110-411_250,batch_2/6k_v_SBA3_2530_2.wav:Speaker1متحدث,SADA_NAJ,سباق المشاهدين,3.1399999999998727
+6k_v_SBA3_2530_2-seg_277_270-288_300,batch_2/6k_v_SBA3_2530_2.wav:Speaker1متحدث,SADA_NAJ,سباق المشاهدين,11.029999999999973
+6k_v_SBA3_2542_1-seg_17_200-25_120,batch_2/6k_v_SBA3_2542_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,7.919999999999959
+6k_v_SBA3_2542_1-seg_236_110-243_560,batch_2/6k_v_SBA3_2542_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,7.450000000000045
+6k_v_SBA3_2542_1-seg_183_300-186_010,batch_2/6k_v_SBA3_2542_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.7100000000000364
+6k_v_SBA3_2542_1-seg_578_850-585_320,batch_2/6k_v_SBA3_2542_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,6.470000000000027
+6k_v_SBA3_2542_1-seg_498_060-502_400,batch_2/6k_v_SBA3_2542_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.3400000000001455
+6k_v_SBA3_2542_1-seg_221_720-225_790,batch_2/6k_v_SBA3_2542_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.069999999999936
+6k_v_SBA3_2545_2-seg_84_260-98_760,batch_2/6k_v_SBA3_2545_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,14.5
+6k_v_SBA3_2545_2-seg_151_180-155_270,batch_2/6k_v_SBA3_2545_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.0900000000001455
+6k_v_SBA3_2545_2-seg_592_110-603_160,batch_2/6k_v_SBA3_2545_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,11.049999999999956
+6k_v_SBA3_2545_2-seg_337_250-343_960,batch_2/6k_v_SBA3_2545_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,6.710000000000036
+6k_v_SBA3_2545_2-seg_431_880-441_630,batch_2/6k_v_SBA3_2545_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,9.75
+6k_v_SBA3_2545_2-seg_200_850-203_780,batch_2/6k_v_SBA3_2545_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.930000000000064
+6k_v_SBA3_2546_1-seg_421_720-424_030,batch_2/6k_v_SBA3_2546_1.wav:Speaker2متحدث,SADA_NAJ,ضحى مع القصار,2.309999999999945
+6k_v_SBA3_2546_1-seg_598_770-601_830,batch_2/6k_v_SBA3_2546_1.wav:Speaker2متحدث,SADA_NAJ,ضحى مع القصار,3.060000000000173
+6k_v_SBA3_2546_1-seg_462_550-468_200,batch_2/6k_v_SBA3_2546_1.wav:Speaker2متحدث,SADA_NAJ,ضحى مع القصار,5.650000000000091
+6k_v_SBA3_2546_1-seg_9_720-13_420,batch_2/6k_v_SBA3_2546_1.wav:Speaker2متحدث,SADA_NAJ,ضحى مع القصار,3.7000000000000455
+6k_v_SBA3_2546_1-seg_197_810-200_200,batch_2/6k_v_SBA3_2546_1.wav:Speaker2متحدث,SADA_NAJ,ضحى مع القصار,2.3899999999999864
+6k_v_SBA3_2546_2-seg_103_290-105_350,batch_2/6k_v_SBA3_2546_2.wav:Speaker2متحدث,SADA_NAJ,ضحى مع القصار,2.059999999999945
+6k_v_SBA3_2546_2-seg_359_060-361_270,batch_2/6k_v_SBA3_2546_2.wav:Speaker2متحدث,SADA_NAJ,ضحى مع القصار,2.2100000000000364
+6k_v_SBA3_2546_2-seg_28_460-32_670,batch_2/6k_v_SBA3_2546_2.wav:Speaker2متحدث,SADA_NAJ,ضحى مع القصار,4.210000000000036
+6k_v_SBA3_2546_2-seg_157_670-159_690,batch_2/6k_v_SBA3_2546_2.wav:Speaker2متحدث,SADA_NAJ,ضحى مع القصار,2.019999999999982
+6k_v_SBA3_2546_2-seg_316_510-319_770,batch_2/6k_v_SBA3_2546_2.wav:Speaker2متحدث,SADA_NAJ,ضحى مع القصار,3.259999999999991
+6k_v_SBA3_2563_1-seg_277_170-283_050,batch_2/6k_v_SBA3_2563_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,5.879999999999996
+6k_v_SBA3_2563_1-seg_197_400-200_440,batch_2/6k_v_SBA3_2563_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,3.039999999999964
+6k_v_SBA3_2563_1-seg_505_810-516_440,batch_2/6k_v_SBA3_2563_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,10.63000000000011
+6k_v_SBA3_2563_1-seg_457_220-459_690,batch_2/6k_v_SBA3_2563_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.470000000000028
+6k_v_SBA3_2563_1-seg_290_810-297_630,batch_2/6k_v_SBA3_2563_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,6.819999999999937
+6k_v_SBA3_2563_1-seg_163_870-166_840,batch_2/6k_v_SBA3_2563_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.9700000000000286
+6k_v_SBA3_2563_1-seg_476_420-478_720,batch_2/6k_v_SBA3_2563_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.2999999999999545
+6k_v_SBA3_2563_2-seg_561_050-573_300,batch_2/6k_v_SBA3_2563_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,12.25
+6k_v_SBA3_2563_2-seg_495_270-498_960,batch_2/6k_v_SBA3_2563_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,3.690000000000056
+6k_v_SBA3_2563_2-seg_501_970-503_990,batch_2/6k_v_SBA3_2563_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.019999999999982
+6k_v_SBA3_2563_2-seg_5_660-8_970,batch_2/6k_v_SBA3_2563_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,3.3099999999999445
+6k_v_SBA3_2563_2-seg_94_910-101_900,batch_2/6k_v_SBA3_2563_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,6.990000000000008
+6k_v_SBA3_2566_1-seg_22_700-25_220,batch_2/6k_v_SBA3_2566_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.519999999999982
+6k_v_SBA3_2566_1-seg_352_230-358_260,batch_2/6k_v_SBA3_2566_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,6.030000000000086
+6k_v_SBA3_2566_1-seg_560_040-565_530,batch_2/6k_v_SBA3_2566_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,5.490000000000009
+6k_v_SBA3_2566_1-seg_256_120-259_100,batch_2/6k_v_SBA3_2566_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.9799999999999045
+6k_v_SBA3_2566_1-seg_94_020-105_920,batch_2/6k_v_SBA3_2566_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,11.899999999999975
+6k_v_SBA3_2568_2-seg_426_950-429_030,batch_2/6k_v_SBA3_2568_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.0800000000001546
+6k_v_SBA3_2568_2-seg_450_420-453_770,batch_2/6k_v_SBA3_2568_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,3.3500000000001364
+6k_v_SBA3_2568_2-seg_517_920-523_270,batch_2/6k_v_SBA3_2568_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,5.350000000000136
+6k_v_SBA3_2568_2-seg_218_890-221_080,batch_2/6k_v_SBA3_2568_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.1900000000000546
+6k_v_SBA3_2568_2-seg_559_890-563_880,batch_2/6k_v_SBA3_2568_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,3.990000000000009
+6k_v_SBA3_2568_2-seg_369_730-374_580,batch_2/6k_v_SBA3_2568_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.849999999999909
+6k_v_SBA3_2599_5-seg_297_640-303_850,batch_2/6k_v_SBA3_2599_5.wav:Speaker1متحدث,SADA_NAJ,سباق المشاهدين,6.210000000000036
+6k_v_SBA3_2599_5-seg_584_560-587_820,batch_2/6k_v_SBA3_2599_5.wav:Speaker1متحدث,SADA_NAJ,سباق المشاهدين,3.2600000000002183
+6k_v_SBA3_2599_5-seg_287_780-291_870,batch_2/6k_v_SBA3_2599_5.wav:Speaker1متحدث,SADA_NAJ,سباق المشاهدين,4.089999999999692
+6k_v_SBA3_2599_5-seg_520_340-525_000,batch_2/6k_v_SBA3_2599_5.wav:Speaker1متحدث,SADA_NAJ,سباق المشاهدين,4.659999999999855
+6k_v_SBA3_2599_5-seg_438_540-441_310,batch_2/6k_v_SBA3_2599_5.wav:Speaker1متحدث,SADA_NAJ,سباق المشاهدين,2.7699999999999823
+6k_v_SBA3_2599_5-seg_391_440-398_800,batch_2/6k_v_SBA3_2599_5.wav:Speaker1متحدث,SADA_NAJ,سباق المشاهدين,7.360000000000127
+6k_v_SBA3_2611_1-seg_462_630-464_770,batch_2/6k_v_SBA3_2611_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.1399999999998727
+6k_v_SBA3_2611_1-seg_36_190-38_720,batch_2/6k_v_SBA3_2611_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.5299999999999727
+6k_v_SBA3_2611_1-seg_579_410-591_957,batch_2/6k_v_SBA3_2611_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,12.546665563312558
+6k_v_SBA3_2611_1-seg_494_390-497_280,batch_2/6k_v_SBA3_2611_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.8899999999998727
+6k_v_SBA3_2611_1-seg_202_790-204_920,batch_2/6k_v_SBA3_2611_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.1299999999999955
+6k_v_SBA3_2611_1-seg_364_560-368_090,batch_2/6k_v_SBA3_2611_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,3.5299999999999727
+6k_v_SBA3_2611_3-seg_439_540-442_030,batch_2/6k_v_SBA3_2611_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.4900000000002365
+6k_v_SBA3_2611_3-seg_358_110-360_520,batch_2/6k_v_SBA3_2611_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.4099999999998545
+6k_v_SBA3_2611_3-seg_121_450-123_840,batch_2/6k_v_SBA3_2611_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.3900000000001
+6k_v_SBA3_2611_3-seg_415_780-424_140,batch_2/6k_v_SBA3_2611_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,8.359999999999673
+6k_v_SBA3_2611_3-seg_204_020-211_520,batch_2/6k_v_SBA3_2611_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,7.5
+6k_v_SBA3_2625_3-seg_329_410-333_080,batch_2/6k_v_SBA3_2625_3.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,3.6700000000000728
+6k_v_SBA3_2625_3-seg_200_257-203_980,batch_2/6k_v_SBA3_2625_3.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,3.7233333586693504
+6k_v_SBA3_2625_3-seg_241_050-250_380,batch_2/6k_v_SBA3_2625_3.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,9.329999999999927
+6k_v_SBA3_2625_3-seg_66_247-74_040,batch_2/6k_v_SBA3_2625_3.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,7.793333358669287
+6k_v_SBA3_2640_2-seg_245_300-258_430,batch_2/6k_v_SBA3_2640_2.wav:Speaker1متحدث,SADA_NAJ,ضحى مع القصار,13.13000000000011
+6k_v_SBA3_2640_2-seg_404_140-407_310,batch_2/6k_v_SBA3_2640_2.wav:Speaker1متحدث,SADA_NAJ,ضحى مع القصار,3.1699999999998454
+6k_v_SBA3_2640_2-seg_187_190-199_170,batch_2/6k_v_SBA3_2640_2.wav:Speaker1متحدث,SADA_NAJ,ضحى مع القصار,11.980000000000016
+6k_v_SBA3_2640_2-seg_316_770-321_910,batch_2/6k_v_SBA3_2640_2.wav:Speaker1متحدث,SADA_NAJ,ضحى مع القصار,5.140000000000099
+6k_v_SBA3_2640_2-seg_183_600-186_210,batch_2/6k_v_SBA3_2640_2.wav:Speaker1متحدث,SADA_NAJ,ضحى مع القصار,2.6099999999999
+6k_v_SBA3_2640_3-seg_212_930-216_860,batch_2/6k_v_SBA3_2640_3.wav:Speaker1متحدث,SADA_NAJ,ضحى مع القصار,3.9299999999998367
+6k_v_SBA3_2640_3-seg_176_900-179_920,batch_2/6k_v_SBA3_2640_3.wav:Speaker1متحدث,SADA_NAJ,ضحى مع القصار,3.0199999999999823
+6k_v_SBA3_2640_3-seg_532_610-535_500,batch_2/6k_v_SBA3_2640_3.wav:Speaker1متحدث,SADA_NAJ,ضحى مع القصار,2.8899999999998727
+6k_v_SBA3_2640_3-seg_255_850-265_730,batch_2/6k_v_SBA3_2640_3.wav:Speaker1متحدث,SADA_NAJ,ضحى مع القصار,9.879999999999654
+6k_v_SBA3_2647_2-seg_244_510-249_410,batch_2/6k_v_SBA3_2647_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.900000000000091
+6k_v_SBA3_2647_2-seg_572_910-575_940,batch_2/6k_v_SBA3_2647_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,3.0299999999999727
+6k_v_SBA3_2647_2-seg_510_630-516_000,batch_2/6k_v_SBA3_2647_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,5.369999999999891
+6k_v_SBA3_2647_2-seg_273_140-278_830,batch_2/6k_v_SBA3_2647_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,5.689999999999827
+6k_v_SBA3_2656_1-seg_201_990-214_550,batch_2/6k_v_SBA3_2656_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,12.56000000000006
+6k_v_SBA3_2656_1-seg_533_490-536_510,batch_2/6k_v_SBA3_2656_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,3.019999999999982
+6k_v_SBA3_2656_1-seg_549_930-554_090,batch_2/6k_v_SBA3_2656_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.160000000000082
+6k_v_SBA3_2656_1-seg_537_990-546_570,batch_2/6k_v_SBA3_2656_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,8.579999999999927
+6k_v_SBA3_2656_1-seg_120_640-123_660,batch_2/6k_v_SBA3_2656_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,3.019999999999982
+6k_v_SBA3_2656_1-seg_467_680-478_010,batch_2/6k_v_SBA3_2656_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,10.329999999999927
+6k_v_SBA3_2656_2-seg_85_900-88_380,batch_2/6k_v_SBA3_2656_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.480000000000018
+6k_v_SBA3_2656_2-seg_9_670-14_630,batch_2/6k_v_SBA3_2656_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.960000000000036
+6k_v_SBA3_2656_2-seg_494_080-503_970,batch_2/6k_v_SBA3_2656_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,9.8900000000001
+6k_v_SBA3_2656_2-seg_426_040-437_350,batch_2/6k_v_SBA3_2656_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,11.309999999999944
+6k_v_SBA3_2673_2-seg_560_350-564_760,batch_2/6k_v_SBA3_2673_2.wav:Speaker1متحدث,SADA_NAJ,سباق المشاهدين,4.410000000000082
+6k_v_SBA3_2673_2-seg_49_960-63_100,batch_2/6k_v_SBA3_2673_2.wav:Speaker1متحدث,SADA_NAJ,سباق المشاهدين,13.1400000000001
+6k_v_SBA3_2673_2-seg_523_390-530_950,batch_2/6k_v_SBA3_2673_2.wav:Speaker1متحدث,SADA_NAJ,سباق المشاهدين,7.559999999999945
+6k_v_SBA3_2673_2-seg_498_560-500_790,batch_2/6k_v_SBA3_2673_2.wav:Speaker1متحدث,SADA_NAJ,سباق المشاهدين,2.230000000000018
+6k_v_SBA3_2681_2-seg_352_400-356_550,batch_2/6k_v_SBA3_2681_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.149999999999864
+6k_v_SBA3_2681_2-seg_371_490-374_780,batch_2/6k_v_SBA3_2681_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,3.289999999999964
+6k_v_SBA3_2681_2-seg_340_980-343_630,batch_2/6k_v_SBA3_2681_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.650000000000091
+6k_v_SBA3_2681_2-seg_323_970-330_010,batch_2/6k_v_SBA3_2681_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,6.0399999999999645
+6k_v_SBA3_2681_2-seg_391_240-396_870,batch_2/6k_v_SBA3_2681_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,5.630000000000108
+6k_v_SBA3_2681_2-seg_404_690-409_870,batch_2/6k_v_SBA3_2681_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,5.180000000000063
+6k_v_SBA3_2708_2-seg_286_580-293_290,batch_2/6k_v_SBA3_2708_2.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,6.710000000000036
+6k_v_SBA3_2708_2-seg_131_100-134_140,batch_2/6k_v_SBA3_2708_2.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,3.040000000000191
+6k_v_SBA3_2708_2-seg_61_040-75_720,batch_2/6k_v_SBA3_2708_2.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,14.680000000000064
+6k_v_SBA3_2708_2-seg_294_280-306_040,batch_2/6k_v_SBA3_2708_2.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,11.759999999999993
+6k_v_SBA3_2708_2-seg_107_790-113_140,batch_2/6k_v_SBA3_2708_2.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,5.350000000000136
+6k_v_SBA3_2712_3-seg_29_870-34_710,batch_2/6k_v_SBA3_2712_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.839999999999918
+6k_v_SBA3_2712_3-seg_222_490-225_270,batch_2/6k_v_SBA3_2712_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.7799999999999727
+6k_v_SBA3_2712_3-seg_23_930-28_680,batch_2/6k_v_SBA3_2712_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.75
+6k_v_SBA3_2712_3-seg_591_070-593_090,batch_2/6k_v_SBA3_2712_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.019999999999982
+6k_v_SBA3_2729_2-seg_136_630-141_190,batch_2/6k_v_SBA3_2729_2.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,4.559999999999945
+6k_v_SBA3_2729_2-seg_190_530-194_630,batch_2/6k_v_SBA3_2729_2.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,4.100000000000136
+6k_v_SBA3_2729_2-seg_417_800-420_260,batch_2/6k_v_SBA3_2729_2.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,2.459999999999809
+6k_v_SBA3_2729_2-seg_173_440-179_230,batch_2/6k_v_SBA3_2729_2.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,5.789999999999964
+6k_v_SBA3_2729_2-seg_296_050-302_520,batch_2/6k_v_SBA3_2729_2.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,6.4699999999998
+6k_v_SBA3_2729_2-seg_462_000-466_860,batch_2/6k_v_SBA3_2729_2.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,4.860000000000127
+6k_v_SBA3_2732_1-seg_348_600-353_090,batch_2/6k_v_SBA3_2732_1.wav:Speaker1متحدث,SADA_NAJ,ضحى مع القصار,4.489999999999895
+6k_v_SBA3_2732_1-seg_205_720-210_880,batch_2/6k_v_SBA3_2732_1.wav:Speaker1متحدث,SADA_NAJ,ضحى مع القصار,5.159999999999968
+6k_v_SBA3_2732_1-seg_191_830-195_400,batch_2/6k_v_SBA3_2732_1.wav:Speaker1متحدث,SADA_NAJ,ضحى مع القصار,3.57000000000005
+6k_v_SBA3_2732_1-seg_510_570-519_300,batch_2/6k_v_SBA3_2732_1.wav:Speaker1متحدث,SADA_NAJ,ضحى مع القصار,8.730000000000018
+6k_v_SBA3_2732_1-seg_74_940-77_150,batch_2/6k_v_SBA3_2732_1.wav:Speaker1متحدث,SADA_NAJ,ضحى مع القصار,2.209996555273378
+6k_v_SBA3_2735_0-seg_474_300-480_580,batch_2/6k_v_SBA3_2735_0.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,6.279999999999973
+6k_v_SBA3_2735_0-seg_239_010-241_370,batch_2/6k_v_SBA3_2735_0.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.3600000000000136
+6k_v_SBA3_2735_0-seg_553_130-563_650,batch_2/6k_v_SBA3_2735_0.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,10.519999999999982
+6k_v_SBA3_2735_0-seg_166_810-170_020,batch_2/6k_v_SBA3_2735_0.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,3.210000000000008
+6k_v_SBA3_2735_2-seg_196_620-203_910,batch_2/6k_v_SBA3_2735_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,7.290000000000191
+6k_v_SBA3_2735_2-seg_329_220-342_340,batch_2/6k_v_SBA3_2735_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,13.11999999999989
+6k_v_SBA3_2735_2-seg_185_370-189_680,batch_2/6k_v_SBA3_2735_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.310000000000173
+6k_v_SBA3_2735_2-seg_473_430-486_510,batch_2/6k_v_SBA3_2735_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,13.079999999999927
+6k_v_SBA3_2742_1-seg_434_780-441_740,batch_2/6k_v_SBA3_2742_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,6.960000000000036
+6k_v_SBA3_2742_1-seg_203_410-213_350,batch_2/6k_v_SBA3_2742_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,9.940000000000056
+6k_v_SBA3_2742_1-seg_529_610-535_520,batch_2/6k_v_SBA3_2742_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,5.910000000000082
+6k_v_SBA3_2742_1-seg_168_990-177_200,batch_2/6k_v_SBA3_2742_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,8.210000000000036
+6k_v_SBA3_2742_2-seg_426_420-429_580,batch_2/6k_v_SBA3_2742_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,3.160000000000082
+6k_v_SBA3_2742_2-seg_307_130-313_260,batch_2/6k_v_SBA3_2742_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,6.130000000000109
+6k_v_SBA3_2742_2-seg_584_300-586_640,batch_2/6k_v_SBA3_2742_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.339999999999918
+6k_v_SBA3_2742_2-seg_287_800-297_470,batch_2/6k_v_SBA3_2742_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,9.669999999999844
+6k_v_SBA3_2742_2-seg_121_850-128_130,batch_2/6k_v_SBA3_2742_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,6.279999999999973
+6k_v_SBA3_2742_3-seg_31_380-37_170,batch_2/6k_v_SBA3_2742_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,5.789999999999964
+6k_v_SBA3_2742_3-seg_5_020-15_020,batch_2/6k_v_SBA3_2742_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,10.0
+6k_v_SBA3_2742_3-seg_582_970-587_380,batch_2/6k_v_SBA3_2742_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.410000000000309
+6k_v_SBA3_2742_3-seg_110_550-113_050,batch_2/6k_v_SBA3_2742_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.5
+6k_v_SBA3_2742_3-seg_38_280-40_990,batch_2/6k_v_SBA3_2742_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.7100000000000364
+6k_v_SBA3_2742_3-seg_317_050-319_690,batch_2/6k_v_SBA3_2742_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.6400000000003274
+6k_v_SBA3_2749_1-seg_420_010-422_130,batch_2/6k_v_SBA3_2749_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.119999999999891
+6k_v_SBA3_2749_1-seg_380_920-386_990,batch_2/6k_v_SBA3_2749_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,6.069999999999936
+6k_v_SBA3_2749_1-seg_28_500-40_190,batch_2/6k_v_SBA3_2749_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,11.690000000000056
+6k_v_SBA3_2749_1-seg_210_010-213_570,batch_2/6k_v_SBA3_2749_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,3.560000000000059
+6k_v_SBA3_2749_1-seg_552_640-564_770,batch_2/6k_v_SBA3_2749_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,12.13000000000011
+6k_v_SBA3_2749_1-seg_399_690-403_920,batch_2/6k_v_SBA3_2749_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.230000000000018
+6k_v_SBA3_2758_3-seg_4_440-14_620,batch_2/6k_v_SBA3_2758_3.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,10.180000000000064
+6k_v_SBA3_2758_3-seg_123_590-125_920,batch_2/6k_v_SBA3_2758_3.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,2.3300000000001546
+6k_v_SBA3_2758_3-seg_178_540-182_880,batch_2/6k_v_SBA3_2758_3.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,4.3400000000001455
+6k_v_SBA3_2758_3-seg_259_820-262_910,batch_2/6k_v_SBA3_2758_3.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,3.090000000000145
+6k_v_SBA3_2792_2-seg_354_360-356_560,batch_2/6k_v_SBA3_2792_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.199999999999818
+6k_v_SBA3_2792_2-seg_536_260-541_080,batch_2/6k_v_SBA3_2792_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.820000000000164
+6k_v_SBA3_2792_2-seg_406_320-411_550,batch_2/6k_v_SBA3_2792_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,5.230000000000018
+6k_v_SBA3_2792_2-seg_594_670-597_220,batch_2/6k_v_SBA3_2792_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.5499999999999545
+6k_v_SBA3_2792_2-seg_207_130-209_460,batch_2/6k_v_SBA3_2792_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.3299999999999272
+6k_v_SBA3_2792_2-seg_311_300-325_410,batch_2/6k_v_SBA3_2792_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,14.110000000000127
+6k_v_SBA3_2804_1-seg_268_250-272_800,batch_2/6k_v_SBA3_2804_1.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,4.550000000000068
+6k_v_SBA3_2804_1-seg_350_420-358_280,batch_2/6k_v_SBA3_2804_1.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,7.860000000000014
+6k_v_SBA3_2804_1-seg_570_470-580_510,batch_2/6k_v_SBA3_2804_1.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,10.039999999999964
+6k_v_SBA3_2804_1-seg_485_045-490_910,batch_2/6k_v_SBA3_2804_1.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,5.864706045003801
+6k_v_SBA3_2804_1-seg_442_840-445_610,batch_2/6k_v_SBA3_2804_1.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,2.7699999999999823
+6k_v_SBA3_2804_1-seg_498_000-508_370,batch_2/6k_v_SBA3_2804_1.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,10.370000000000118
+6k_v_SBA3_2804_1-seg_273_660-277_580,batch_2/6k_v_SBA3_2804_1.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,3.919999999999959
+6k_v_SBA3_2825_2-seg_431_980-434_650,batch_2/6k_v_SBA3_2825_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.6700000000000728
+6k_v_SBA3_2825_2-seg_278_070-282_650,batch_2/6k_v_SBA3_2825_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.579999999999927
+6k_v_SBA3_2825_2-seg_267_430-272_150,batch_2/6k_v_SBA3_2825_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.720000000000027
+6k_v_SBA3_2825_2-seg_399_080-406_920,batch_2/6k_v_SBA3_2825_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,7.839999999999918
+6k_v_SBA3_2838_1-seg_135_830-145_270,batch_2/6k_v_SBA3_2838_1.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,9.43999999999994
+6k_v_SBA3_2838_1-seg_93_580-101_080,batch_2/6k_v_SBA3_2838_1.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,7.5
+6k_v_SBA3_2838_1-seg_179_040-188_190,batch_2/6k_v_SBA3_2838_1.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,9.149999999999975
+6k_v_SBA3_2838_1-seg_43_510-46_320,batch_2/6k_v_SBA3_2838_1.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,2.809999999999945
+6k_v_SBA3_2840_4-seg_59_860-62_430,batch_2/6k_v_SBA3_2840_4.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.570000000000164
+6k_v_SBA3_2840_4-seg_141_150-148_130,batch_2/6k_v_SBA3_2840_4.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,6.980000000000018
+6k_v_SBA3_2840_4-seg_128_030-131_850,batch_2/6k_v_SBA3_2840_4.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,3.819999999999709
+6k_v_SBA3_2840_4-seg_103_060-105_550,batch_2/6k_v_SBA3_2840_4.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.4900000000002365
+6k_v_SBA3_2840_4-seg_40_740-46_490,batch_2/6k_v_SBA3_2840_4.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,5.75
+6k_v_SBA3_2849_0-seg_314_600-324_810,batch_2/6k_v_SBA3_2849_0.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,10.20999999999998
+6k_v_SBA3_2849_0-seg_495_390-498_840,batch_2/6k_v_SBA3_2849_0.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,3.4499999999999886
+6k_v_SBA3_2849_0-seg_138_710-146_670,batch_2/6k_v_SBA3_2849_0.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,7.9599999999999795
+6k_v_SBA3_2849_0-seg_422_660-434_790,batch_2/6k_v_SBA3_2849_0.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,12.129999999999995
+6k_v_SBA3_2849_0-seg_524_260-532_750,batch_2/6k_v_SBA3_2849_0.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,8.490000000000009
+6k_v_SBA3_2849_0-seg_546_860-549_260,batch_2/6k_v_SBA3_2849_0.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,2.3999999999999773
+6k_v_SBA3_2849_1-seg_489_070-491_950,batch_2/6k_v_SBA3_2849_1.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,2.8799999999998818
+6k_v_SBA3_2849_1-seg_558_550-565_600,batch_2/6k_v_SBA3_2849_1.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,7.0499999999999545
+6k_v_SBA3_2849_1-seg_248_510-255_370,batch_2/6k_v_SBA3_2849_1.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,6.860000000000014
+6k_v_SBA3_2849_1-seg_55_710-69_440,batch_2/6k_v_SBA3_2849_1.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,13.729999999999905
+6k_v_SBA3_2849_1-seg_330_870-334_380,batch_2/6k_v_SBA3_2849_1.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,3.509999999999991
+6k_v_SBA3_2849_2-seg_391_480-396_040,batch_2/6k_v_SBA3_2849_2.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,4.559999999999945
+6k_v_SBA3_2849_2-seg_111_540-115_340,batch_2/6k_v_SBA3_2849_2.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,3.7999999999999545
+6k_v_SBA3_2849_2-seg_432_490-440_880,batch_2/6k_v_SBA3_2849_2.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,8.389999999999873
+6k_v_SBA3_2849_2-seg_476_820-479_350,batch_2/6k_v_SBA3_2849_2.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,2.5299999999999727
+6k_v_SBA3_2853_2-seg_263_680-274_660,batch_2/6k_v_SBA3_2853_2.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,10.980000000000016
+6k_v_SBA3_2853_2-seg_223_640-226_830,batch_2/6k_v_SBA3_2853_2.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,3.189999999999827
+6k_v_SBA3_2853_2-seg_291_050-299_760,batch_2/6k_v_SBA3_2853_2.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,8.710000000000036
+6k_v_SBA3_2853_2-seg_457_130-460_900,batch_2/6k_v_SBA3_2853_2.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,3.769999999999982
+6k_v_SBA3_2853_2-seg_502_610-507_410,batch_2/6k_v_SBA3_2853_2.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,4.800000000000182
+6k_v_SBA3_2862_1-seg_571_560-574_320,batch_2/6k_v_SBA3_2862_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.7599999999999905
+6k_v_SBA3_2862_1-seg_436_410-442_890,batch_2/6k_v_SBA3_2862_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,6.480000000000018
+6k_v_SBA3_2862_1-seg_494_110-498_370,batch_2/6k_v_SBA3_2862_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.259999999999991
+6k_v_SBA3_2862_1-seg_105_300-109_620,batch_2/6k_v_SBA3_2862_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.319999999999936
+6k_v_SBA3_2862_1-seg_77_590-81_150,batch_2/6k_v_SBA3_2862_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,3.5600000000000582
+6k_v_SBA3_2870_1-seg_371_770-373_920,batch_2/6k_v_SBA3_2870_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.1499999999999773
+6k_v_SBA3_2870_1-seg_247_650-252_540,batch_2/6k_v_SBA3_2870_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.889999999999986
+6k_v_SBA3_2870_1-seg_284_070-288_890,batch_2/6k_v_SBA3_2870_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.82000000000005
+6k_v_SBA3_2870_1-seg_598_720-600_950,batch_2/6k_v_SBA3_2870_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.230000000000018
+6k_v_SBA3_2870_1-seg_80_150-82_250,batch_2/6k_v_SBA3_2870_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.1000000000000227
+6k_v_SBA3_2870_1-seg_439_500-442_890,batch_2/6k_v_SBA3_2870_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,3.3900000000001
+6k_v_SBA3_2873_0-seg_406_220-416_000,batch_2/6k_v_SBA3_2873_0.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,9.779999999999973
+6k_v_SBA3_2873_0-seg_350_760-356_670,batch_2/6k_v_SBA3_2873_0.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,5.910000000000025
+6k_v_SBA3_2873_0-seg_71_440-81_180,batch_2/6k_v_SBA3_2873_0.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,9.740000000000007
+6k_v_SBA3_2873_0-seg_258_830-260_910,batch_2/6k_v_SBA3_2873_0.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.080000000000041
+6k_v_SBA3_2873_3-seg_336_920-339_590,batch_2/6k_v_SBA3_2873_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.6700000000000728
+6k_v_SBA3_2873_3-seg_433_480-440_500,batch_2/6k_v_SBA3_2873_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,7.019999999999982
+6k_v_SBA3_2873_3-seg_50_160-54_940,batch_2/6k_v_SBA3_2873_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.779999999999973
+6k_v_SBA3_2873_3-seg_212_210-214_600,batch_2/6k_v_SBA3_2873_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.3899999999998727
+6k_v_SBA3_2873_3-seg_301_010-309_280,batch_2/6k_v_SBA3_2873_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,8.269999999999982
+6k_v_SBA3_2873_3-seg_472_540-479_550,batch_2/6k_v_SBA3_2873_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,7.009999999999764
+6k_v_SBA3_2873_3-seg_297_790-299_920,batch_2/6k_v_SBA3_2873_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.1299999999996544
+6k_v_SBA3_2873_3-seg_379_460-385_090,batch_2/6k_v_SBA3_2873_3.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,5.629999029168175
+6k_v_SBA3_2884_1-seg_46_990-49_480,batch_2/6k_v_SBA3_2884_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.490000000000009
+6k_v_SBA3_2884_1-seg_208_400-210_700,batch_2/6k_v_SBA3_2884_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.300000000000068
+6k_v_SBA3_2884_1-seg_50_290-52_460,batch_2/6k_v_SBA3_2884_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.1700000000000728
+6k_v_SBA3_2884_1-seg_589_170-595_080,batch_2/6k_v_SBA3_2884_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,5.909999999999855
+6k_v_SBA3_2884_1-seg_354_010-359_610,batch_2/6k_v_SBA3_2884_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,5.600000000000023
+6k_v_SBA3_2889_1-seg_581_500-584_010,batch_2/6k_v_SBA3_2889_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.509999999999991
+6k_v_SBA3_2889_1-seg_444_620-451_130,batch_2/6k_v_SBA3_2889_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,6.509999999999991
+6k_v_SBA3_2889_1-seg_250_820-255_260,batch_2/6k_v_SBA3_2889_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.440000000000055
+6k_v_SBA3_2889_1-seg_236_840-239_560,batch_2/6k_v_SBA3_2889_1.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.720000000000028
+6k_v_SBA3_2916_1-seg_141_510-145_810,batch_2/6k_v_SBA3_2916_1.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,4.2999999999999545
+6k_v_SBA3_2916_1-seg_37_860-47_410,batch_2/6k_v_SBA3_2916_1.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,9.550000000000068
+6k_v_SBA3_2916_1-seg_383_120-395_670,batch_2/6k_v_SBA3_2916_1.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,12.549999999999956
+6k_v_SBA3_2916_1-seg_136_080-139_550,batch_2/6k_v_SBA3_2916_1.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,3.470000000000028
+6k_v_SBA3_2916_1-seg_21_980-24_480,batch_2/6k_v_SBA3_2916_1.wav:Speaker1متحدث,SADA_NAJ,شي قورميه,2.5
+6k_v_SBA3_2922_2-seg_229_590-234_250,batch_2/6k_v_SBA3_2922_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,4.660000000000082
+6k_v_SBA3_2922_2-seg_20_250-22_730,batch_2/6k_v_SBA3_2922_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.479999999999791
+6k_v_SBA3_2922_2-seg_585_210-587_740,batch_2/6k_v_SBA3_2922_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.5299999999999727
+6k_v_SBA3_2922_2-seg_291_370-293_540,batch_2/6k_v_SBA3_2922_2.wav:Speaker1متحدث,SADA_NAJ,مطبخ ضحى,2.1700000000000728
+6k_v_SBA_1087_1-seg_567_330-570_590,batch_3/6k_v_SBA_1087_1.wav:Speaker2متحدث,SADA_NAJ,طاش ما طاش,3.259999999999991
+6k_v_SBA_1087_1-seg_242_620-245_140,batch_3/6k_v_SBA_1087_1.wav:Speaker2متحدث,SADA_NAJ,طاش ما طاش,2.519999999999982
+6k_v_SBA_1087_1-seg_89_560-95_980,batch_3/6k_v_SBA_1087_1.wav:Speaker2متحدث,SADA_NAJ,طاش ما طاش,6.420000000000073
+6k_v_SBA_1087_1-seg_219_790-221_930,batch_3/6k_v_SBA_1087_1.wav:Speaker2متحدث,SADA_NAJ,طاش ما طاش,2.1399999999999864
+6k_v_SBA_1290_1-seg_332_370-335_163,batch_3/6k_v_SBA_1290_1.wav:Speaker1متحدث,SADA_NAJ,طاش ما طاش,2.7933337730815424
+6k_v_SBA_1290_1-seg_107_610-110_340,batch_3/6k_v_SBA_1290_1.wav:Speaker1متحدث,SADA_NAJ,طاش ما طاش,2.7300000000000177
+6k_v_SBA_1290_1-seg_249_969-260_040,batch_3/6k_v_SBA_1290_1.wav:Speaker1متحدث,SADA_NAJ,طاش ما طاش,10.071428357244514
+6k_v_SBA_1290_1-seg_325_080-331_257,batch_3/6k_v_SBA_1290_1.wav:Speaker1متحدث,SADA_NAJ,طاش ما طاش,6.176668865407407
+6k_v_SBA_1290_1-seg_341_710-348_220,batch_3/6k_v_SBA_1290_1.wav:Speaker1متحدث,SADA_NAJ,طاش ما طاش,6.509999999999991
+6k_v_SBA_1527_1-seg_305_229-309_354,batch_3/6k_v_SBA_1527_1.wav:Speaker5متحدث,SADA_NAJ,طاش ما طاش,4.124973294608766
+6k_v_SBA_1527_1-seg_560_660-563_997,batch_3/6k_v_SBA_1527_1.wav:Speaker5متحدث,SADA_NAJ,طاش ما طاش,3.337478392910725
+6k_v_SBA_1527_1-seg_570_640-577_770,batch_3/6k_v_SBA_1527_1.wav:Speaker5متحدث,SADA_NAJ,طاش ما طاش,7.13000873994622
+6k_v_SBA_1527_1-seg_330_360-332_528,batch_3/6k_v_SBA_1527_1.wav:Speaker5متحدث,SADA_NAJ,طاش ما طاش,2.167539385427972
+6k_v_SBA_1527_1-seg_481_473-489_920,batch_3/6k_v_SBA_1527_1.wav:Speaker5متحدث,SADA_NAJ,طاش ما طاش,8.447460265615177
+6k_v_SBA_1635_2-seg_243_950-246_689,batch_3/6k_v_SBA_1635_2.wav:Speaker6متحدث,SADA_NAJ,طعم الأيام,2.738751746159835
+6k_v_SBA_1635_2-seg_62_460-65_970,batch_3/6k_v_SBA_1635_2.wav:Speaker3متحدث,SADA_NAJ,طعم الأيام,3.509999999999991
+6k_v_SBA_1635_2-seg_16_190-22_130,batch_3/6k_v_SBA_1635_2.wav:Speaker3متحدث,SADA_NAJ,طعم الأيام,5.939999999999827
+6k_v_SBA_1635_2-seg_295_870-298_110,batch_3/6k_v_SBA_1635_2.wav:Speaker6متحدث,SADA_NAJ,طعم الأيام,2.240000000000009
+6k_v_SBA_1635_2-seg_29_980-34_030,batch_3/6k_v_SBA_1635_2.wav:Speaker3متحدث,SADA_NAJ,طعم الأيام,4.0499999999999545
+6k_v_SBA_1635_2-seg_551_460-554_940,batch_3/6k_v_SBA_1635_2.wav:Speaker6متحدث,SADA_NAJ,طعم الأيام,3.4800000000000177
+6k_v_SBA_1635_2-seg_227_005-231_750,batch_3/6k_v_SBA_1635_2.wav:Speaker6متحدث,SADA_NAJ,طعم الأيام,4.744995296058875
+6k_v_SBA_1635_2-seg_44_550-46_570,batch_3/6k_v_SBA_1635_2.wav:Speaker3متحدث,SADA_NAJ,طعم الأيام,2.019999999999982
+6k_v_SBA_1759_2-seg_394_840-397_370,batch_3/6k_v_SBA_1759_2.wav:Speaker1متحدث,SADA_NAJ,وجه بن فهرة,2.5299999999999727
+6k_v_SBA_1759_2-seg_359_550-365_676,batch_3/6k_v_SBA_1759_2.wav:Speaker1متحدث,SADA_NAJ,وجه بن فهرة,6.12570925849775
+6k_v_SBA_1759_2-seg_37_320-40_420,batch_3/6k_v_SBA_1759_2.wav:Speaker1متحدث,SADA_NAJ,وجه بن فهرة,3.100010896381626
+6k_v_SBA_1759_2-seg_26_100-28_430,batch_3/6k_v_SBA_1759_2.wav:Speaker1متحدث,SADA_NAJ,وجه بن فهرة,2.3299891036184803
+6k_v_SBA_33_2-seg_597_330-600_700,batch_4/6k_v_SBA_33_2.wav:Speaker1متحدث,SADA_NAJ,طاش ما طاش,3.3700000000001182
+6k_v_SBA_33_2-seg_139_360-148_950,batch_4/6k_v_SBA_33_2.wav:Speaker1متحدث,SADA_NAJ,طاش ما طاش,9.590000000000146
+6k_v_SBA_33_2-seg_102_840-106_200,batch_4/6k_v_SBA_33_2.wav:Speaker1متحدث,SADA_NAJ,طاش ما طاش,3.360000000000128
+6k_v_SBA_33_2-seg_2_640-8_430,batch_4/6k_v_SBA_33_2.wav:Speaker1متحدث,SADA_NAJ,طاش ما طاش,5.789999999999964
+6k_v_SBA_680_0-seg_456_520-463_340,batch_4/6k_v_SBA_680_0.wav:Speaker1متحدث,SADA_NAJ,طاش ما طاش,6.819999999999993
+6k_v_SBA_680_0-seg_366_490-376_480,batch_4/6k_v_SBA_680_0.wav:Speaker1متحدث,SADA_NAJ,طاش ما طاش,9.990000000000007
+6k_v_SBA_680_0-seg_137_130-143_960,batch_4/6k_v_SBA_680_0.wav:Speaker1متحدث,SADA_NAJ,طاش ما طاش,6.8300000000000125
+6k_v_SBA_680_0-seg_147_980-153_870,batch_4/6k_v_SBA_680_0.wav:Speaker1متحدث,SADA_NAJ,طاش ما طاش,5.890000000000015

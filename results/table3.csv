@@ -1,0 +1,5 @@
+﻿corpus_subset,repr,increment,interval_or_spread,folds
+AYDID,acoustic,+0.018,[-0.003, +0.038],13/20
+AYDID,WavLM,+0.040,[+0.007, +0.074],16/20
+AYDID,XLS-R,+0.039,[+0.006, +0.071],16/20
+SADA_S_rebalanced,acoustic,+0.301,+-0.016 over 5 subsamples,19-20/20

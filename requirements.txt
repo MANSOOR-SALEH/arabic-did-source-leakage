@@ -1,0 +1,12 @@
+numpy>=1.24
+scipy>=1.10
+pandas>=2.0
+scikit-learn>=1.3
+librosa>=0.10
+soundfile>=0.12
+matplotlib>=3.7
+tqdm>=4.65
+torch>=2.0
+transformers>=4.35
+webrtcvad>=2.0.10
+silero-vad>=4.0

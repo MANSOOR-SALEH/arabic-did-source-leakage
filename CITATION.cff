@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "If you use this code or the released fold definitions, please cite the paper and this repository."
+title: "Recording-Source Bias in Arabic Dialect Identification"
+abstract: >-
+  Code, manifests and fold definitions for measuring recording-source
+  effects in Arabic dialect identification, and for reproducing every
+  table and figure in the accompanying paper.
+authors:
+  - family-names: "Ba Mahel"
+    given-names: "Mansoor S. M."
+    affiliation: "Tianjin University"
+  - family-names: "Wei"
+    given-names: "Jianguo"
+    affiliation: "Tianjin University"
+  - family-names: "Yue"
+    given-names: "Xianghu"
+    affiliation: "Tianjin University"
+  - family-names: "Awn"
+    given-names: "Norah Saeed"
+    affiliation: "Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences"
+  - family-names: "Bamahel"
+    given-names: "Abdulaziz S."
+    affiliation: "Jiamusi University"
+license: MIT
+repository-code: "https://github.com/MANSOOR-SALEH/arabic-did-source-leakage"
+keywords:
+  - Arabic dialect identification
+  - evaluation protocols
+  - dataset bias
+  - shortcut learning
+  - self-supervised speech representations
+version: "1.0.0"
+date-released: "2026-09-17"
