@@ -3,7 +3,7 @@
 Code, manifests, and fold definitions for reproducing every value reported in
 the paper.
 
-Mansoor S. M. Ba Mahela,*, Wei Jianguoa, Xianghu Yuea, Norah Saeed Awnb, Abdulaziz S. Bamahelc
+Mansoor S. M. Ba Mahel,*, Wei Jianguoa, Xianghu Yuea, Norah Saeed Awnb, Abdulaziz S. Bamahelc
 Submitted to *Speech Communication*.
 
 ---
